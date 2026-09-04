@@ -1,0 +1,10 @@
+﻿check,value,status,note
+source_rows,964,pass,Original match row count preserved.
+match_columns,27,pass,Cleaned match-level fields added for dashboard use.
+team_long_rows,1928,pass,Two team rows per match.
+goal_scorer_rows,2664,info,Parsed from comma-delimited scorer fields.
+duplicate_match_ids,0,pass,Should be zero.
+unparsed_match_dates,0,pass,Should be zero.
+missing_home_scorers,214,info,Expected for scoreless home teams.
+missing_away_scorers,351,info,Expected for scoreless away teams.
+remaining_bad_text_markers,0,pass,Counts replacement-character and question-mark artifacts after cleanup.

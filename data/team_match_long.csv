@@ -1,0 +1,1929 @@
+﻿match_id,wc_year,match_date,stage,stage_group,host_country,team,opponent,home_away,goals_for,goals_against,goal_difference,penalties_for,penalties_against,result_final,points,attendance
+2014-0001,2014,2014-06-24,Group stage,Group,Brazil,Costa Rica,England,Home,0,0,0,0,0,Draw,1,57823
+2014-0001,2014,2014-06-24,Group stage,Group,Brazil,England,Costa Rica,Away,0,0,0,0,0,Draw,1,57823
+2018-0002,2018,2018-07-01,Round of 16,Knockout,Russia,Spain,Russia,Home,1,1,0,3,4,Loss on penalties,0,78011
+2018-0002,2018,2018-07-01,Round of 16,Knockout,Russia,Russia,Spain,Away,1,1,0,4,3,Win on penalties,3,78011
+2018-0003,2018,2018-07-01,Round of 16,Knockout,Russia,Croatia,Denmark,Home,1,1,0,3,2,Win on penalties,3,40851
+2018-0003,2018,2018-07-01,Round of 16,Knockout,Russia,Denmark,Croatia,Away,1,1,0,2,3,Loss on penalties,0,40851
+2018-0004,2018,2018-06-30,Round of 16,Knockout,Russia,France,Argentina,Home,4,3,1,0,0,Win,3,42873
+2018-0004,2018,2018-06-30,Round of 16,Knockout,Russia,Argentina,France,Away,3,4,-1,0,0,Loss,0,42873
+2018-0005,2018,2018-06-30,Round of 16,Knockout,Russia,Uruguay,Portugal,Home,2,1,1,0,0,Win,3,44287
+2018-0005,2018,2018-06-30,Round of 16,Knockout,Russia,Portugal,Uruguay,Away,1,2,-1,0,0,Loss,0,44287
+2018-0006,2018,2018-06-28,Group stage,Group,Russia,Japan,Poland,Home,0,1,-1,0,0,Loss,0,42189
+2018-0006,2018,2018-06-28,Group stage,Group,Russia,Poland,Japan,Away,1,0,1,0,0,Win,3,42189
+2018-0007,2018,2018-06-28,Group stage,Group,Russia,Senegal,Colombia,Home,0,1,-1,0,0,Loss,0,41970
+2018-0007,2018,2018-06-28,Group stage,Group,Russia,Colombia,Senegal,Away,1,0,1,0,0,Win,3,41970
+2018-0008,2018,2018-06-28,Group stage,Group,Russia,England,Belgium,Home,0,1,-1,0,0,Loss,0,33973
+2018-0008,2018,2018-06-28,Group stage,Group,Russia,Belgium,England,Away,1,0,1,0,0,Win,3,33973
+2018-0009,2018,2018-06-28,Group stage,Group,Russia,Panama,Tunisia,Home,1,2,-1,0,0,Loss,0,37168
+2018-0009,2018,2018-06-28,Group stage,Group,Russia,Tunisia,Panama,Away,2,1,1,0,0,Win,3,37168
+2018-0010,2018,2018-06-27,Group stage,Group,Russia,Korea Republic,Germany,Home,2,0,2,0,0,Win,3,41835
+2018-0010,2018,2018-06-27,Group stage,Group,Russia,Germany,Korea Republic,Away,0,2,-2,0,0,Loss,0,41835
+2018-0011,2018,2018-06-27,Group stage,Group,Russia,Mexico,Sweden,Home,0,3,-3,0,0,Loss,0,33061
+2018-0011,2018,2018-06-27,Group stage,Group,Russia,Sweden,Mexico,Away,3,0,3,0,0,Win,3,33061
+2018-0012,2018,2018-06-27,Group stage,Group,Russia,Switzerland,Costa Rica,Home,2,2,0,0,0,Draw,1,43319
+2018-0012,2018,2018-06-27,Group stage,Group,Russia,Costa Rica,Switzerland,Away,2,2,0,0,0,Draw,1,43319
+2018-0013,2018,2018-06-27,Group stage,Group,Russia,Serbia,Brazil,Home,0,2,-2,0,0,Loss,0,44190
+2018-0013,2018,2018-06-27,Group stage,Group,Russia,Brazil,Serbia,Away,2,0,2,0,0,Win,3,44190
+2018-0014,2018,2018-06-26,Group stage,Group,Russia,Australia,Peru,Home,0,2,-2,0,0,Loss,0,44073
+2018-0014,2018,2018-06-26,Group stage,Group,Russia,Peru,Australia,Away,2,0,2,0,0,Win,3,44073
+2018-0015,2018,2018-06-26,Group stage,Group,Russia,Denmark,France,Home,0,0,0,0,0,Draw,1,78011
+2018-0015,2018,2018-06-26,Group stage,Group,Russia,France,Denmark,Away,0,0,0,0,0,Draw,1,78011
+2018-0016,2018,2018-06-26,Group stage,Group,Russia,Iceland,Croatia,Home,1,2,-1,0,0,Loss,0,43472
+2018-0016,2018,2018-06-26,Group stage,Group,Russia,Croatia,Iceland,Away,2,1,1,0,0,Win,3,43472
+2018-0017,2018,2018-06-26,Group stage,Group,Russia,Nigeria,Argentina,Home,1,2,-1,0,0,Loss,0,64468
+2018-0017,2018,2018-06-26,Group stage,Group,Russia,Argentina,Nigeria,Away,2,1,1,0,0,Win,3,64468
+2018-0018,2018,2018-06-25,Group stage,Group,Russia,Saudi Arabia,Egypt,Home,2,1,1,0,0,Win,3,36823
+2018-0018,2018,2018-06-25,Group stage,Group,Russia,Egypt,Saudi Arabia,Away,1,2,-1,0,0,Loss,0,36823
+2018-0019,2018,2018-06-25,Group stage,Group,Russia,Uruguay,Russia,Home,3,0,3,0,0,Win,3,41970
+2018-0019,2018,2018-06-25,Group stage,Group,Russia,Russia,Uruguay,Away,0,3,-3,0,0,Loss,0,41970
+2018-0020,2018,2018-06-25,Group stage,Group,Russia,Spain,Morocco,Home,2,2,0,0,0,Draw,1,33973
+2018-0020,2018,2018-06-25,Group stage,Group,Russia,Morocco,Spain,Away,2,2,0,0,0,Draw,1,33973
+2018-0021,2018,2018-06-25,Group stage,Group,Russia,IR Iran,Portugal,Home,1,1,0,0,0,Draw,1,41685
+2018-0021,2018,2018-06-25,Group stage,Group,Russia,Portugal,IR Iran,Away,1,1,0,0,0,Draw,1,41685
+2018-0022,2018,2018-06-24,Group stage,Group,Russia,England,Panama,Home,6,1,5,0,0,Win,3,43319
+2018-0022,2018,2018-06-24,Group stage,Group,Russia,Panama,England,Away,1,6,-5,0,0,Loss,0,43319
+2018-0023,2018,2018-06-24,Group stage,Group,Russia,Japan,Senegal,Home,2,2,0,0,0,Draw,1,32572
+2018-0023,2018,2018-06-24,Group stage,Group,Russia,Senegal,Japan,Away,2,2,0,0,0,Draw,1,32572
+2018-0024,2018,2018-06-24,Group stage,Group,Russia,Poland,Colombia,Home,0,3,-3,0,0,Loss,0,42873
+2018-0024,2018,2018-06-24,Group stage,Group,Russia,Colombia,Poland,Away,3,0,3,0,0,Win,3,42873
+2018-0025,2018,2018-06-23,Group stage,Group,Russia,Belgium,Tunisia,Home,5,2,3,0,0,Win,3,44190
+2018-0025,2018,2018-06-23,Group stage,Group,Russia,Tunisia,Belgium,Away,2,5,-3,0,0,Loss,0,44190
+2022-0026,2022,2022-12-18,Final,Final,Qatar,Argentina,France,Home,3,3,0,4,2,Win on penalties,3,88966
+2022-0026,2022,2022-12-18,Final,Final,Qatar,France,Argentina,Away,3,3,0,2,4,Loss on penalties,0,88966
+2018-0027,2018,2018-06-23,Group stage,Group,Russia,Korea Republic,Mexico,Home,1,2,-1,0,0,Loss,0,43472
+2018-0027,2018,2018-06-23,Group stage,Group,Russia,Mexico,Korea Republic,Away,2,1,1,0,0,Win,3,43472
+2018-0028,2018,2018-06-23,Group stage,Group,Russia,Germany,Sweden,Home,2,1,1,0,0,Win,3,44287
+2018-0028,2018,2018-06-23,Group stage,Group,Russia,Sweden,Germany,Away,1,2,-1,0,0,Loss,0,44287
+2018-0029,2018,2018-06-22,Group stage,Group,Russia,Brazil,Costa Rica,Home,2,0,2,0,0,Win,3,64468
+2018-0029,2018,2018-06-22,Group stage,Group,Russia,Costa Rica,Brazil,Away,0,2,-2,0,0,Loss,0,64468
+2022-0030,2022,2022-12-17,Third-place match,Placement,Qatar,Croatia,Morocco,Home,2,1,1,0,0,Win,3,44137
+2022-0030,2022,2022-12-17,Third-place match,Placement,Qatar,Morocco,Croatia,Away,1,2,-1,0,0,Loss,0,44137
+2018-0031,2018,2018-06-22,Group stage,Group,Russia,Nigeria,Iceland,Home,2,0,2,0,0,Win,3,40904
+2018-0031,2018,2018-06-22,Group stage,Group,Russia,Iceland,Nigeria,Away,0,2,-2,0,0,Loss,0,40904
+2018-0032,2018,2018-06-22,Group stage,Group,Russia,Serbia,Switzerland,Home,1,2,-1,0,0,Loss,0,33167
+2018-0032,2018,2018-06-22,Group stage,Group,Russia,Switzerland,Serbia,Away,2,1,1,0,0,Win,3,33167
+2018-0033,2018,2018-06-21,Group stage,Group,Russia,Denmark,Australia,Home,1,1,0,0,0,Draw,1,40727
+2018-0033,2018,2018-06-21,Group stage,Group,Russia,Australia,Denmark,Away,1,1,0,0,0,Draw,1,40727
+2022-0034,2022,2022-12-14,Semi-finals,Knockout,Qatar,France,Morocco,Home,2,0,2,0,0,Win,3,68294
+2022-0034,2022,2022-12-14,Semi-finals,Knockout,Qatar,Morocco,France,Away,0,2,-2,0,0,Loss,0,68294
+2018-0035,2018,2018-06-21,Group stage,Group,Russia,France,Peru,Home,1,0,1,0,0,Win,3,32789
+2018-0035,2018,2018-06-21,Group stage,Group,Russia,Peru,France,Away,0,1,-1,0,0,Loss,0,32789
+2018-0036,2018,2018-06-21,Group stage,Group,Russia,Argentina,Croatia,Home,0,3,-3,0,0,Loss,0,43319
+2018-0036,2018,2018-06-21,Group stage,Group,Russia,Croatia,Argentina,Away,3,0,3,0,0,Win,3,43319
+2018-0037,2018,2018-06-20,Group stage,Group,Russia,Portugal,Morocco,Home,1,0,1,0,0,Win,3,78011
+2018-0037,2018,2018-06-20,Group stage,Group,Russia,Morocco,Portugal,Away,0,1,-1,0,0,Loss,0,78011
+2018-0038,2018,2018-06-20,Group stage,Group,Russia,Uruguay,Saudi Arabia,Home,1,0,1,0,0,Win,3,42678
+2018-0038,2018,2018-06-20,Group stage,Group,Russia,Saudi Arabia,Uruguay,Away,0,1,-1,0,0,Loss,0,42678
+2022-0039,2022,2022-12-13,Semi-finals,Knockout,Qatar,Argentina,Croatia,Home,3,0,3,0,0,Win,3,88966
+2022-0039,2022,2022-12-13,Semi-finals,Knockout,Qatar,Croatia,Argentina,Away,0,3,-3,0,0,Loss,0,88966
+2010-0040,2010,2010-06-21,Group stage,Group,South Africa,Spain,Honduras,Home,2,0,2,0,0,Win,3,54386
+2010-0040,2010,2010-06-21,Group stage,Group,South Africa,Honduras,Spain,Away,0,2,-2,0,0,Loss,0,54386
+2022-0041,2022,2022-12-10,Quarter-finals,Knockout,Qatar,Morocco,Portugal,Home,1,0,1,0,0,Win,3,44198
+2022-0041,2022,2022-12-10,Quarter-finals,Knockout,Qatar,Portugal,Morocco,Away,0,1,-1,0,0,Loss,0,44198
+2022-0042,2022,2022-12-10,Quarter-finals,Knockout,Qatar,England,France,Home,1,2,-1,0,0,Loss,0,68895
+2022-0042,2022,2022-12-10,Quarter-finals,Knockout,Qatar,France,England,Away,2,1,1,0,0,Win,3,68895
+2022-0043,2022,2022-12-09,Quarter-finals,Knockout,Qatar,Croatia,Brazil,Home,1,1,0,4,2,Win on penalties,3,43893
+2022-0043,2022,2022-12-09,Quarter-finals,Knockout,Qatar,Brazil,Croatia,Away,1,1,0,2,4,Loss on penalties,0,43893
+2022-0044,2022,2022-12-09,Quarter-finals,Knockout,Qatar,Netherlands,Argentina,Home,2,2,0,3,4,Loss on penalties,0,88235
+2022-0044,2022,2022-12-09,Quarter-finals,Knockout,Qatar,Argentina,Netherlands,Away,2,2,0,4,3,Win on penalties,3,88235
+2022-0045,2022,2022-12-06,Round of 16,Knockout,Qatar,Morocco,Spain,Home,0,0,0,3,0,Win on penalties,3,44667
+2022-0045,2022,2022-12-06,Round of 16,Knockout,Qatar,Spain,Morocco,Away,0,0,0,0,3,Loss on penalties,0,44667
+2022-0046,2022,2022-12-06,Round of 16,Knockout,Qatar,Portugal,Switzerland,Home,6,1,5,0,0,Win,3,83720
+2022-0046,2022,2022-12-06,Round of 16,Knockout,Qatar,Switzerland,Portugal,Away,1,6,-5,0,0,Loss,0,83720
+2022-0047,2022,2022-12-05,Round of 16,Knockout,Qatar,Japan,Croatia,Home,1,1,0,1,3,Loss on penalties,0,42523
+2022-0047,2022,2022-12-05,Round of 16,Knockout,Qatar,Croatia,Japan,Away,1,1,0,3,1,Win on penalties,3,42523
+2022-0048,2022,2022-12-05,Round of 16,Knockout,Qatar,Brazil,Korea Republic,Home,4,1,3,0,0,Win,3,43847
+2022-0048,2022,2022-12-05,Round of 16,Knockout,Qatar,Korea Republic,Brazil,Away,1,4,-3,0,0,Loss,0,43847
+2022-0049,2022,2022-12-04,Round of 16,Knockout,Qatar,France,Poland,Home,3,1,2,0,0,Win,3,40989
+2022-0049,2022,2022-12-04,Round of 16,Knockout,Qatar,Poland,France,Away,1,3,-2,0,0,Loss,0,40989
+2022-0050,2022,2022-12-04,Round of 16,Knockout,Qatar,England,Senegal,Home,3,0,3,0,0,Win,3,65985
+2022-0050,2022,2022-12-04,Round of 16,Knockout,Qatar,Senegal,England,Away,0,3,-3,0,0,Loss,0,65985
+2022-0051,2022,2022-12-03,Round of 16,Knockout,Qatar,Netherlands,United States,Home,3,1,2,0,0,Win,3,44846
+2022-0051,2022,2022-12-03,Round of 16,Knockout,Qatar,United States,Netherlands,Away,1,3,-2,0,0,Loss,0,44846
+2022-0052,2022,2022-12-03,Round of 16,Knockout,Qatar,Argentina,Australia,Home,2,1,1,0,0,Win,3,45032
+2022-0052,2022,2022-12-03,Round of 16,Knockout,Qatar,Australia,Argentina,Away,1,2,-1,0,0,Loss,0,45032
+2022-0053,2022,2022-12-02,Group stage,Group,Qatar,Korea Republic,Portugal,Home,2,1,1,0,0,Win,3,44097
+2022-0053,2022,2022-12-02,Group stage,Group,Qatar,Portugal,Korea Republic,Away,1,2,-1,0,0,Loss,0,44097
+2022-0054,2022,2022-12-02,Group stage,Group,Qatar,Ghana,Uruguay,Home,0,2,-2,0,0,Loss,0,43443
+2022-0054,2022,2022-12-02,Group stage,Group,Qatar,Uruguay,Ghana,Away,2,0,2,0,0,Win,3,43443
+2022-0055,2022,2022-12-02,Group stage,Group,Qatar,Cameroon,Brazil,Home,1,0,1,0,0,Win,3,85986
+2022-0055,2022,2022-12-02,Group stage,Group,Qatar,Brazil,Cameroon,Away,0,1,-1,0,0,Loss,0,85986
+2022-0056,2022,2022-12-02,Group stage,Group,Qatar,Serbia,Switzerland,Home,2,3,-1,0,0,Loss,0,41378
+2022-0056,2022,2022-12-02,Group stage,Group,Qatar,Switzerland,Serbia,Away,3,2,1,0,0,Win,3,41378
+2022-0057,2022,2022-12-01,Group stage,Group,Qatar,Canada,Morocco,Home,1,2,-1,0,0,Loss,0,43102
+2022-0057,2022,2022-12-01,Group stage,Group,Qatar,Morocco,Canada,Away,2,1,1,0,0,Win,3,43102
+2022-0058,2022,2022-12-01,Group stage,Group,Qatar,Croatia,Belgium,Home,0,0,0,0,0,Draw,1,43984
+2022-0058,2022,2022-12-01,Group stage,Group,Qatar,Belgium,Croatia,Away,0,0,0,0,0,Draw,1,43984
+2022-0059,2022,2022-12-01,Group stage,Group,Qatar,Costa Rica,Germany,Home,2,4,-2,0,0,Loss,0,67054
+2022-0059,2022,2022-12-01,Group stage,Group,Qatar,Germany,Costa Rica,Away,4,2,2,0,0,Win,3,67054
+2022-0060,2022,2022-12-01,Group stage,Group,Qatar,Japan,Spain,Home,2,1,1,0,0,Win,3,44851
+2022-0060,2022,2022-12-01,Group stage,Group,Qatar,Spain,Japan,Away,1,2,-1,0,0,Loss,0,44851
+2022-0061,2022,2022-11-30,Group stage,Group,Qatar,Australia,Denmark,Home,1,0,1,0,0,Win,3,41232
+2022-0061,2022,2022-11-30,Group stage,Group,Qatar,Denmark,Australia,Away,0,1,-1,0,0,Loss,0,41232
+2022-0062,2022,2022-11-30,Group stage,Group,Qatar,Tunisia,France,Home,1,0,1,0,0,Win,3,43627
+2022-0062,2022,2022-11-30,Group stage,Group,Qatar,France,Tunisia,Away,0,1,-1,0,0,Loss,0,43627
+2010-0063,2010,2010-06-20,Group stage,Group,South Africa,Slovakia,Paraguay,Home,0,2,-2,0,0,Loss,0,26643
+2010-0063,2010,2010-06-20,Group stage,Group,South Africa,Paraguay,Slovakia,Away,2,0,2,0,0,Win,3,26643
+2022-0064,2022,2022-11-30,Group stage,Group,Qatar,Saudi Arabia,Mexico,Home,1,2,-1,0,0,Loss,0,84985
+2022-0064,2022,2022-11-30,Group stage,Group,Qatar,Mexico,Saudi Arabia,Away,2,1,1,0,0,Win,3,84985
+2022-0065,2022,2022-11-30,Group stage,Group,Qatar,Poland,Argentina,Home,0,2,-2,0,0,Loss,0,44089
+2022-0065,2022,2022-11-30,Group stage,Group,Qatar,Argentina,Poland,Away,2,0,2,0,0,Win,3,44089
+2022-0066,2022,2022-11-29,Group stage,Group,Qatar,Ecuador,Senegal,Home,1,2,-1,0,0,Loss,0,44569
+2022-0066,2022,2022-11-29,Group stage,Group,Qatar,Senegal,Ecuador,Away,2,1,1,0,0,Win,3,44569
+2022-0067,2022,2022-11-29,Group stage,Group,Qatar,Netherlands,Qatar,Home,2,0,2,0,0,Win,3,66784
+2022-0067,2022,2022-11-29,Group stage,Group,Qatar,Qatar,Netherlands,Away,0,2,-2,0,0,Loss,0,66784
+2022-0068,2022,2022-11-29,Group stage,Group,Qatar,IR Iran,United States,Home,0,1,-1,0,0,Loss,0,42127
+2022-0068,2022,2022-11-29,Group stage,Group,Qatar,United States,IR Iran,Away,1,0,1,0,0,Win,3,42127
+2022-0069,2022,2022-11-29,Group stage,Group,Qatar,Wales,England,Home,0,3,-3,0,0,Loss,0,44297
+2022-0069,2022,2022-11-29,Group stage,Group,Qatar,England,Wales,Away,3,0,3,0,0,Win,3,44297
+2022-0070,2022,2022-11-28,Group stage,Group,Qatar,Cameroon,Serbia,Home,3,3,0,0,0,Draw,1,39789
+2022-0070,2022,2022-11-28,Group stage,Group,Qatar,Serbia,Cameroon,Away,3,3,0,0,0,Draw,1,39789
+2022-0071,2022,2022-11-28,Group stage,Group,Qatar,Korea Republic,Ghana,Home,2,3,-1,0,0,Loss,0,43983
+2022-0071,2022,2022-11-28,Group stage,Group,Qatar,Ghana,Korea Republic,Away,3,2,1,0,0,Win,3,43983
+2022-0072,2022,2022-11-28,Group stage,Group,Qatar,Brazil,Switzerland,Home,1,0,1,0,0,Win,3,43649
+2022-0072,2022,2022-11-28,Group stage,Group,Qatar,Switzerland,Brazil,Away,0,1,-1,0,0,Loss,0,43649
+2022-0073,2022,2022-11-28,Group stage,Group,Qatar,Portugal,Uruguay,Home,2,0,2,0,0,Win,3,88668
+2022-0073,2022,2022-11-28,Group stage,Group,Qatar,Uruguay,Portugal,Away,0,2,-2,0,0,Loss,0,88668
+2022-0074,2022,2022-11-27,Group stage,Group,Qatar,Japan,Costa Rica,Home,0,1,-1,0,0,Loss,0,41479
+2022-0074,2022,2022-11-27,Group stage,Group,Qatar,Costa Rica,Japan,Away,1,0,1,0,0,Win,3,41479
+2022-0075,2022,2022-11-27,Group stage,Group,Qatar,Belgium,Morocco,Home,0,2,-2,0,0,Loss,0,43738
+2022-0075,2022,2022-11-27,Group stage,Group,Qatar,Morocco,Belgium,Away,2,0,2,0,0,Win,3,43738
+2022-0076,2022,2022-11-27,Group stage,Group,Qatar,Croatia,Canada,Home,4,1,3,0,0,Win,3,44374
+2022-0076,2022,2022-11-27,Group stage,Group,Qatar,Canada,Croatia,Away,1,4,-3,0,0,Loss,0,44374
+2022-0077,2022,2022-11-27,Group stage,Group,Qatar,Spain,Germany,Home,1,1,0,0,0,Draw,1,68895
+2022-0077,2022,2022-11-27,Group stage,Group,Qatar,Germany,Spain,Away,1,1,0,0,0,Draw,1,68895
+2022-0078,2022,2022-11-26,Group stage,Group,Qatar,Tunisia,Australia,Home,0,1,-1,0,0,Loss,0,41823
+2022-0078,2022,2022-11-26,Group stage,Group,Qatar,Australia,Tunisia,Away,1,0,1,0,0,Win,3,41823
+2022-0079,2022,2022-11-26,Group stage,Group,Qatar,Poland,Saudi Arabia,Home,2,0,2,0,0,Win,3,44259
+2022-0079,2022,2022-11-26,Group stage,Group,Qatar,Saudi Arabia,Poland,Away,0,2,-2,0,0,Loss,0,44259
+2022-0080,2022,2022-11-26,Group stage,Group,Qatar,France,Denmark,Home,2,1,1,0,0,Win,3,42860
+2022-0080,2022,2022-11-26,Group stage,Group,Qatar,Denmark,France,Away,1,2,-1,0,0,Loss,0,42860
+2022-0081,2022,2022-11-26,Group stage,Group,Qatar,Argentina,Mexico,Home,2,0,2,0,0,Win,3,88966
+2022-0081,2022,2022-11-26,Group stage,Group,Qatar,Mexico,Argentina,Away,0,2,-2,0,0,Loss,0,88966
+2022-0082,2022,2022-11-25,Group stage,Group,Qatar,Wales,IR Iran,Home,0,2,-2,0,0,Loss,0,40875
+2022-0082,2022,2022-11-25,Group stage,Group,Qatar,IR Iran,Wales,Away,2,0,2,0,0,Win,3,40875
+2022-0083,2022,2022-11-25,Group stage,Group,Qatar,Qatar,Senegal,Home,1,3,-2,0,0,Loss,0,41797
+2022-0083,2022,2022-11-25,Group stage,Group,Qatar,Senegal,Qatar,Away,3,1,2,0,0,Win,3,41797
+2022-0084,2022,2022-11-25,Group stage,Group,Qatar,Netherlands,Ecuador,Home,1,1,0,0,0,Draw,1,44833
+2022-0084,2022,2022-11-25,Group stage,Group,Qatar,Ecuador,Netherlands,Away,1,1,0,0,0,Draw,1,44833
+2022-0085,2022,2022-11-25,Group stage,Group,Qatar,England,United States,Home,0,0,0,0,0,Draw,1,68463
+2022-0085,2022,2022-11-25,Group stage,Group,Qatar,United States,England,Away,0,0,0,0,0,Draw,1,68463
+2022-0086,2022,2022-11-24,Group stage,Group,Qatar,Switzerland,Cameroon,Home,1,0,1,0,0,Win,3,39089
+2022-0086,2022,2022-11-24,Group stage,Group,Qatar,Cameroon,Switzerland,Away,0,1,-1,0,0,Loss,0,39089
+2022-0087,2022,2022-11-24,Group stage,Group,Qatar,Uruguay,Korea Republic,Home,0,0,0,0,0,Draw,1,41663
+2022-0087,2022,2022-11-24,Group stage,Group,Qatar,Korea Republic,Uruguay,Away,0,0,0,0,0,Draw,1,41663
+2022-0088,2022,2022-11-24,Group stage,Group,Qatar,Portugal,Ghana,Home,3,2,1,0,0,Win,3,42662
+2022-0088,2022,2022-11-24,Group stage,Group,Qatar,Ghana,Portugal,Away,2,3,-1,0,0,Loss,0,42662
+2022-0089,2022,2022-11-24,Group stage,Group,Qatar,Brazil,Serbia,Home,2,0,2,0,0,Win,3,88103
+2022-0089,2022,2022-11-24,Group stage,Group,Qatar,Serbia,Brazil,Away,0,2,-2,0,0,Loss,0,88103
+2022-0090,2022,2022-11-23,Group stage,Group,Qatar,Morocco,Croatia,Home,0,0,0,0,0,Draw,1,59407
+2022-0090,2022,2022-11-23,Group stage,Group,Qatar,Croatia,Morocco,Away,0,0,0,0,0,Draw,1,59407
+2022-0091,2022,2022-11-23,Group stage,Group,Qatar,Germany,Japan,Home,1,2,-1,0,0,Loss,0,42608
+2022-0091,2022,2022-11-23,Group stage,Group,Qatar,Japan,Germany,Away,2,1,1,0,0,Win,3,42608
+2010-0092,2010,2010-06-20,Group stage,Group,South Africa,Italy,New Zealand,Home,1,1,0,0,0,Draw,1,38229
+2010-0092,2010,2010-06-20,Group stage,Group,South Africa,New Zealand,Italy,Away,1,1,0,0,0,Draw,1,38229
+2022-0093,2022,2022-11-23,Group stage,Group,Qatar,Spain,Costa Rica,Home,7,0,7,0,0,Win,3,40013
+2022-0093,2022,2022-11-23,Group stage,Group,Qatar,Costa Rica,Spain,Away,0,7,-7,0,0,Loss,0,40013
+2022-0094,2022,2022-11-23,Group stage,Group,Qatar,Belgium,Canada,Home,1,0,1,0,0,Win,3,40432
+2022-0094,2022,2022-11-23,Group stage,Group,Qatar,Canada,Belgium,Away,0,1,-1,0,0,Loss,0,40432
+2022-0095,2022,2022-11-22,Group stage,Group,Qatar,Argentina,Saudi Arabia,Home,1,2,-1,0,0,Loss,0,88012
+2022-0095,2022,2022-11-22,Group stage,Group,Qatar,Saudi Arabia,Argentina,Away,2,1,1,0,0,Win,3,88012
+2022-0096,2022,2022-11-22,Group stage,Group,Qatar,Denmark,Tunisia,Home,0,0,0,0,0,Draw,1,42925
+2022-0096,2022,2022-11-22,Group stage,Group,Qatar,Tunisia,Denmark,Away,0,0,0,0,0,Draw,1,42925
+2022-0097,2022,2022-11-22,Group stage,Group,Qatar,Mexico,Poland,Home,0,0,0,0,0,Draw,1,39369
+2022-0097,2022,2022-11-22,Group stage,Group,Qatar,Poland,Mexico,Away,0,0,0,0,0,Draw,1,39369
+2022-0098,2022,2022-11-22,Group stage,Group,Qatar,France,Australia,Home,4,1,3,0,0,Win,3,40875
+2022-0098,2022,2022-11-22,Group stage,Group,Qatar,Australia,France,Away,1,4,-3,0,0,Loss,0,40875
+2022-0099,2022,2022-11-21,Group stage,Group,Qatar,England,IR Iran,Home,6,2,4,0,0,Win,3,45334
+2022-0099,2022,2022-11-21,Group stage,Group,Qatar,IR Iran,England,Away,2,6,-4,0,0,Loss,0,45334
+2022-0100,2022,2022-11-21,Group stage,Group,Qatar,Senegal,Netherlands,Home,0,2,-2,0,0,Loss,0,41721
+2022-0100,2022,2022-11-21,Group stage,Group,Qatar,Netherlands,Senegal,Away,2,0,2,0,0,Win,3,41721
+2022-0101,2022,2022-11-21,Group stage,Group,Qatar,United States,Wales,Home,1,1,0,0,0,Draw,1,43418
+2022-0101,2022,2022-11-21,Group stage,Group,Qatar,Wales,United States,Away,1,1,0,0,0,Draw,1,43418
+2022-0102,2022,2022-11-20,Group stage,Group,Qatar,Qatar,Ecuador,Home,0,2,-2,0,0,Loss,0,67372
+2022-0102,2022,2022-11-20,Group stage,Group,Qatar,Ecuador,Qatar,Away,2,0,2,0,0,Win,3,67372
+2018-0103,2018,2018-07-15,Final,Final,Russia,France,Croatia,Home,4,2,2,0,0,Win,3,78011
+2018-0103,2018,2018-07-15,Final,Final,Russia,Croatia,France,Away,2,4,-2,0,0,Loss,0,78011
+2018-0104,2018,2018-07-14,Third-place match,Placement,Russia,Belgium,England,Home,2,0,2,0,0,Win,3,64406
+2018-0104,2018,2018-07-14,Third-place match,Placement,Russia,England,Belgium,Away,0,2,-2,0,0,Loss,0,64406
+2018-0105,2018,2018-07-11,Semi-finals,Knockout,Russia,Croatia,England,Home,2,1,1,0,0,Win,3,78011
+2018-0105,2018,2018-07-11,Semi-finals,Knockout,Russia,England,Croatia,Away,1,2,-1,0,0,Loss,0,78011
+2018-0106,2018,2018-07-10,Semi-finals,Knockout,Russia,France,Belgium,Home,1,0,1,0,0,Win,3,64286
+2018-0106,2018,2018-07-10,Semi-finals,Knockout,Russia,Belgium,France,Away,0,1,-1,0,0,Loss,0,64286
+2018-0107,2018,2018-07-07,Quarter-finals,Knockout,Russia,Sweden,England,Home,0,2,-2,0,0,Loss,0,39991
+2018-0107,2018,2018-07-07,Quarter-finals,Knockout,Russia,England,Sweden,Away,2,0,2,0,0,Win,3,39991
+2018-0108,2018,2018-07-07,Quarter-finals,Knockout,Russia,Russia,Croatia,Home,2,2,0,3,4,Loss on penalties,0,44287
+2018-0108,2018,2018-07-07,Quarter-finals,Knockout,Russia,Croatia,Russia,Away,2,2,0,4,3,Win on penalties,3,44287
+2018-0109,2018,2018-07-06,Quarter-finals,Knockout,Russia,Uruguay,France,Home,0,2,-2,0,0,Loss,0,43319
+2018-0109,2018,2018-07-06,Quarter-finals,Knockout,Russia,France,Uruguay,Away,2,0,2,0,0,Win,3,43319
+2018-0110,2018,2018-07-06,Quarter-finals,Knockout,Russia,Brazil,Belgium,Home,1,2,-1,0,0,Loss,0,42873
+2018-0110,2018,2018-07-06,Quarter-finals,Knockout,Russia,Belgium,Brazil,Away,2,1,1,0,0,Win,3,42873
+2018-0111,2018,2018-07-03,Round of 16,Knockout,Russia,Sweden,Switzerland,Home,1,0,1,0,0,Win,3,64042
+2018-0111,2018,2018-07-03,Round of 16,Knockout,Russia,Switzerland,Sweden,Away,0,1,-1,0,0,Loss,0,64042
+2018-0112,2018,2018-07-03,Round of 16,Knockout,Russia,Colombia,England,Home,1,1,0,3,4,Loss on penalties,0,44190
+2018-0112,2018,2018-07-03,Round of 16,Knockout,Russia,England,Colombia,Away,1,1,0,4,3,Win on penalties,3,44190
+2018-0113,2018,2018-07-02,Round of 16,Knockout,Russia,Brazil,Mexico,Home,2,0,2,0,0,Win,3,41970
+2018-0113,2018,2018-07-02,Round of 16,Knockout,Russia,Mexico,Brazil,Away,0,2,-2,0,0,Loss,0,41970
+2018-0114,2018,2018-07-02,Round of 16,Knockout,Russia,Belgium,Japan,Home,3,2,1,0,0,Win,3,41466
+2018-0114,2018,2018-07-02,Round of 16,Knockout,Russia,Japan,Belgium,Away,2,3,-1,0,0,Loss,0,41466
+2006-0115,2006,2006-06-14,Group stage,Group,Germany,Spain,Ukraine,Home,4,0,4,0,0,Win,3,43000
+2006-0115,2006,2006-06-14,Group stage,Group,Germany,Ukraine,Spain,Away,0,4,-4,0,0,Loss,0,43000
+2006-0116,2006,2006-06-14,Group stage,Group,Germany,Tunisia,Saudi Arabia,Home,2,2,0,0,0,Draw,1,66000
+2006-0116,2006,2006-06-14,Group stage,Group,Germany,Saudi Arabia,Tunisia,Away,2,2,0,0,0,Draw,1,66000
+2006-0117,2006,2006-06-14,Group stage,Group,Germany,Germany,Poland,Home,1,0,1,0,0,Win,3,65000
+2006-0117,2006,2006-06-14,Group stage,Group,Germany,Poland,Germany,Away,0,1,-1,0,0,Loss,0,65000
+2006-0118,2006,2006-06-13,Group stage,Group,Germany,Korea Republic,Togo,Home,2,1,1,0,0,Win,3,48000
+2006-0118,2006,2006-06-13,Group stage,Group,Germany,Togo,Korea Republic,Away,1,2,-1,0,0,Loss,0,48000
+2006-0119,2006,2006-06-13,Group stage,Group,Germany,France,Switzerland,Home,0,0,0,0,0,Draw,1,52000
+2006-0119,2006,2006-06-13,Group stage,Group,Germany,Switzerland,France,Away,0,0,0,0,0,Draw,1,52000
+2006-0120,2006,2006-06-13,Group stage,Group,Germany,Brazil,Croatia,Home,1,0,1,0,0,Win,3,72000
+2006-0120,2006,2006-06-13,Group stage,Group,Germany,Croatia,Brazil,Away,0,1,-1,0,0,Loss,0,72000
+2006-0121,2006,2006-06-12,Group stage,Group,Germany,Australia,Japan,Home,3,1,2,0,0,Win,3,46000
+2006-0121,2006,2006-06-12,Group stage,Group,Germany,Japan,Australia,Away,1,3,-2,0,0,Loss,0,46000
+2006-0122,2006,2006-06-12,Group stage,Group,Germany,United States,Czech Republic,Home,0,3,-3,0,0,Loss,0,52000
+2006-0122,2006,2006-06-12,Group stage,Group,Germany,Czech Republic,United States,Away,3,0,3,0,0,Win,3,52000
+2006-0123,2006,2006-06-12,Group stage,Group,Germany,Italy,Ghana,Home,2,0,2,0,0,Win,3,43000
+2006-0123,2006,2006-06-12,Group stage,Group,Germany,Ghana,Italy,Away,0,2,-2,0,0,Loss,0,43000
+2006-0124,2006,2006-06-11,Group stage,Group,Germany,Serbia and Montenegro,Netherlands,Home,0,1,-1,0,0,Loss,0,37216
+2006-0124,2006,2006-06-11,Group stage,Group,Germany,Netherlands,Serbia and Montenegro,Away,1,0,1,0,0,Win,3,37216
+2006-0125,2006,2006-06-11,Group stage,Group,Germany,Mexico,IR Iran,Home,3,1,2,0,0,Win,3,41000
+2006-0125,2006,2006-06-11,Group stage,Group,Germany,IR Iran,Mexico,Away,1,3,-2,0,0,Loss,0,41000
+2006-0126,2006,2006-06-11,Group stage,Group,Germany,Angola,Portugal,Home,0,1,-1,0,0,Loss,0,45000
+2006-0126,2006,2006-06-11,Group stage,Group,Germany,Portugal,Angola,Away,1,0,1,0,0,Win,3,45000
+2006-0127,2006,2006-06-10,Group stage,Group,Germany,England,Paraguay,Home,1,0,1,0,0,Win,3,48000
+2006-0127,2006,2006-06-10,Group stage,Group,Germany,Paraguay,England,Away,0,1,-1,0,0,Loss,0,48000
+2006-0128,2006,2006-06-10,Group stage,Group,Germany,Trinidad and Tobago,Sweden,Home,0,0,0,0,0,Draw,1,62959
+2006-0128,2006,2006-06-10,Group stage,Group,Germany,Sweden,Trinidad and Tobago,Away,0,0,0,0,0,Draw,1,62959
+2006-0129,2006,2006-06-10,Group stage,Group,Germany,Argentina,Côte d'Ivoire,Home,2,1,1,0,0,Win,3,49480
+2006-0129,2006,2006-06-10,Group stage,Group,Germany,Côte d'Ivoire,Argentina,Away,1,2,-1,0,0,Loss,0,49480
+2006-0130,2006,2006-06-09,Group stage,Group,Germany,Germany,Costa Rica,Home,4,2,2,0,0,Win,3,64950
+2006-0130,2006,2006-06-09,Group stage,Group,Germany,Costa Rica,Germany,Away,2,4,-2,0,0,Loss,0,64950
+2006-0131,2006,2006-06-09,Group stage,Group,Germany,Poland,Ecuador,Home,0,2,-2,0,0,Loss,0,52000
+2006-0131,2006,2006-06-09,Group stage,Group,Germany,Ecuador,Poland,Away,2,0,2,0,0,Win,3,52000
+2002-0132,2002,2002-06-30,Final,Final,"Korea Republic, Japan",Germany,Brazil,Home,0,2,-2,0,0,Loss,0,69029
+2002-0132,2002,2002-06-30,Final,Final,"Korea Republic, Japan",Brazil,Germany,Away,2,0,2,0,0,Win,3,69029
+2002-0133,2002,2002-06-29,Third-place match,Placement,"Korea Republic, Japan",Korea Republic,Türkiye,Home,2,3,-1,0,0,Loss,0,63483
+2002-0133,2002,2002-06-29,Third-place match,Placement,"Korea Republic, Japan",Türkiye,Korea Republic,Away,3,2,1,0,0,Win,3,63483
+2002-0134,2002,2002-06-26,Semi-finals,Knockout,"Korea Republic, Japan",Brazil,Türkiye,Home,1,0,1,0,0,Win,3,61058
+2002-0134,2002,2002-06-26,Semi-finals,Knockout,"Korea Republic, Japan",Türkiye,Brazil,Away,0,1,-1,0,0,Loss,0,61058
+2002-0135,2002,2002-06-25,Semi-finals,Knockout,"Korea Republic, Japan",Germany,Korea Republic,Home,1,0,1,0,0,Win,3,65625
+2002-0135,2002,2002-06-25,Semi-finals,Knockout,"Korea Republic, Japan",Korea Republic,Germany,Away,0,1,-1,0,0,Loss,0,65625
+2002-0136,2002,2002-06-22,Quarter-finals,Knockout,"Korea Republic, Japan",Spain,Korea Republic,Home,0,0,0,3,5,Loss on penalties,0,42114
+2002-0136,2002,2002-06-22,Quarter-finals,Knockout,"Korea Republic, Japan",Korea Republic,Spain,Away,0,0,0,5,3,Win on penalties,3,42114
+2002-0137,2002,2002-06-22,Quarter-finals,Knockout,"Korea Republic, Japan",Senegal,Türkiye,Home,0,1,-1,0,0,Loss,0,44233
+2002-0137,2002,2002-06-22,Quarter-finals,Knockout,"Korea Republic, Japan",Türkiye,Senegal,Away,1,0,1,0,0,Win,3,44233
+2002-0138,2002,2002-06-21,Quarter-finals,Knockout,"Korea Republic, Japan",England,Brazil,Home,1,2,-1,0,0,Loss,0,47436
+2002-0138,2002,2002-06-21,Quarter-finals,Knockout,"Korea Republic, Japan",Brazil,England,Away,2,1,1,0,0,Win,3,47436
+2002-0139,2002,2002-06-21,Quarter-finals,Knockout,"Korea Republic, Japan",Germany,United States,Home,1,0,1,0,0,Win,3,37337
+2002-0139,2002,2002-06-21,Quarter-finals,Knockout,"Korea Republic, Japan",United States,Germany,Away,0,1,-1,0,0,Loss,0,37337
+2002-0140,2002,2002-06-18,Round of 16,Knockout,"Korea Republic, Japan",Japan,Türkiye,Home,0,1,-1,0,0,Loss,0,45666
+2002-0140,2002,2002-06-18,Round of 16,Knockout,"Korea Republic, Japan",Türkiye,Japan,Away,1,0,1,0,0,Win,3,45666
+2002-0141,2002,2002-06-18,Round of 16,Knockout,"Korea Republic, Japan",Korea Republic,Italy,Home,2,1,1,0,0,Win,3,38588
+2002-0141,2002,2002-06-18,Round of 16,Knockout,"Korea Republic, Japan",Italy,Korea Republic,Away,1,2,-1,0,0,Loss,0,38588
+2002-0142,2002,2002-06-17,Round of 16,Knockout,"Korea Republic, Japan",Mexico,United States,Home,0,2,-2,0,0,Loss,0,36380
+2002-0142,2002,2002-06-17,Round of 16,Knockout,"Korea Republic, Japan",United States,Mexico,Away,2,0,2,0,0,Win,3,36380
+2002-0143,2002,2002-06-17,Round of 16,Knockout,"Korea Republic, Japan",Brazil,Belgium,Home,2,0,2,0,0,Win,3,40440
+2002-0143,2002,2002-06-17,Round of 16,Knockout,"Korea Republic, Japan",Belgium,Brazil,Away,0,2,-2,0,0,Loss,0,40440
+2002-0144,2002,2002-06-16,Round of 16,Knockout,"Korea Republic, Japan",Sweden,Senegal,Home,1,2,-1,0,0,Loss,0,39747
+2002-0144,2002,2002-06-16,Round of 16,Knockout,"Korea Republic, Japan",Senegal,Sweden,Away,2,1,1,0,0,Win,3,39747
+2002-0145,2002,2002-06-16,Round of 16,Knockout,"Korea Republic, Japan",Spain,Republic of Ireland,Home,1,1,0,3,2,Win on penalties,3,38926
+2002-0145,2002,2002-06-16,Round of 16,Knockout,"Korea Republic, Japan",Republic of Ireland,Spain,Away,1,1,0,2,3,Loss on penalties,0,38926
+2002-0146,2002,2002-06-15,Round of 16,Knockout,"Korea Republic, Japan",Germany,Paraguay,Home,1,0,1,0,0,Win,3,25176
+2002-0146,2002,2002-06-15,Round of 16,Knockout,"Korea Republic, Japan",Paraguay,Germany,Away,0,1,-1,0,0,Loss,0,25176
+2002-0147,2002,2002-06-15,Round of 16,Knockout,"Korea Republic, Japan",Denmark,England,Home,0,3,-3,0,0,Loss,0,40582
+2002-0147,2002,2002-06-15,Round of 16,Knockout,"Korea Republic, Japan",England,Denmark,Away,3,0,3,0,0,Win,3,40582
+2002-0148,2002,2002-06-14,Group stage,Group,"Korea Republic, Japan",Tunisia,Japan,Home,0,2,-2,0,0,Loss,0,45213
+2002-0148,2002,2002-06-14,Group stage,Group,"Korea Republic, Japan",Japan,Tunisia,Away,2,0,2,0,0,Win,3,45213
+2002-0149,2002,2002-06-14,Group stage,Group,"Korea Republic, Japan",Belgium,Russia,Home,3,2,1,0,0,Win,3,46640
+2002-0149,2002,2002-06-14,Group stage,Group,"Korea Republic, Japan",Russia,Belgium,Away,2,3,-1,0,0,Loss,0,46640
+2002-0150,2002,2002-06-14,Group stage,Group,"Korea Republic, Japan",Portugal,Korea Republic,Home,0,1,-1,0,0,Loss,0,50239
+2002-0150,2002,2002-06-14,Group stage,Group,"Korea Republic, Japan",Korea Republic,Portugal,Away,1,0,1,0,0,Win,3,50239
+2002-0151,2002,2002-06-14,Group stage,Group,"Korea Republic, Japan",Poland,United States,Home,3,1,2,0,0,Win,3,26482
+2002-0151,2002,2002-06-14,Group stage,Group,"Korea Republic, Japan",United States,Poland,Away,1,3,-2,0,0,Loss,0,26482
+2002-0152,2002,2002-06-13,Group stage,Group,"Korea Republic, Japan",Costa Rica,Brazil,Home,2,5,-3,0,0,Loss,0,38524
+2002-0152,2002,2002-06-13,Group stage,Group,"Korea Republic, Japan",Brazil,Costa Rica,Away,5,2,3,0,0,Win,3,38524
+2002-0153,2002,2002-06-13,Group stage,Group,"Korea Republic, Japan",Türkiye,China PR,Home,3,0,3,0,0,Win,3,43605
+2002-0153,2002,2002-06-13,Group stage,Group,"Korea Republic, Japan",China PR,Türkiye,Away,0,3,-3,0,0,Loss,0,43605
+2002-0154,2002,2002-06-13,Group stage,Group,"Korea Republic, Japan",Mexico,Italy,Home,1,1,0,0,0,Draw,1,39291
+2002-0154,2002,2002-06-13,Group stage,Group,"Korea Republic, Japan",Italy,Mexico,Away,1,1,0,0,0,Draw,1,39291
+2010-0155,2010,2010-06-20,Group stage,Group,South Africa,Brazil,Côte d'Ivoire,Home,3,1,2,0,0,Win,3,84455
+2010-0155,2010,2010-06-20,Group stage,Group,South Africa,Côte d'Ivoire,Brazil,Away,1,3,-2,0,0,Loss,0,84455
+2002-0156,2002,2002-06-13,Group stage,Group,"Korea Republic, Japan",Ecuador,Croatia,Home,1,0,1,0,0,Win,3,65862
+2002-0156,2002,2002-06-13,Group stage,Group,"Korea Republic, Japan",Croatia,Ecuador,Away,0,1,-1,0,0,Loss,0,65862
+2002-0157,2002,2002-06-12,Group stage,Group,"Korea Republic, Japan",Sweden,Argentina,Home,1,1,0,0,0,Draw,1,45777
+2002-0157,2002,2002-06-12,Group stage,Group,"Korea Republic, Japan",Argentina,Sweden,Away,1,1,0,0,0,Draw,1,45777
+2002-0158,2002,2002-06-12,Group stage,Group,"Korea Republic, Japan",Nigeria,England,Home,0,0,0,0,0,Draw,1,44864
+2002-0158,2002,2002-06-12,Group stage,Group,"Korea Republic, Japan",England,Nigeria,Away,0,0,0,0,0,Draw,1,44864
+2002-0159,2002,2002-06-12,Group stage,Group,"Korea Republic, Japan",South Africa,Spain,Home,2,3,-1,0,0,Loss,0,31024
+2002-0159,2002,2002-06-12,Group stage,Group,"Korea Republic, Japan",Spain,South Africa,Away,3,2,1,0,0,Win,3,31024
+2002-0160,2002,2002-06-12,Group stage,Group,"Korea Republic, Japan",Slovenia,Paraguay,Home,1,3,-2,0,0,Loss,0,30176
+2002-0160,2002,2002-06-12,Group stage,Group,"Korea Republic, Japan",Paraguay,Slovenia,Away,3,1,2,0,0,Win,3,30176
+2002-0161,2002,2002-06-11,Group stage,Group,"Korea Republic, Japan",Denmark,France,Home,2,0,2,0,0,Win,3,48100
+2002-0161,2002,2002-06-11,Group stage,Group,"Korea Republic, Japan",France,Denmark,Away,0,2,-2,0,0,Loss,0,48100
+2002-0162,2002,2002-06-11,Group stage,Group,"Korea Republic, Japan",Senegal,Uruguay,Home,3,3,0,0,0,Draw,1,33681
+2002-0162,2002,2002-06-11,Group stage,Group,"Korea Republic, Japan",Uruguay,Senegal,Away,3,3,0,0,0,Draw,1,33681
+2002-0163,2002,2002-06-11,Group stage,Group,"Korea Republic, Japan",Saudi Arabia,Republic of Ireland,Home,0,3,-3,0,0,Loss,0,65320
+2002-0163,2002,2002-06-11,Group stage,Group,"Korea Republic, Japan",Republic of Ireland,Saudi Arabia,Away,3,0,3,0,0,Win,3,65320
+2002-0164,2002,2002-06-11,Group stage,Group,"Korea Republic, Japan",Cameroon,Germany,Home,0,2,-2,0,0,Loss,0,47085
+2002-0164,2002,2002-06-11,Group stage,Group,"Korea Republic, Japan",Germany,Cameroon,Away,2,0,2,0,0,Win,3,47085
+2002-0165,2002,2002-06-10,Group stage,Group,"Korea Republic, Japan",Korea Republic,United States,Home,1,1,0,0,0,Draw,1,60778
+2002-0165,2002,2002-06-10,Group stage,Group,"Korea Republic, Japan",United States,Korea Republic,Away,1,1,0,0,0,Draw,1,60778
+2002-0166,2002,2002-06-10,Group stage,Group,"Korea Republic, Japan",Tunisia,Belgium,Home,1,1,0,0,0,Draw,1,39700
+2002-0166,2002,2002-06-10,Group stage,Group,"Korea Republic, Japan",Belgium,Tunisia,Away,1,1,0,0,0,Draw,1,39700
+2002-0167,2002,2002-06-10,Group stage,Group,"Korea Republic, Japan",Portugal,Poland,Home,4,0,4,0,0,Win,3,31000
+2002-0167,2002,2002-06-10,Group stage,Group,"Korea Republic, Japan",Poland,Portugal,Away,0,4,-4,0,0,Loss,0,31000
+2002-0168,2002,2002-06-09,Group stage,Group,"Korea Republic, Japan",Mexico,Ecuador,Home,2,1,1,0,0,Win,3,45610
+2002-0168,2002,2002-06-09,Group stage,Group,"Korea Republic, Japan",Ecuador,Mexico,Away,1,2,-1,0,0,Loss,0,45610
+2002-0169,2002,2002-06-09,Group stage,Group,"Korea Republic, Japan",Costa Rica,Türkiye,Home,1,1,0,0,0,Draw,1,42299
+2002-0169,2002,2002-06-09,Group stage,Group,"Korea Republic, Japan",Türkiye,Costa Rica,Away,1,1,0,0,0,Draw,1,42299
+2002-0170,2002,2002-06-09,Group stage,Group,"Korea Republic, Japan",Japan,Russia,Home,1,0,1,0,0,Win,3,66108
+2002-0170,2002,2002-06-09,Group stage,Group,"Korea Republic, Japan",Russia,Japan,Away,0,1,-1,0,0,Loss,0,66108
+2002-0171,2002,2002-06-08,Group stage,Group,"Korea Republic, Japan",South Africa,Slovenia,Home,1,0,1,0,0,Win,3,47226
+2002-0171,2002,2002-06-08,Group stage,Group,"Korea Republic, Japan",Slovenia,South Africa,Away,0,1,-1,0,0,Loss,0,47226
+2002-0172,2002,2002-06-08,Group stage,Group,"Korea Republic, Japan",Italy,Croatia,Home,1,2,-1,0,0,Loss,0,36472
+2002-0172,2002,2002-06-08,Group stage,Group,"Korea Republic, Japan",Croatia,Italy,Away,2,1,1,0,0,Win,3,36472
+2002-0173,2002,2002-06-08,Group stage,Group,"Korea Republic, Japan",Brazil,China PR,Home,4,0,4,0,0,Win,3,36750
+2002-0173,2002,2002-06-08,Group stage,Group,"Korea Republic, Japan",China PR,Brazil,Away,0,4,-4,0,0,Loss,0,36750
+2002-0174,2002,2002-06-07,Group stage,Group,"Korea Republic, Japan",Sweden,Nigeria,Home,2,1,1,0,0,Win,3,36194
+2002-0174,2002,2002-06-07,Group stage,Group,"Korea Republic, Japan",Nigeria,Sweden,Away,1,2,-1,0,0,Loss,0,36194
+2018-0175,2018,2018-06-20,Group stage,Group,Russia,IR Iran,Spain,Home,0,1,-1,0,0,Loss,0,42718
+2018-0175,2018,2018-06-20,Group stage,Group,Russia,Spain,IR Iran,Away,1,0,1,0,0,Win,3,42718
+2018-0176,2018,2018-06-19,Group stage,Group,Russia,Colombia,Japan,Home,1,2,-1,0,0,Loss,0,40842
+2018-0176,2018,2018-06-19,Group stage,Group,Russia,Japan,Colombia,Away,2,1,1,0,0,Win,3,40842
+2018-0177,2018,2018-06-19,Group stage,Group,Russia,Poland,Senegal,Home,1,2,-1,0,0,Loss,0,44190
+2018-0177,2018,2018-06-19,Group stage,Group,Russia,Senegal,Poland,Away,2,1,1,0,0,Win,3,44190
+2018-0178,2018,2018-06-19,Group stage,Group,Russia,Russia,Egypt,Home,3,1,2,0,0,Win,3,64468
+2018-0178,2018,2018-06-19,Group stage,Group,Russia,Egypt,Russia,Away,1,3,-2,0,0,Loss,0,64468
+2018-0179,2018,2018-06-18,Group stage,Group,Russia,Sweden,Korea Republic,Home,1,0,1,0,0,Win,3,42300
+2018-0179,2018,2018-06-18,Group stage,Group,Russia,Korea Republic,Sweden,Away,0,1,-1,0,0,Loss,0,42300
+2018-0180,2018,2018-06-18,Group stage,Group,Russia,Belgium,Panama,Home,3,0,3,0,0,Win,3,43257
+2018-0180,2018,2018-06-18,Group stage,Group,Russia,Panama,Belgium,Away,0,3,-3,0,0,Loss,0,43257
+2018-0181,2018,2018-06-18,Group stage,Group,Russia,Tunisia,England,Home,1,2,-1,0,0,Loss,0,41064
+2018-0181,2018,2018-06-18,Group stage,Group,Russia,England,Tunisia,Away,2,1,1,0,0,Win,3,41064
+2018-0182,2018,2018-06-17,Group stage,Group,Russia,Costa Rica,Serbia,Home,0,1,-1,0,0,Loss,0,41432
+2018-0182,2018,2018-06-17,Group stage,Group,Russia,Serbia,Costa Rica,Away,1,0,1,0,0,Win,3,41432
+2018-0183,2018,2018-06-17,Group stage,Group,Russia,Germany,Mexico,Home,0,1,-1,0,0,Loss,0,78011
+2018-0183,2018,2018-06-17,Group stage,Group,Russia,Mexico,Germany,Away,1,0,1,0,0,Win,3,78011
+2018-0184,2018,2018-06-17,Group stage,Group,Russia,Brazil,Switzerland,Home,1,1,0,0,0,Draw,1,43109
+2018-0184,2018,2018-06-17,Group stage,Group,Russia,Switzerland,Brazil,Away,1,1,0,0,0,Draw,1,43109
+2018-0185,2018,2018-06-16,Group stage,Group,Russia,France,Australia,Home,2,1,1,0,0,Win,3,41279
+2018-0185,2018,2018-06-16,Group stage,Group,Russia,Australia,France,Away,1,2,-1,0,0,Loss,0,41279
+2018-0186,2018,2018-06-16,Group stage,Group,Russia,Argentina,Iceland,Home,1,1,0,0,0,Draw,1,44190
+2018-0186,2018,2018-06-16,Group stage,Group,Russia,Iceland,Argentina,Away,1,1,0,0,0,Draw,1,44190
+2018-0187,2018,2018-06-16,Group stage,Group,Russia,Peru,Denmark,Home,0,1,-1,0,0,Loss,0,40502
+2018-0187,2018,2018-06-16,Group stage,Group,Russia,Denmark,Peru,Away,1,0,1,0,0,Win,3,40502
+2002-0188,2002,2002-06-07,Group stage,Group,"Korea Republic, Japan",Spain,Paraguay,Home,3,1,2,0,0,Win,3,24000
+2002-0188,2002,2002-06-07,Group stage,Group,"Korea Republic, Japan",Paraguay,Spain,Away,1,3,-2,0,0,Loss,0,24000
+2018-0189,2018,2018-06-16,Group stage,Group,Russia,Croatia,Nigeria,Home,2,0,2,0,0,Win,3,31136
+2018-0189,2018,2018-06-16,Group stage,Group,Russia,Nigeria,Croatia,Away,0,2,-2,0,0,Loss,0,31136
+2002-0190,2002,2002-06-07,Group stage,Group,"Korea Republic, Japan",Argentina,England,Home,0,1,-1,0,0,Loss,0,35927
+2002-0190,2002,2002-06-07,Group stage,Group,"Korea Republic, Japan",England,Argentina,Away,1,0,1,0,0,Win,3,35927
+2002-0191,2002,2002-06-06,Group stage,Group,"Korea Republic, Japan",Denmark,Senegal,Home,1,1,0,0,0,Draw,1,43500
+2002-0191,2002,2002-06-06,Group stage,Group,"Korea Republic, Japan",Senegal,Denmark,Away,1,1,0,0,0,Draw,1,43500
+2018-0192,2018,2018-06-15,Group stage,Group,Russia,Egypt,Uruguay,Home,0,1,-1,0,0,Loss,0,27015
+2018-0192,2018,2018-06-15,Group stage,Group,Russia,Uruguay,Egypt,Away,1,0,1,0,0,Win,3,27015
+2002-0193,2002,2002-06-06,Group stage,Group,"Korea Republic, Japan",Cameroon,Saudi Arabia,Home,1,0,1,0,0,Win,3,52328
+2002-0193,2002,2002-06-06,Group stage,Group,"Korea Republic, Japan",Saudi Arabia,Cameroon,Away,0,1,-1,0,0,Loss,0,52328
+2018-0194,2018,2018-06-15,Group stage,Group,Russia,Morocco,IR Iran,Home,0,1,-1,0,0,Loss,0,62548
+2018-0194,2018,2018-06-15,Group stage,Group,Russia,IR Iran,Morocco,Away,1,0,1,0,0,Win,3,62548
+2002-0195,2002,2002-06-06,Group stage,Group,"Korea Republic, Japan",France,Uruguay,Home,0,0,0,0,0,Draw,1,38070
+2002-0195,2002,2002-06-06,Group stage,Group,"Korea Republic, Japan",Uruguay,France,Away,0,0,0,0,0,Draw,1,38070
+2018-0196,2018,2018-06-15,Group stage,Group,Russia,Portugal,Spain,Home,3,3,0,0,0,Draw,1,43866
+2018-0196,2018,2018-06-15,Group stage,Group,Russia,Spain,Portugal,Away,3,3,0,0,0,Draw,1,43866
+2002-0197,2002,2002-06-05,Group stage,Group,"Korea Republic, Japan",Russia,Tunisia,Home,2,0,2,0,0,Win,3,30957
+2002-0197,2002,2002-06-05,Group stage,Group,"Korea Republic, Japan",Tunisia,Russia,Away,0,2,-2,0,0,Loss,0,30957
+2018-0198,2018,2018-06-14,Group stage,Group,Russia,Russia,Saudi Arabia,Home,5,0,5,0,0,Win,3,78011
+2018-0198,2018,2018-06-14,Group stage,Group,Russia,Saudi Arabia,Russia,Away,0,5,-5,0,0,Loss,0,78011
+2002-0199,2002,2002-06-05,Group stage,Group,"Korea Republic, Japan",United States,Portugal,Home,3,2,1,0,0,Win,3,37306
+2002-0199,2002,2002-06-05,Group stage,Group,"Korea Republic, Japan",Portugal,United States,Away,2,3,-1,0,0,Loss,0,37306
+2014-0200,2014,2014-07-13,Final,Final,Brazil,Germany,Argentina,Home,1,0,1,0,0,Win,3,74738
+2014-0200,2014,2014-07-13,Final,Final,Brazil,Argentina,Germany,Away,0,1,-1,0,0,Loss,0,74738
+2002-0201,2002,2002-06-05,Group stage,Group,"Korea Republic, Japan",Germany,Republic of Ireland,Home,1,1,0,0,0,Draw,1,35854
+2002-0201,2002,2002-06-05,Group stage,Group,"Korea Republic, Japan",Republic of Ireland,Germany,Away,1,1,0,0,0,Draw,1,35854
+2002-0202,2002,2002-06-04,Group stage,Group,"Korea Republic, Japan",China PR,Costa Rica,Home,0,2,-2,0,0,Loss,0,27217
+2002-0202,2002,2002-06-04,Group stage,Group,"Korea Republic, Japan",Costa Rica,China PR,Away,2,0,2,0,0,Win,3,27217
+2002-0203,2002,2002-06-04,Group stage,Group,"Korea Republic, Japan",Japan,Belgium,Home,2,2,0,0,0,Draw,1,55256
+2002-0203,2002,2002-06-04,Group stage,Group,"Korea Republic, Japan",Belgium,Japan,Away,2,2,0,0,0,Draw,1,55256
+2002-0204,2002,2002-06-04,Group stage,Group,"Korea Republic, Japan",Korea Republic,Poland,Home,2,0,2,0,0,Win,3,48760
+2002-0204,2002,2002-06-04,Group stage,Group,"Korea Republic, Japan",Poland,Korea Republic,Away,0,2,-2,0,0,Loss,0,48760
+2002-0205,2002,2002-06-03,Group stage,Group,"Korea Republic, Japan",Croatia,Mexico,Home,0,1,-1,0,0,Loss,0,32239
+2002-0205,2002,2002-06-03,Group stage,Group,"Korea Republic, Japan",Mexico,Croatia,Away,1,0,1,0,0,Win,3,32239
+2002-0206,2002,2002-06-03,Group stage,Group,"Korea Republic, Japan",Brazil,Türkiye,Home,2,1,1,0,0,Win,3,33842
+2002-0206,2002,2002-06-03,Group stage,Group,"Korea Republic, Japan",Türkiye,Brazil,Away,1,2,-1,0,0,Loss,0,33842
+2002-0207,2002,2002-06-03,Group stage,Group,"Korea Republic, Japan",Italy,Ecuador,Home,2,0,2,0,0,Win,3,31081
+2002-0207,2002,2002-06-03,Group stage,Group,"Korea Republic, Japan",Ecuador,Italy,Away,0,2,-2,0,0,Loss,0,31081
+2002-0208,2002,2002-06-02,Group stage,Group,"Korea Republic, Japan",Argentina,Nigeria,Home,1,0,1,0,0,Win,3,34050
+2002-0208,2002,2002-06-02,Group stage,Group,"Korea Republic, Japan",Nigeria,Argentina,Away,0,1,-1,0,0,Loss,0,34050
+2002-0209,2002,2002-06-02,Group stage,Group,"Korea Republic, Japan",Paraguay,South Africa,Home,2,2,0,0,0,Draw,1,25186
+2002-0209,2002,2002-06-02,Group stage,Group,"Korea Republic, Japan",South Africa,Paraguay,Away,2,2,0,0,0,Draw,1,25186
+2002-0210,2002,2002-06-02,Group stage,Group,"Korea Republic, Japan",England,Sweden,Home,1,1,0,0,0,Draw,1,52721
+2002-0210,2002,2002-06-02,Group stage,Group,"Korea Republic, Japan",Sweden,England,Away,1,1,0,0,0,Draw,1,52721
+2002-0211,2002,2002-06-02,Group stage,Group,"Korea Republic, Japan",Spain,Slovenia,Home,3,1,2,0,0,Win,3,28588
+2002-0211,2002,2002-06-02,Group stage,Group,"Korea Republic, Japan",Slovenia,Spain,Away,1,3,-2,0,0,Loss,0,28588
+2002-0212,2002,2002-06-01,Group stage,Group,"Korea Republic, Japan",Republic of Ireland,Cameroon,Home,1,1,0,0,0,Draw,1,33679
+2002-0212,2002,2002-06-01,Group stage,Group,"Korea Republic, Japan",Cameroon,Republic of Ireland,Away,1,1,0,0,0,Draw,1,33679
+2010-0213,2010,2010-06-19,Group stage,Group,South Africa,Netherlands,Japan,Home,1,0,1,0,0,Win,3,62010
+2010-0213,2010,2010-06-19,Group stage,Group,South Africa,Japan,Netherlands,Away,0,1,-1,0,0,Loss,0,62010
+2010-0214,2010,2010-06-19,Group stage,Group,South Africa,Ghana,Australia,Home,1,1,0,0,0,Draw,1,34812
+2010-0214,2010,2010-06-19,Group stage,Group,South Africa,Australia,Ghana,Away,1,1,0,0,0,Draw,1,34812
+2010-0215,2010,2010-06-19,Group stage,Group,South Africa,Cameroon,Denmark,Home,1,2,-1,0,0,Loss,0,38074
+2010-0215,2010,2010-06-19,Group stage,Group,South Africa,Denmark,Cameroon,Away,2,1,1,0,0,Win,3,38074
+2010-0216,2010,2010-06-18,Group stage,Group,South Africa,Germany,Serbia,Home,0,1,-1,0,0,Loss,0,38294
+2010-0216,2010,2010-06-18,Group stage,Group,South Africa,Serbia,Germany,Away,1,0,1,0,0,Win,3,38294
+2010-0217,2010,2010-06-18,Group stage,Group,South Africa,Slovenia,United States,Home,2,2,0,0,0,Draw,1,45573
+2010-0217,2010,2010-06-18,Group stage,Group,South Africa,United States,Slovenia,Away,2,2,0,0,0,Draw,1,45573
+2010-0218,2010,2010-06-18,Group stage,Group,South Africa,England,Algeria,Home,0,0,0,0,0,Draw,1,64100
+2010-0218,2010,2010-06-18,Group stage,Group,South Africa,Algeria,England,Away,0,0,0,0,0,Draw,1,64100
+2010-0219,2010,2010-06-17,Group stage,Group,South Africa,Argentina,Korea Republic,Home,4,1,3,0,0,Win,3,82174
+2010-0219,2010,2010-06-17,Group stage,Group,South Africa,Korea Republic,Argentina,Away,1,4,-3,0,0,Loss,0,82174
+2010-0220,2010,2010-06-17,Group stage,Group,South Africa,Greece,Nigeria,Home,2,1,1,0,0,Win,3,31593
+2010-0220,2010,2010-06-17,Group stage,Group,South Africa,Nigeria,Greece,Away,1,2,-1,0,0,Loss,0,31593
+2010-0221,2010,2010-06-17,Group stage,Group,South Africa,France,Mexico,Home,0,2,-2,0,0,Loss,0,35370
+2010-0221,2010,2010-06-17,Group stage,Group,South Africa,Mexico,France,Away,2,0,2,0,0,Win,3,35370
+2010-0222,2010,2010-06-16,Group stage,Group,South Africa,Honduras,Chile,Home,0,1,-1,0,0,Loss,0,32664
+2010-0222,2010,2010-06-16,Group stage,Group,South Africa,Chile,Honduras,Away,1,0,1,0,0,Win,3,32664
+2002-0223,2002,2002-06-01,Group stage,Group,"Korea Republic, Japan",Uruguay,Denmark,Home,1,2,-1,0,0,Loss,0,30157
+2002-0223,2002,2002-06-01,Group stage,Group,"Korea Republic, Japan",Denmark,Uruguay,Away,2,1,1,0,0,Win,3,30157
+2010-0224,2010,2010-06-16,Group stage,Group,South Africa,Spain,Switzerland,Home,0,1,-1,0,0,Loss,0,62453
+2010-0224,2010,2010-06-16,Group stage,Group,South Africa,Switzerland,Spain,Away,1,0,1,0,0,Win,3,62453
+2002-0225,2002,2002-06-01,Group stage,Group,"Korea Republic, Japan",Germany,Saudi Arabia,Home,8,0,8,0,0,Win,3,32218
+2002-0225,2002,2002-06-01,Group stage,Group,"Korea Republic, Japan",Saudi Arabia,Germany,Away,0,8,-8,0,0,Loss,0,32218
+2010-0226,2010,2010-06-16,Group stage,Group,South Africa,South Africa,Uruguay,Home,0,3,-3,0,0,Loss,0,42658
+2010-0226,2010,2010-06-16,Group stage,Group,South Africa,Uruguay,South Africa,Away,3,0,3,0,0,Win,3,42658
+2002-0227,2002,2002-05-31,Group stage,Group,"Korea Republic, Japan",France,Senegal,Home,0,1,-1,0,0,Loss,0,62561
+2002-0227,2002,2002-05-31,Group stage,Group,"Korea Republic, Japan",Senegal,France,Away,1,0,1,0,0,Win,3,62561
+1998-0228,1998,1998-07-12,Final,Final,France,Brazil,France,Home,0,3,-3,0,0,Loss,0,80000
+1998-0228,1998,1998-07-12,Final,Final,France,France,Brazil,Away,3,0,3,0,0,Win,3,80000
+2010-0229,2010,2010-06-15,Group stage,Group,South Africa,New Zealand,Slovakia,Home,1,1,0,0,0,Draw,1,23871
+2010-0229,2010,2010-06-15,Group stage,Group,South Africa,Slovakia,New Zealand,Away,1,1,0,0,0,Draw,1,23871
+1998-0230,1998,1998-07-11,Third-place match,Placement,France,Netherlands,Croatia,Home,1,2,-1,0,0,Loss,0,44000
+1998-0230,1998,1998-07-11,Third-place match,Placement,France,Croatia,Netherlands,Away,2,1,1,0,0,Win,3,44000
+1998-0231,1998,1998-07-08,Semi-finals,Knockout,France,France,Croatia,Home,2,1,1,0,0,Win,3,80000
+1998-0231,1998,1998-07-08,Semi-finals,Knockout,France,Croatia,France,Away,1,2,-1,0,0,Loss,0,80000
+1998-0232,1998,1998-07-07,Semi-finals,Knockout,France,Brazil,Netherlands,Home,1,1,0,4,2,Win on penalties,3,60000
+1998-0232,1998,1998-07-07,Semi-finals,Knockout,France,Netherlands,Brazil,Away,1,1,0,2,4,Loss on penalties,0,60000
+1998-0233,1998,1998-07-04,Quarter-finals,Knockout,France,Netherlands,Argentina,Home,2,1,1,0,0,Win,3,60000
+1998-0233,1998,1998-07-04,Quarter-finals,Knockout,France,Argentina,Netherlands,Away,1,2,-1,0,0,Loss,0,60000
+1998-0234,1998,1998-07-04,Quarter-finals,Knockout,France,Germany,Croatia,Home,0,3,-3,0,0,Loss,0,43300
+1998-0234,1998,1998-07-04,Quarter-finals,Knockout,France,Croatia,Germany,Away,3,0,3,0,0,Win,3,43300
+1998-0235,1998,1998-07-03,Quarter-finals,Knockout,France,Italy,France,Home,0,0,0,3,4,Loss on penalties,0,80000
+1998-0235,1998,1998-07-03,Quarter-finals,Knockout,France,France,Italy,Away,0,0,0,4,3,Win on penalties,3,80000
+1998-0236,1998,1998-07-03,Quarter-finals,Knockout,France,Brazil,Denmark,Home,3,2,1,0,0,Win,3,49500
+1998-0236,1998,1998-07-03,Quarter-finals,Knockout,France,Denmark,Brazil,Away,2,3,-1,0,0,Loss,0,49500
+1998-0237,1998,1998-06-30,Round of 16,Knockout,France,Romania,Croatia,Home,0,1,-1,0,0,Loss,0,31800
+1998-0237,1998,1998-06-30,Round of 16,Knockout,France,Croatia,Romania,Away,1,0,1,0,0,Win,3,31800
+2014-0238,2014,2014-07-12,Third-place match,Placement,Brazil,Brazil,Netherlands,Home,0,3,-3,0,0,Loss,0,68034
+2014-0238,2014,2014-07-12,Third-place match,Placement,Brazil,Netherlands,Brazil,Away,3,0,3,0,0,Win,3,68034
+1998-0239,1998,1998-06-30,Round of 16,Knockout,France,Argentina,England,Home,2,2,0,4,3,Win on penalties,3,30600
+1998-0239,1998,1998-06-30,Round of 16,Knockout,France,England,Argentina,Away,2,2,0,3,4,Loss on penalties,0,30600
+2014-0240,2014,2014-07-09,Semi-finals,Knockout,Brazil,Netherlands,Argentina,Home,0,0,0,2,4,Loss on penalties,0,63267
+2014-0240,2014,2014-07-09,Semi-finals,Knockout,Brazil,Argentina,Netherlands,Away,0,0,0,4,2,Win on penalties,3,63267
+1998-0241,1998,1998-06-29,Round of 16,Knockout,France,Germany,Mexico,Home,2,1,1,0,0,Win,3,29800
+1998-0241,1998,1998-06-29,Round of 16,Knockout,France,Mexico,Germany,Away,1,2,-1,0,0,Loss,0,29800
+2014-0242,2014,2014-07-08,Semi-finals,Knockout,Brazil,Brazil,Germany,Home,1,7,-6,0,0,Loss,0,58141
+2014-0242,2014,2014-07-08,Semi-finals,Knockout,Brazil,Germany,Brazil,Away,7,1,6,0,0,Win,3,58141
+1998-0243,1998,1998-06-29,Round of 16,Knockout,France,Netherlands,FR Yugoslavia,Home,2,1,1,0,0,Win,3,33000
+1998-0243,1998,1998-06-29,Round of 16,Knockout,France,FR Yugoslavia,Netherlands,Away,1,2,-1,0,0,Loss,0,33000
+2014-0244,2014,2014-07-05,Quarter-finals,Knockout,Brazil,Argentina,Belgium,Home,1,0,1,0,0,Win,3,68551
+2014-0244,2014,2014-07-05,Quarter-finals,Knockout,Brazil,Belgium,Argentina,Away,0,1,-1,0,0,Loss,0,68551
+1998-0245,1998,1998-06-28,Round of 16,Knockout,France,France,Paraguay,Home,1,0,1,0,0,Win,3,31800
+1998-0245,1998,1998-06-28,Round of 16,Knockout,France,Paraguay,France,Away,0,1,-1,0,0,Loss,0,31800
+2014-0246,2014,2014-07-05,Quarter-finals,Knockout,Brazil,Netherlands,Costa Rica,Home,0,0,0,4,3,Win on penalties,3,51179
+2014-0246,2014,2014-07-05,Quarter-finals,Knockout,Brazil,Costa Rica,Netherlands,Away,0,0,0,3,4,Loss on penalties,0,51179
+1998-0247,1998,1998-06-28,Round of 16,Knockout,France,Nigeria,Denmark,Home,1,4,-3,0,0,Loss,0,77000
+1998-0247,1998,1998-06-28,Round of 16,Knockout,France,Denmark,Nigeria,Away,4,1,3,0,0,Win,3,77000
+2014-0248,2014,2014-07-04,Quarter-finals,Knockout,Brazil,France,Germany,Home,0,1,-1,0,0,Loss,0,74240
+2014-0248,2014,2014-07-04,Quarter-finals,Knockout,Brazil,Germany,France,Away,1,0,1,0,0,Win,3,74240
+1998-0249,1998,1998-06-27,Round of 16,Knockout,France,Italy,Norway,Home,1,0,1,0,0,Win,3,55000
+1998-0249,1998,1998-06-27,Round of 16,Knockout,France,Norway,Italy,Away,0,1,-1,0,0,Loss,0,55000
+2014-0250,2014,2014-07-04,Quarter-finals,Knockout,Brazil,Brazil,Colombia,Home,2,1,1,0,0,Win,3,60342
+2014-0250,2014,2014-07-04,Quarter-finals,Knockout,Brazil,Colombia,Brazil,Away,1,2,-1,0,0,Loss,0,60342
+1998-0251,1998,1998-06-27,Round of 16,Knockout,France,Brazil,Chile,Home,4,1,3,0,0,Win,3,45500
+1998-0251,1998,1998-06-27,Round of 16,Knockout,France,Chile,Brazil,Away,1,4,-3,0,0,Loss,0,45500
+2014-0252,2014,2014-07-01,Round of 16,Knockout,Brazil,Argentina,Switzerland,Home,1,0,1,0,0,Win,3,63255
+2014-0252,2014,2014-07-01,Round of 16,Knockout,Brazil,Switzerland,Argentina,Away,0,1,-1,0,0,Loss,0,63255
+1998-0253,1998,1998-06-26,Group stage,Group,France,Argentina,Croatia,Home,1,0,1,0,0,Win,3,31800
+1998-0253,1998,1998-06-26,Group stage,Group,France,Croatia,Argentina,Away,0,1,-1,0,0,Loss,0,31800
+2014-0254,2014,2014-07-01,Round of 16,Knockout,Brazil,Belgium,United States,Home,2,1,1,0,0,Win,3,51227
+2014-0254,2014,2014-07-01,Round of 16,Knockout,Brazil,United States,Belgium,Away,1,2,-1,0,0,Loss,0,51227
+1998-0255,1998,1998-06-26,Group stage,Group,France,Japan,Jamaica,Home,1,2,-1,0,0,Loss,0,39100
+1998-0255,1998,1998-06-26,Group stage,Group,France,Jamaica,Japan,Away,2,1,1,0,0,Win,3,39100
+2014-0256,2014,2014-06-30,Round of 16,Knockout,Brazil,France,Nigeria,Home,2,0,2,0,0,Win,3,67882
+2014-0256,2014,2014-06-30,Round of 16,Knockout,Brazil,Nigeria,France,Away,0,2,-2,0,0,Loss,0,67882
+1998-0257,1998,1998-06-26,Group stage,Group,France,Romania,Tunisia,Home,1,1,0,0,0,Draw,1,80000
+1998-0257,1998,1998-06-26,Group stage,Group,France,Tunisia,Romania,Away,1,1,0,0,0,Draw,1,80000
+2014-0258,2014,2014-06-30,Round of 16,Knockout,Brazil,Germany,Algeria,Home,2,1,1,0,0,Win,3,43063
+2014-0258,2014,2014-06-30,Round of 16,Knockout,Brazil,Algeria,Germany,Away,1,2,-1,0,0,Loss,0,43063
+1998-0259,1998,1998-06-26,Group stage,Group,France,Colombia,England,Home,0,2,-2,0,0,Loss,0,42000
+1998-0259,1998,1998-06-26,Group stage,Group,France,England,Colombia,Away,2,0,2,0,0,Win,3,42000
+1998-0260,1998,1998-06-25,Group stage,Group,France,Netherlands,Mexico,Home,2,2,0,0,0,Draw,1,30600
+1998-0260,1998,1998-06-25,Group stage,Group,France,Mexico,Netherlands,Away,2,2,0,0,0,Draw,1,30600
+2014-0261,2014,2014-06-29,Round of 16,Knockout,Brazil,Netherlands,Mexico,Home,2,1,1,0,0,Win,3,58817
+2014-0261,2014,2014-06-29,Round of 16,Knockout,Brazil,Mexico,Netherlands,Away,1,2,-1,0,0,Loss,0,58817
+1998-0262,1998,1998-06-25,Group stage,Group,France,Belgium,Korea Republic,Home,1,1,0,0,0,Draw,1,45500
+1998-0262,1998,1998-06-25,Group stage,Group,France,Korea Republic,Belgium,Away,1,1,0,0,0,Draw,1,45500
+2014-0263,2014,2014-06-29,Round of 16,Knockout,Brazil,Costa Rica,Greece,Home,1,1,0,5,3,Win on penalties,3,41242
+2014-0263,2014,2014-06-29,Round of 16,Knockout,Brazil,Greece,Costa Rica,Away,1,1,0,3,5,Loss on penalties,0,41242
+1998-0264,1998,1998-06-25,Group stage,Group,France,United States,FR Yugoslavia,Home,0,1,-1,0,0,Loss,0,38500
+1998-0264,1998,1998-06-25,Group stage,Group,France,FR Yugoslavia,United States,Away,1,0,1,0,0,Win,3,38500
+2014-0265,2014,2014-06-28,Round of 16,Knockout,Brazil,Brazil,Chile,Home,1,1,0,3,2,Win on penalties,3,57714
+2014-0265,2014,2014-06-28,Round of 16,Knockout,Brazil,Chile,Brazil,Away,1,1,0,2,3,Loss on penalties,0,57714
+1998-0266,1998,1998-06-25,Group stage,Group,France,Germany,IR Iran,Home,2,0,2,0,0,Win,3,35500
+1998-0266,1998,1998-06-25,Group stage,Group,France,IR Iran,Germany,Away,0,2,-2,0,0,Loss,0,35500
+2014-0267,2014,2014-06-28,Round of 16,Knockout,Brazil,Colombia,Uruguay,Home,2,0,2,0,0,Win,3,73804
+2014-0267,2014,2014-06-28,Round of 16,Knockout,Brazil,Uruguay,Colombia,Away,0,2,-2,0,0,Loss,0,73804
+1998-0268,1998,1998-06-24,Group stage,Group,France,South Africa,Saudi Arabia,Home,2,2,0,0,0,Draw,1,31800
+1998-0268,1998,1998-06-24,Group stage,Group,France,Saudi Arabia,South Africa,Away,2,2,0,0,0,Draw,1,31800
+2014-0269,2014,2014-06-26,Group stage,Group,Brazil,United States,Germany,Home,0,1,-1,0,0,Loss,0,41876
+2014-0269,2014,2014-06-26,Group stage,Group,Brazil,Germany,United States,Away,1,0,1,0,0,Win,3,41876
+1998-0270,1998,1998-06-24,Group stage,Group,France,France,Denmark,Home,2,1,1,0,0,Win,3,39100
+1998-0270,1998,1998-06-24,Group stage,Group,France,Denmark,France,Away,1,2,-1,0,0,Loss,0,39100
+2014-0271,2014,2014-06-26,Group stage,Group,Brazil,Portugal,Ghana,Home,2,1,1,0,0,Win,3,67540
+2014-0271,2014,2014-06-26,Group stage,Group,Brazil,Ghana,Portugal,Away,1,2,-1,0,0,Loss,0,67540
+1998-0272,1998,1998-06-24,Group stage,Group,France,Spain,Bulgaria,Home,6,1,5,0,0,Win,3,41275
+1998-0272,1998,1998-06-24,Group stage,Group,France,Bulgaria,Spain,Away,1,6,-5,0,0,Loss,0,41275
+2014-0273,2014,2014-06-26,Group stage,Group,Brazil,Korea Republic,Belgium,Home,0,1,-1,0,0,Loss,0,61397
+2014-0273,2014,2014-06-26,Group stage,Group,Brazil,Belgium,Korea Republic,Away,1,0,1,0,0,Win,3,61397
+1998-0274,1998,1998-06-24,Group stage,Group,France,Nigeria,Paraguay,Home,1,3,-2,0,0,Loss,0,33400
+1998-0274,1998,1998-06-24,Group stage,Group,France,Paraguay,Nigeria,Away,3,1,2,0,0,Win,3,33400
+2014-0275,2014,2014-06-26,Group stage,Group,Brazil,Algeria,Russia,Home,1,1,0,0,0,Draw,1,39311
+2014-0275,2014,2014-06-26,Group stage,Group,Brazil,Russia,Algeria,Away,1,1,0,0,0,Draw,1,39311
+1998-0276,1998,1998-06-23,Group stage,Group,France,Italy,Austria,Home,2,1,1,0,0,Win,3,80000
+1998-0276,1998,1998-06-23,Group stage,Group,France,Austria,Italy,Away,1,2,-1,0,0,Loss,0,80000
+1998-0277,1998,1998-06-23,Group stage,Group,France,Chile,Cameroon,Home,1,1,0,0,0,Draw,1,39500
+1998-0277,1998,1998-06-23,Group stage,Group,France,Cameroon,Chile,Away,1,1,0,0,0,Draw,1,39500
+1998-0278,1998,1998-06-23,Group stage,Group,France,Brazil,Norway,Home,1,2,-1,0,0,Loss,0,57000
+1998-0278,1998,1998-06-23,Group stage,Group,France,Norway,Brazil,Away,2,1,1,0,0,Win,3,57000
+1998-0279,1998,1998-06-23,Group stage,Group,France,Scotland,Morocco,Home,0,3,-3,0,0,Loss,0,36000
+1998-0279,1998,1998-06-23,Group stage,Group,France,Morocco,Scotland,Away,3,0,3,0,0,Win,3,36000
+1998-0280,1998,1998-06-22,Group stage,Group,France,Colombia,Tunisia,Home,1,0,1,0,0,Win,3,35500
+1998-0280,1998,1998-06-22,Group stage,Group,France,Tunisia,Colombia,Away,0,1,-1,0,0,Loss,0,35500
+1998-0281,1998,1998-06-22,Group stage,Group,France,Romania,England,Home,2,1,1,0,0,Win,3,33140
+1998-0281,1998,1998-06-22,Group stage,Group,France,England,Romania,Away,1,2,-1,0,0,Loss,0,33140
+1998-0282,1998,1998-06-21,Group stage,Group,France,Germany,FR Yugoslavia,Home,2,2,0,0,0,Draw,1,41275
+1998-0282,1998,1998-06-21,Group stage,Group,France,FR Yugoslavia,Germany,Away,2,2,0,0,0,Draw,1,41275
+1998-0283,1998,1998-06-21,Group stage,Group,France,Argentina,Jamaica,Home,5,0,5,0,0,Win,3,45500
+1998-0283,1998,1998-06-21,Group stage,Group,France,Jamaica,Argentina,Away,0,5,-5,0,0,Loss,0,45500
+1998-0284,1998,1998-06-21,Group stage,Group,France,United States,IR Iran,Home,1,2,-1,0,0,Loss,0,43300
+1998-0284,1998,1998-06-21,Group stage,Group,France,IR Iran,United States,Away,2,1,1,0,0,Win,3,43300
+1998-0285,1998,1998-06-20,Group stage,Group,France,Japan,Croatia,Home,0,1,-1,0,0,Loss,0,35500
+1998-0285,1998,1998-06-20,Group stage,Group,France,Croatia,Japan,Away,1,0,1,0,0,Win,3,35500
+2010-0286,2010,2010-06-15,Group stage,Group,South Africa,Côte d'Ivoire,Portugal,Home,0,0,0,0,0,Draw,1,37034
+2010-0286,2010,2010-06-15,Group stage,Group,South Africa,Portugal,Côte d'Ivoire,Away,0,0,0,0,0,Draw,1,37034
+1998-0287,1998,1998-06-20,Group stage,Group,France,Belgium,Mexico,Home,2,2,0,0,0,Draw,1,31800
+1998-0287,1998,1998-06-20,Group stage,Group,France,Mexico,Belgium,Away,2,2,0,0,0,Draw,1,31800
+1998-0288,1998,1998-06-20,Group stage,Group,France,Netherlands,Korea Republic,Home,5,0,5,0,0,Win,3,55000
+1998-0288,1998,1998-06-20,Group stage,Group,France,Korea Republic,Netherlands,Away,0,5,-5,0,0,Loss,0,55000
+2010-0289,2010,2010-06-15,Group stage,Group,South Africa,Brazil,Korea DPR,Home,2,1,1,0,0,Win,3,54331
+2010-0289,2010,2010-06-15,Group stage,Group,South Africa,Korea DPR,Brazil,Away,1,2,-1,0,0,Loss,0,54331
+2010-0290,2010,2010-06-14,Group stage,Group,South Africa,Netherlands,Denmark,Home,2,0,2,0,0,Win,3,83465
+2010-0290,2010,2010-06-14,Group stage,Group,South Africa,Denmark,Netherlands,Away,0,2,-2,0,0,Loss,0,83465
+2010-0291,2010,2010-06-14,Group stage,Group,South Africa,Japan,Cameroon,Home,1,0,1,0,0,Win,3,30620
+2010-0291,2010,2010-06-14,Group stage,Group,South Africa,Cameroon,Japan,Away,0,1,-1,0,0,Loss,0,30620
+1998-0292,1998,1998-06-19,Group stage,Group,France,Nigeria,Bulgaria,Home,1,0,1,0,0,Win,3,48000
+1998-0292,1998,1998-06-19,Group stage,Group,France,Bulgaria,Nigeria,Away,0,1,-1,0,0,Loss,0,48000
+2010-0293,2010,2010-06-14,Group stage,Group,South Africa,Italy,Paraguay,Home,1,1,0,0,0,Draw,1,62869
+2010-0293,2010,2010-06-14,Group stage,Group,South Africa,Paraguay,Italy,Away,1,1,0,0,0,Draw,1,62869
+1998-0294,1998,1998-06-19,Group stage,Group,France,Spain,Paraguay,Home,0,0,0,0,0,Draw,1,36000
+1998-0294,1998,1998-06-19,Group stage,Group,France,Paraguay,Spain,Away,0,0,0,0,0,Draw,1,36000
+2010-0295,2010,2010-06-13,Group stage,Group,South Africa,Algeria,Slovenia,Home,0,1,-1,0,0,Loss,0,30325
+2010-0295,2010,2010-06-13,Group stage,Group,South Africa,Slovenia,Algeria,Away,1,0,1,0,0,Win,3,30325
+1998-0296,1998,1998-06-18,Group stage,Group,France,South Africa,Denmark,Home,1,1,0,0,0,Draw,1,33500
+1998-0296,1998,1998-06-18,Group stage,Group,France,Denmark,South Africa,Away,1,1,0,0,0,Draw,1,33500
+2010-0297,2010,2010-06-13,Group stage,Group,South Africa,Serbia,Ghana,Home,0,1,-1,0,0,Loss,0,38833
+2010-0297,2010,2010-06-13,Group stage,Group,South Africa,Ghana,Serbia,Away,1,0,1,0,0,Win,3,38833
+1998-0298,1998,1998-06-18,Group stage,Group,France,France,Saudi Arabia,Home,4,0,4,0,0,Win,3,80000
+1998-0298,1998,1998-06-18,Group stage,Group,France,Saudi Arabia,France,Away,0,4,-4,0,0,Loss,0,80000
+2010-0299,2010,2010-06-13,Group stage,Group,South Africa,Germany,Australia,Home,4,0,4,0,0,Win,3,62660
+2010-0299,2010,2010-06-13,Group stage,Group,South Africa,Australia,Germany,Away,0,4,-4,0,0,Loss,0,62660
+1998-0300,1998,1998-06-17,Group stage,Group,France,Chile,Austria,Home,1,1,0,0,0,Draw,1,36000
+1998-0300,1998,1998-06-17,Group stage,Group,France,Austria,Chile,Away,1,1,0,0,0,Draw,1,36000
+2010-0301,2010,2010-06-12,Group stage,Group,South Africa,Korea Republic,Greece,Home,2,0,2,0,0,Win,3,31513
+2010-0301,2010,2010-06-12,Group stage,Group,South Africa,Greece,Korea Republic,Away,0,2,-2,0,0,Loss,0,31513
+1998-0302,1998,1998-06-17,Group stage,Group,France,Italy,Cameroon,Home,3,0,3,0,0,Win,3,35500
+1998-0302,1998,1998-06-17,Group stage,Group,France,Cameroon,Italy,Away,0,3,-3,0,0,Loss,0,35500
+2010-0303,2010,2010-06-12,Group stage,Group,South Africa,Argentina,Nigeria,Home,1,0,1,0,0,Win,3,55686
+2010-0303,2010,2010-06-12,Group stage,Group,South Africa,Nigeria,Argentina,Away,0,1,-1,0,0,Loss,0,55686
+1998-0304,1998,1998-06-16,Group stage,Group,France,Scotland,Norway,Home,1,1,0,0,0,Draw,1,31800
+1998-0304,1998,1998-06-16,Group stage,Group,France,Norway,Scotland,Away,1,1,0,0,0,Draw,1,31800
+2010-0305,2010,2010-06-12,Group stage,Group,South Africa,England,United States,Home,1,1,0,0,0,Draw,1,38646
+2010-0305,2010,2010-06-12,Group stage,Group,South Africa,United States,England,Away,1,1,0,0,0,Draw,1,38646
+1998-0306,1998,1998-06-16,Group stage,Group,France,Brazil,Morocco,Home,3,0,3,0,0,Win,3,38500
+1998-0306,1998,1998-06-16,Group stage,Group,France,Morocco,Brazil,Away,0,3,-3,0,0,Loss,0,38500
+2010-0307,2010,2010-06-11,Group stage,Group,South Africa,South Africa,Mexico,Home,1,1,0,0,0,Draw,1,84490
+2010-0307,2010,2010-06-11,Group stage,Group,South Africa,Mexico,South Africa,Away,1,1,0,0,0,Draw,1,84490
+1998-0308,1998,1998-06-15,Group stage,Group,France,England,Tunisia,Home,2,0,2,0,0,Win,3,54587
+1998-0308,1998,1998-06-15,Group stage,Group,France,Tunisia,England,Away,0,2,-2,0,0,Loss,0,54587
+2010-0309,2010,2010-06-11,Group stage,Group,South Africa,Uruguay,France,Home,0,0,0,0,0,Draw,1,64100
+2010-0309,2010,2010-06-11,Group stage,Group,South Africa,France,Uruguay,Away,0,0,0,0,0,Draw,1,64100
+1998-0310,1998,1998-06-15,Group stage,Group,France,Romania,Colombia,Home,1,0,1,0,0,Win,3,43300
+1998-0310,1998,1998-06-15,Group stage,Group,France,Colombia,Romania,Away,0,1,-1,0,0,Loss,0,43300
+2006-0311,2006,2006-07-09,Final,Final,Germany,Italy,France,Home,1,1,0,5,3,Win on penalties,3,69000
+2006-0311,2006,2006-07-09,Final,Final,Germany,France,Italy,Away,1,1,0,3,5,Loss on penalties,0,69000
+2006-0312,2006,2006-07-08,Third-place match,Placement,Germany,Germany,Portugal,Home,3,1,2,0,0,Win,3,52000
+2006-0312,2006,2006-07-08,Third-place match,Placement,Germany,Portugal,Germany,Away,1,3,-2,0,0,Loss,0,52000
+1998-0313,1998,1998-06-15,Group stage,Group,France,Germany,United States,Home,2,0,2,0,0,Win,3,49000
+1998-0313,1998,1998-06-15,Group stage,Group,France,United States,Germany,Away,0,2,-2,0,0,Loss,0,49000
+1998-0314,1998,1998-06-14,Group stage,Group,France,Argentina,Japan,Home,1,0,1,0,0,Win,3,33500
+1998-0314,1998,1998-06-14,Group stage,Group,France,Japan,Argentina,Away,0,1,-1,0,0,Loss,0,33500
+2006-0315,2006,2006-07-05,Semi-finals,Knockout,Germany,Portugal,France,Home,0,1,-1,0,0,Loss,0,66000
+2006-0315,2006,2006-07-05,Semi-finals,Knockout,Germany,France,Portugal,Away,1,0,1,0,0,Win,3,66000
+2006-0316,2006,2006-07-04,Semi-finals,Knockout,Germany,Germany,Italy,Home,0,2,-2,0,0,Loss,0,65000
+2006-0316,2006,2006-07-04,Semi-finals,Knockout,Germany,Italy,Germany,Away,2,0,2,0,0,Win,3,65000
+1998-0317,1998,1998-06-14,Group stage,Group,France,FR Yugoslavia,IR Iran,Home,1,0,1,0,0,Win,3,36000
+1998-0317,1998,1998-06-14,Group stage,Group,France,IR Iran,FR Yugoslavia,Away,0,1,-1,0,0,Loss,0,36000
+2006-0318,2006,2006-07-01,Quarter-finals,Knockout,Germany,England,Portugal,Home,0,0,0,1,3,Loss on penalties,0,52000
+2006-0318,2006,2006-07-01,Quarter-finals,Knockout,Germany,Portugal,England,Away,0,0,0,3,1,Win on penalties,3,52000
+1998-0319,1998,1998-06-14,Group stage,Group,France,Jamaica,Croatia,Home,1,3,-2,0,0,Loss,0,38100
+1998-0319,1998,1998-06-14,Group stage,Group,France,Croatia,Jamaica,Away,3,1,2,0,0,Win,3,38100
+2006-0320,2006,2006-07-01,Quarter-finals,Knockout,Germany,Brazil,France,Home,0,1,-1,0,0,Loss,0,48000
+2006-0320,2006,2006-07-01,Quarter-finals,Knockout,Germany,France,Brazil,Away,1,0,1,0,0,Win,3,48000
+1998-0321,1998,1998-06-13,Group stage,Group,France,Spain,Nigeria,Home,2,3,-1,0,0,Loss,0,38000
+1998-0321,1998,1998-06-13,Group stage,Group,France,Nigeria,Spain,Away,3,2,1,0,0,Win,3,38000
+2006-0322,2006,2006-06-30,Quarter-finals,Knockout,Germany,Germany,Argentina,Home,1,1,0,4,2,Win on penalties,3,72000
+2006-0322,2006,2006-06-30,Quarter-finals,Knockout,Germany,Argentina,Germany,Away,1,1,0,2,4,Loss on penalties,0,72000
+1998-0323,1998,1998-06-13,Group stage,Group,France,Korea Republic,Mexico,Home,1,3,-2,0,0,Loss,0,39100
+1998-0323,1998,1998-06-13,Group stage,Group,France,Mexico,Korea Republic,Away,3,1,2,0,0,Win,3,39100
+2006-0324,2006,2006-06-30,Quarter-finals,Knockout,Germany,Italy,Ukraine,Home,3,0,3,0,0,Win,3,50000
+2006-0324,2006,2006-06-30,Quarter-finals,Knockout,Germany,Ukraine,Italy,Away,0,3,-3,0,0,Loss,0,50000
+1998-0325,1998,1998-06-13,Group stage,Group,France,Netherlands,Belgium,Home,0,0,0,0,0,Draw,1,77000
+1998-0325,1998,1998-06-13,Group stage,Group,France,Belgium,Netherlands,Away,0,0,0,0,0,Draw,1,77000
+1998-0326,1998,1998-06-12,Group stage,Group,France,Paraguay,Bulgaria,Home,0,0,0,0,0,Draw,1,27650
+1998-0326,1998,1998-06-12,Group stage,Group,France,Bulgaria,Paraguay,Away,0,0,0,0,0,Draw,1,27650
+1998-0327,1998,1998-06-12,Group stage,Group,France,Saudi Arabia,Denmark,Home,0,1,-1,0,0,Loss,0,38100
+1998-0327,1998,1998-06-12,Group stage,Group,France,Denmark,Saudi Arabia,Away,1,0,1,0,0,Win,3,38100
+1998-0328,1998,1998-06-12,Group stage,Group,France,France,South Africa,Home,3,0,3,0,0,Win,3,55000
+1998-0328,1998,1998-06-12,Group stage,Group,France,South Africa,France,Away,0,3,-3,0,0,Loss,0,55000
+1998-0329,1998,1998-06-11,Group stage,Group,France,Italy,Chile,Home,2,2,0,0,0,Draw,1,35200
+1998-0329,1998,1998-06-11,Group stage,Group,France,Chile,Italy,Away,2,2,0,0,0,Draw,1,35200
+1998-0330,1998,1998-06-11,Group stage,Group,France,Cameroon,Austria,Home,1,1,0,0,0,Draw,1,36500
+1998-0330,1998,1998-06-11,Group stage,Group,France,Austria,Cameroon,Away,1,1,0,0,0,Draw,1,36500
+2014-0331,2014,2014-06-25,Group stage,Group,Brazil,Bosnia and Herzegovina,IR Iran,Home,3,1,2,0,0,Win,3,48011
+2014-0331,2014,2014-06-25,Group stage,Group,Brazil,IR Iran,Bosnia and Herzegovina,Away,1,3,-2,0,0,Loss,0,48011
+1998-0332,1998,1998-06-10,Group stage,Group,France,Brazil,Scotland,Home,2,1,1,0,0,Win,3,80000
+1998-0332,1998,1998-06-10,Group stage,Group,France,Scotland,Brazil,Away,1,2,-1,0,0,Loss,0,80000
+1998-0333,1998,1998-06-10,Group stage,Group,France,Morocco,Norway,Home,2,2,0,0,0,Draw,1,29750
+1998-0333,1998,1998-06-10,Group stage,Group,France,Norway,Morocco,Away,2,2,0,0,0,Draw,1,29750
+2014-0334,2014,2014-06-25,Group stage,Group,Brazil,Nigeria,Argentina,Home,2,3,-1,0,0,Loss,0,43285
+2014-0334,2014,2014-06-25,Group stage,Group,Brazil,Argentina,Nigeria,Away,3,2,1,0,0,Win,3,43285
+1994-0335,1994,1994-07-17,Final,Final,United States,Brazil,Italy,Home,0,0,0,3,2,Win on penalties,3,94194
+1994-0335,1994,1994-07-17,Final,Final,United States,Italy,Brazil,Away,0,0,0,2,3,Loss on penalties,0,94194
+2014-0336,2014,2014-06-25,Group stage,Group,Brazil,Honduras,Switzerland,Home,0,3,-3,0,0,Loss,0,40322
+2014-0336,2014,2014-06-25,Group stage,Group,Brazil,Switzerland,Honduras,Away,3,0,3,0,0,Win,3,40322
+2014-0337,2014,2014-06-25,Group stage,Group,Brazil,Ecuador,France,Home,0,0,0,0,0,Draw,1,73749
+2014-0337,2014,2014-06-25,Group stage,Group,Brazil,France,Ecuador,Away,0,0,0,0,0,Draw,1,73749
+1994-0338,1994,1994-07-16,Third-place match,Placement,United States,Sweden,Bulgaria,Home,4,0,4,0,0,Win,3,91500
+1994-0338,1994,1994-07-16,Third-place match,Placement,United States,Bulgaria,Sweden,Away,0,4,-4,0,0,Loss,0,91500
+1994-0339,1994,1994-07-13,Semi-finals,Knockout,United States,Bulgaria,Italy,Home,1,2,-1,0,0,Loss,0,74110
+1994-0339,1994,1994-07-13,Semi-finals,Knockout,United States,Italy,Bulgaria,Away,2,1,1,0,0,Win,3,74110
+1994-0340,1994,1994-07-13,Semi-finals,Knockout,United States,Sweden,Brazil,Home,0,1,-1,0,0,Loss,0,91856
+1994-0340,1994,1994-07-13,Semi-finals,Knockout,United States,Brazil,Sweden,Away,1,0,1,0,0,Win,3,91856
+1994-0341,1994,1994-07-10,Quarter-finals,Knockout,United States,Bulgaria,Germany,Home,2,1,1,0,0,Win,3,72000
+1994-0341,1994,1994-07-10,Quarter-finals,Knockout,United States,Germany,Bulgaria,Away,1,2,-1,0,0,Loss,0,72000
+1994-0342,1994,1994-07-10,Quarter-finals,Knockout,United States,Romania,Sweden,Home,2,2,0,4,5,Loss on penalties,0,83500
+1994-0342,1994,1994-07-10,Quarter-finals,Knockout,United States,Sweden,Romania,Away,2,2,0,5,4,Win on penalties,3,83500
+1994-0343,1994,1994-07-09,Quarter-finals,Knockout,United States,Italy,Spain,Home,2,1,1,0,0,Win,3,53400
+1994-0343,1994,1994-07-09,Quarter-finals,Knockout,United States,Spain,Italy,Away,1,2,-1,0,0,Loss,0,53400
+1994-0344,1994,1994-07-09,Quarter-finals,Knockout,United States,Netherlands,Brazil,Home,2,3,-1,0,0,Loss,0,63500
+1994-0344,1994,1994-07-09,Quarter-finals,Knockout,United States,Brazil,Netherlands,Away,3,2,1,0,0,Win,3,63500
+1994-0345,1994,1994-07-05,Round of 16,Knockout,United States,Nigeria,Italy,Home,1,2,-1,0,0,Loss,0,54367
+1994-0345,1994,1994-07-05,Round of 16,Knockout,United States,Italy,Nigeria,Away,2,1,1,0,0,Win,3,54367
+1994-0346,1994,1994-07-05,Round of 16,Knockout,United States,Mexico,Bulgaria,Home,1,1,0,1,3,Loss on penalties,0,71030
+1994-0346,1994,1994-07-05,Round of 16,Knockout,United States,Bulgaria,Mexico,Away,1,1,0,3,1,Win on penalties,3,71030
+1994-0347,1994,1994-07-04,Round of 16,Knockout,United States,Netherlands,Republic of Ireland,Home,2,0,2,0,0,Win,3,61355
+1994-0347,1994,1994-07-04,Round of 16,Knockout,United States,Republic of Ireland,Netherlands,Away,0,2,-2,0,0,Loss,0,61355
+1994-0348,1994,1994-07-04,Round of 16,Knockout,United States,Brazil,United States,Home,1,0,1,0,0,Win,3,84147
+1994-0348,1994,1994-07-04,Round of 16,Knockout,United States,United States,Brazil,Away,0,1,-1,0,0,Loss,0,84147
+1994-0349,1994,1994-07-03,Round of 16,Knockout,United States,Saudi Arabia,Sweden,Home,1,3,-2,0,0,Loss,0,60277
+1994-0349,1994,1994-07-03,Round of 16,Knockout,United States,Sweden,Saudi Arabia,Away,3,1,2,0,0,Win,3,60277
+1990-0350,1990,1990-06-19,Group stage,Group,Italy,Italy,Czechoslovakia,Home,2,0,2,0,0,Win,3,73303
+1990-0350,1990,1990-06-19,Group stage,Group,Italy,Czechoslovakia,Italy,Away,0,2,-2,0,0,Loss,0,73303
+1994-0351,1994,1994-07-03,Round of 16,Knockout,United States,Romania,Argentina,Home,3,2,1,0,0,Win,3,90469
+1994-0351,1994,1994-07-03,Round of 16,Knockout,United States,Argentina,Romania,Away,2,3,-1,0,0,Loss,0,90469
+1990-0352,1990,1990-06-18,Group stage,Group,Italy,Argentina,Romania,Home,1,1,0,0,0,Draw,1,52733
+1990-0352,1990,1990-06-18,Group stage,Group,Italy,Romania,Argentina,Away,1,1,0,0,0,Draw,1,52733
+1994-0353,1994,1994-07-02,Round of 16,Knockout,United States,Germany,Belgium,Home,3,2,1,0,0,Win,3,60246
+1994-0353,1994,1994-07-02,Round of 16,Knockout,United States,Belgium,Germany,Away,2,3,-1,0,0,Loss,0,60246
+1990-0354,1990,1990-06-18,Group stage,Group,Italy,Cameroon,Soviet Union,Home,0,4,-4,0,0,Loss,0,37307
+1990-0354,1990,1990-06-18,Group stage,Group,Italy,Soviet Union,Cameroon,Away,4,0,4,0,0,Win,3,37307
+1994-0355,1994,1994-07-02,Round of 16,Knockout,United States,Spain,Switzerland,Home,3,0,3,0,0,Win,3,53121
+1994-0355,1994,1994-07-02,Round of 16,Knockout,United States,Switzerland,Spain,Away,0,3,-3,0,0,Loss,0,53121
+1990-0356,1990,1990-06-17,Group stage,Group,Italy,Republic of Ireland,Egypt,Home,0,0,0,0,0,Draw,1,33288
+1990-0356,1990,1990-06-17,Group stage,Group,Italy,Egypt,Republic of Ireland,Away,0,0,0,0,0,Draw,1,33288
+1994-0357,1994,1994-06-30,Group stage,Group,United States,Greece,Nigeria,Home,0,2,-2,0,0,Loss,0,53001
+1994-0357,1994,1994-06-30,Group stage,Group,United States,Nigeria,Greece,Away,2,0,2,0,0,Win,3,53001
+1990-0358,1990,1990-06-17,Group stage,Group,Italy,Belgium,Uruguay,Home,3,1,2,0,0,Win,3,33759
+1990-0358,1990,1990-06-17,Group stage,Group,Italy,Uruguay,Belgium,Away,1,3,-2,0,0,Loss,0,33759
+1994-0359,1994,1994-06-30,Group stage,Group,United States,Argentina,Bulgaria,Home,0,2,-2,0,0,Loss,0,63998
+1994-0359,1994,1994-06-30,Group stage,Group,United States,Bulgaria,Argentina,Away,2,0,2,0,0,Win,3,63998
+1990-0360,1990,1990-06-17,Group stage,Group,Italy,Korea Republic,Spain,Home,1,3,-2,0,0,Loss,0,32733
+1990-0360,1990,1990-06-17,Group stage,Group,Italy,Spain,Korea Republic,Away,3,1,2,0,0,Win,3,32733
+1994-0361,1994,1994-06-29,Group stage,Group,United States,Morocco,Netherlands,Home,1,2,-1,0,0,Loss,0,60578
+1994-0361,1994,1994-06-29,Group stage,Group,United States,Netherlands,Morocco,Away,2,1,1,0,0,Win,3,60578
+1990-0362,1990,1990-06-16,Group stage,Group,Italy,Brazil,Costa Rica,Home,1,0,1,0,0,Win,3,58007
+1990-0362,1990,1990-06-16,Group stage,Group,Italy,Costa Rica,Brazil,Away,0,1,-1,0,0,Loss,0,58007
+1994-0363,1994,1994-06-29,Group stage,Group,United States,Belgium,Saudi Arabia,Home,0,1,-1,0,0,Loss,0,52959
+1994-0363,1994,1994-06-29,Group stage,Group,United States,Saudi Arabia,Belgium,Away,1,0,1,0,0,Win,3,52959
+1994-0364,1994,1994-06-28,Group stage,Group,United States,Italy,Mexico,Home,1,1,0,0,0,Draw,1,52535
+1994-0364,1994,1994-06-28,Group stage,Group,United States,Mexico,Italy,Away,1,1,0,0,0,Draw,1,52535
+1994-0365,1994,1994-06-28,Group stage,Group,United States,Republic of Ireland,Norway,Home,0,0,0,0,0,Draw,1,72404
+1994-0365,1994,1994-06-28,Group stage,Group,United States,Norway,Republic of Ireland,Away,0,0,0,0,0,Draw,1,72404
+1994-0366,1994,1994-06-28,Group stage,Group,United States,Russia,Cameroon,Home,6,1,5,0,0,Win,3,74914
+1994-0366,1994,1994-06-28,Group stage,Group,United States,Cameroon,Russia,Away,1,6,-5,0,0,Loss,0,74914
+1994-0367,1994,1994-06-28,Group stage,Group,United States,Brazil,Sweden,Home,1,1,0,0,0,Draw,1,77217
+1994-0367,1994,1994-06-28,Group stage,Group,United States,Sweden,Brazil,Away,1,1,0,0,0,Draw,1,77217
+1994-0368,1994,1994-06-27,Group stage,Group,United States,Germany,Korea Republic,Home,3,2,1,0,0,Win,3,63998
+1994-0368,1994,1994-06-27,Group stage,Group,United States,Korea Republic,Germany,Away,2,3,-1,0,0,Loss,0,63998
+1994-0369,1994,1994-06-27,Group stage,Group,United States,Bolivia,Spain,Home,1,3,-2,0,0,Loss,0,63089
+1994-0369,1994,1994-06-27,Group stage,Group,United States,Spain,Bolivia,Away,3,1,2,0,0,Win,3,63089
+1994-0370,1994,1994-06-26,Group stage,Group,United States,Bulgaria,Greece,Home,4,0,4,0,0,Win,3,63160
+1994-0370,1994,1994-06-26,Group stage,Group,United States,Greece,Bulgaria,Away,0,4,-4,0,0,Loss,0,63160
+1994-0371,1994,1994-06-26,Group stage,Group,United States,United States,Romania,Home,0,1,-1,0,0,Loss,0,93869
+1994-0371,1994,1994-06-26,Group stage,Group,United States,Romania,United States,Away,1,0,1,0,0,Win,3,93869
+2014-0372,2014,2014-06-24,Group stage,Group,Brazil,Italy,Uruguay,Home,0,1,-1,0,0,Loss,0,39706
+2014-0372,2014,2014-06-24,Group stage,Group,Brazil,Uruguay,Italy,Away,1,0,1,0,0,Win,3,39706
+2006-0373,2006,2006-06-27,Round of 16,Knockout,Germany,Brazil,Ghana,Home,3,0,3,0,0,Win,3,65000
+2006-0373,2006,2006-06-27,Round of 16,Knockout,Germany,Ghana,Brazil,Away,0,3,-3,0,0,Loss,0,65000
+2006-0374,2006,2006-06-27,Round of 16,Knockout,Germany,Spain,France,Home,1,3,-2,0,0,Loss,0,43000
+2006-0374,2006,2006-06-27,Round of 16,Knockout,Germany,France,Spain,Away,3,1,2,0,0,Win,3,43000
+2006-0375,2006,2006-06-26,Round of 16,Knockout,Germany,Italy,Australia,Home,1,0,1,0,0,Win,3,46000
+2006-0375,2006,2006-06-26,Round of 16,Knockout,Germany,Australia,Italy,Away,0,1,-1,0,0,Loss,0,46000
+2006-0376,2006,2006-06-26,Round of 16,Knockout,Germany,Switzerland,Ukraine,Home,0,0,0,0,3,Loss on penalties,0,45000
+2006-0376,2006,2006-06-26,Round of 16,Knockout,Germany,Ukraine,Switzerland,Away,0,0,0,3,0,Win on penalties,3,45000
+2006-0377,2006,2006-06-25,Round of 16,Knockout,Germany,England,Ecuador,Home,1,0,1,0,0,Win,3,52000
+2006-0377,2006,2006-06-25,Round of 16,Knockout,Germany,Ecuador,England,Away,0,1,-1,0,0,Loss,0,52000
+2014-0378,2014,2014-06-24,Group stage,Group,Brazil,Japan,Colombia,Home,1,4,-3,0,0,Loss,0,40340
+2014-0378,2014,2014-06-24,Group stage,Group,Brazil,Colombia,Japan,Away,4,1,3,0,0,Win,3,40340
+2006-0379,2006,2006-06-25,Round of 16,Knockout,Germany,Portugal,Netherlands,Home,1,0,1,0,0,Win,3,41000
+2006-0379,2006,2006-06-25,Round of 16,Knockout,Germany,Netherlands,Portugal,Away,0,1,-1,0,0,Loss,0,41000
+2014-0380,2014,2014-06-24,Group stage,Group,Brazil,Greece,Côte d'Ivoire,Home,2,1,1,0,0,Win,3,59095
+2014-0380,2014,2014-06-24,Group stage,Group,Brazil,Côte d'Ivoire,Greece,Away,1,2,-1,0,0,Loss,0,59095
+2006-0381,2006,2006-06-24,Round of 16,Knockout,Germany,Germany,Sweden,Home,2,0,2,0,0,Win,3,66000
+2006-0381,2006,2006-06-24,Round of 16,Knockout,Germany,Sweden,Germany,Away,0,2,-2,0,0,Loss,0,66000
+2006-0382,2006,2006-06-24,Round of 16,Knockout,Germany,Argentina,Mexico,Home,2,1,1,0,0,Win,3,43000
+2006-0382,2006,2006-06-24,Round of 16,Knockout,Germany,Mexico,Argentina,Away,1,2,-1,0,0,Loss,0,43000
+2006-0383,2006,2006-06-23,Group stage,Group,Germany,Saudi Arabia,Spain,Home,0,1,-1,0,0,Loss,0,46000
+2006-0383,2006,2006-06-23,Group stage,Group,Germany,Spain,Saudi Arabia,Away,1,0,1,0,0,Win,3,46000
+2006-0384,2006,2006-06-23,Group stage,Group,Germany,Ukraine,Tunisia,Home,1,0,1,0,0,Win,3,72000
+2006-0384,2006,2006-06-23,Group stage,Group,Germany,Tunisia,Ukraine,Away,0,1,-1,0,0,Loss,0,72000
+2006-0385,2006,2006-06-23,Group stage,Group,Germany,Togo,France,Home,0,2,-2,0,0,Loss,0,45000
+2006-0385,2006,2006-06-23,Group stage,Group,Germany,France,Togo,Away,2,0,2,0,0,Win,3,45000
+2006-0386,2006,2006-06-23,Group stage,Group,Germany,Switzerland,Korea Republic,Home,2,0,2,0,0,Win,3,43000
+2006-0386,2006,2006-06-23,Group stage,Group,Germany,Korea Republic,Switzerland,Away,0,2,-2,0,0,Loss,0,43000
+2006-0387,2006,2006-06-22,Group stage,Group,Germany,Ghana,United States,Home,2,1,1,0,0,Win,3,41000
+2006-0387,2006,2006-06-22,Group stage,Group,Germany,United States,Ghana,Away,1,2,-1,0,0,Loss,0,41000
+2006-0388,2006,2006-06-22,Group stage,Group,Germany,Czech Republic,Italy,Home,0,2,-2,0,0,Loss,0,50000
+2006-0388,2006,2006-06-22,Group stage,Group,Germany,Italy,Czech Republic,Away,2,0,2,0,0,Win,3,50000
+2006-0389,2006,2006-06-22,Group stage,Group,Germany,Japan,Brazil,Home,1,4,-3,0,0,Loss,0,65000
+2006-0389,2006,2006-06-22,Group stage,Group,Germany,Brazil,Japan,Away,4,1,3,0,0,Win,3,65000
+2006-0390,2006,2006-06-22,Group stage,Group,Germany,Croatia,Australia,Home,2,2,0,0,0,Draw,1,52000
+2006-0390,2006,2006-06-22,Group stage,Group,Germany,Australia,Croatia,Away,2,2,0,0,0,Draw,1,52000
+2006-0391,2006,2006-06-21,Group stage,Group,Germany,Portugal,Mexico,Home,2,1,1,0,0,Win,3,52000
+2006-0391,2006,2006-06-21,Group stage,Group,Germany,Mexico,Portugal,Away,1,2,-1,0,0,Loss,0,52000
+2006-0392,2006,2006-06-21,Group stage,Group,Germany,IR Iran,Angola,Home,1,1,0,0,0,Draw,1,38000
+2006-0392,2006,2006-06-21,Group stage,Group,Germany,Angola,IR Iran,Away,1,1,0,0,0,Draw,1,38000
+2006-0393,2006,2006-06-21,Group stage,Group,Germany,Côte d'Ivoire,Serbia and Montenegro,Home,3,2,1,0,0,Win,3,66000
+2006-0393,2006,2006-06-21,Group stage,Group,Germany,Serbia and Montenegro,Côte d'Ivoire,Away,2,3,-1,0,0,Loss,0,66000
+2006-0394,2006,2006-06-21,Group stage,Group,Germany,Netherlands,Argentina,Home,0,0,0,0,0,Draw,1,48000
+2006-0394,2006,2006-06-21,Group stage,Group,Germany,Argentina,Netherlands,Away,0,0,0,0,0,Draw,1,48000
+2006-0395,2006,2006-06-20,Group stage,Group,Germany,Costa Rica,Poland,Home,1,2,-1,0,0,Loss,0,43000
+2006-0395,2006,2006-06-20,Group stage,Group,Germany,Poland,Costa Rica,Away,2,1,1,0,0,Win,3,43000
+1990-0396,1990,1990-06-16,Group stage,Group,Italy,England,Netherlands,Home,0,0,0,0,0,Draw,1,35267
+1990-0396,1990,1990-06-16,Group stage,Group,Italy,Netherlands,England,Away,0,0,0,0,0,Draw,1,35267
+1990-0397,1990,1990-06-16,Group stage,Group,Italy,Sweden,Scotland,Home,1,2,-1,0,0,Loss,0,31823
+1990-0397,1990,1990-06-16,Group stage,Group,Italy,Scotland,Sweden,Away,2,1,1,0,0,Win,3,31823
+1990-0398,1990,1990-06-15,Group stage,Group,Italy,Austria,Czechoslovakia,Home,0,1,-1,0,0,Loss,0,38962
+1990-0398,1990,1990-06-15,Group stage,Group,Italy,Czechoslovakia,Austria,Away,1,0,1,0,0,Win,3,38962
+1990-0399,1990,1990-06-15,Group stage,Group,Italy,West Germany,United Arab Emirates,Home,5,1,4,0,0,Win,3,71169
+1990-0399,1990,1990-06-15,Group stage,Group,Italy,United Arab Emirates,West Germany,Away,1,5,-4,0,0,Loss,0,71169
+1990-0400,1990,1990-06-14,Group stage,Group,Italy,Yugoslavia,Colombia,Home,1,0,1,0,0,Win,3,32257
+1990-0400,1990,1990-06-14,Group stage,Group,Italy,Colombia,Yugoslavia,Away,0,1,-1,0,0,Loss,0,32257
+1990-0401,1990,1990-06-14,Group stage,Group,Italy,Cameroon,Romania,Home,2,1,1,0,0,Win,3,38687
+1990-0401,1990,1990-06-14,Group stage,Group,Italy,Romania,Cameroon,Away,1,2,-1,0,0,Loss,0,38687
+1990-0402,1990,1990-06-14,Group stage,Group,Italy,Italy,United States,Home,1,0,1,0,0,Win,3,73423
+1990-0402,1990,1990-06-14,Group stage,Group,Italy,United States,Italy,Away,0,1,-1,0,0,Loss,0,73423
+1990-0403,1990,1990-06-13,Group stage,Group,Italy,Uruguay,Spain,Home,0,0,0,0,0,Draw,1,35713
+1990-0403,1990,1990-06-13,Group stage,Group,Italy,Spain,Uruguay,Away,0,0,0,0,0,Draw,1,35713
+1990-0404,1990,1990-06-13,Group stage,Group,Italy,Argentina,Soviet Union,Home,2,0,2,0,0,Win,3,55759
+1990-0404,1990,1990-06-13,Group stage,Group,Italy,Soviet Union,Argentina,Away,0,2,-2,0,0,Loss,0,55759
+1990-0405,1990,1990-06-12,Group stage,Group,Italy,Belgium,Korea Republic,Home,2,0,2,0,0,Win,3,32790
+1990-0405,1990,1990-06-12,Group stage,Group,Italy,Korea Republic,Belgium,Away,0,2,-2,0,0,Loss,0,32790
+1990-0406,1990,1990-06-12,Group stage,Group,Italy,Netherlands,Egypt,Home,1,1,0,0,0,Draw,1,33288
+1990-0406,1990,1990-06-12,Group stage,Group,Italy,Egypt,Netherlands,Away,1,1,0,0,0,Draw,1,33288
+1990-0407,1990,1990-06-11,Group stage,Group,Italy,Costa Rica,Scotland,Home,1,0,1,0,0,Win,3,30867
+1990-0407,1990,1990-06-11,Group stage,Group,Italy,Scotland,Costa Rica,Away,0,1,-1,0,0,Loss,0,30867
+1990-0408,1990,1990-06-11,Group stage,Group,Italy,England,Republic of Ireland,Home,1,1,0,0,0,Draw,1,35238
+1990-0408,1990,1990-06-11,Group stage,Group,Italy,Republic of Ireland,England,Away,1,1,0,0,0,Draw,1,35238
+1990-0409,1990,1990-06-10,Group stage,Group,Italy,United States,Czechoslovakia,Home,1,5,-4,0,0,Loss,0,33266
+1990-0409,1990,1990-06-10,Group stage,Group,Italy,Czechoslovakia,United States,Away,5,1,4,0,0,Win,3,33266
+1990-0410,1990,1990-06-10,Group stage,Group,Italy,West Germany,Yugoslavia,Home,4,1,3,0,0,Win,3,74765
+1990-0410,1990,1990-06-10,Group stage,Group,Italy,Yugoslavia,West Germany,Away,1,4,-3,0,0,Loss,0,74765
+1990-0411,1990,1990-06-10,Group stage,Group,Italy,Brazil,Sweden,Home,2,1,1,0,0,Win,3,62628
+1990-0411,1990,1990-06-10,Group stage,Group,Italy,Sweden,Brazil,Away,1,2,-1,0,0,Loss,0,62628
+1990-0412,1990,1990-06-09,Group stage,Group,Italy,United Arab Emirates,Colombia,Home,0,2,-2,0,0,Loss,0,30791
+1990-0412,1990,1990-06-09,Group stage,Group,Italy,Colombia,United Arab Emirates,Away,2,0,2,0,0,Win,3,30791
+1990-0413,1990,1990-06-09,Group stage,Group,Italy,Soviet Union,Romania,Home,0,2,-2,0,0,Loss,0,42907
+1990-0413,1990,1990-06-09,Group stage,Group,Italy,Romania,Soviet Union,Away,2,0,2,0,0,Win,3,42907
+1990-0414,1990,1990-06-09,Group stage,Group,Italy,Italy,Austria,Home,1,0,1,0,0,Win,3,73303
+1990-0414,1990,1990-06-09,Group stage,Group,Italy,Austria,Italy,Away,0,1,-1,0,0,Loss,0,73303
+1990-0415,1990,1990-06-08,Group stage,Group,Italy,Argentina,Cameroon,Home,0,1,-1,0,0,Loss,0,73780
+1990-0415,1990,1990-06-08,Group stage,Group,Italy,Cameroon,Argentina,Away,1,0,1,0,0,Win,3,73780
+1986-0416,1986,1986-06-29,Final,Final,Mexico,Argentina,West Germany,Home,3,2,1,0,0,Win,3,114600
+1986-0416,1986,1986-06-29,Final,Final,Mexico,West Germany,Argentina,Away,2,3,-1,0,0,Loss,0,114600
+1986-0417,1986,1986-06-28,Third-place match,Placement,Mexico,France,Belgium,Home,4,2,2,0,0,Win,3,21000
+1986-0417,1986,1986-06-28,Third-place match,Placement,Mexico,Belgium,France,Away,2,4,-2,0,0,Loss,0,21000
+1986-0418,1986,1986-06-25,Semi-finals,Knockout,Mexico,France,West Germany,Home,0,2,-2,0,0,Loss,0,45000
+1986-0418,1986,1986-06-25,Semi-finals,Knockout,Mexico,West Germany,France,Away,2,0,2,0,0,Win,3,45000
+1986-0419,1986,1986-06-25,Semi-finals,Knockout,Mexico,Argentina,Belgium,Home,2,0,2,0,0,Win,3,114500
+1986-0419,1986,1986-06-25,Semi-finals,Knockout,Mexico,Belgium,Argentina,Away,0,2,-2,0,0,Loss,0,114500
+1986-0420,1986,1986-06-22,Quarter-finals,Knockout,Mexico,Argentina,England,Home,2,1,1,0,0,Win,3,114580
+1986-0420,1986,1986-06-22,Quarter-finals,Knockout,Mexico,England,Argentina,Away,1,2,-1,0,0,Loss,0,114580
+1986-0421,1986,1986-06-22,Quarter-finals,Knockout,Mexico,Spain,Belgium,Home,1,1,0,4,5,Loss on penalties,0,45000
+1986-0421,1986,1986-06-22,Quarter-finals,Knockout,Mexico,Belgium,Spain,Away,1,1,0,5,4,Win on penalties,3,45000
+1986-0422,1986,1986-06-21,Quarter-finals,Knockout,Mexico,Brazil,France,Home,1,1,0,3,4,Loss on penalties,0,65000
+1986-0422,1986,1986-06-21,Quarter-finals,Knockout,Mexico,France,Brazil,Away,1,1,0,4,3,Win on penalties,3,65000
+2014-0423,2014,2014-06-23,Group stage,Group,Brazil,Australia,Spain,Home,0,3,-3,0,0,Loss,0,39375
+2014-0423,2014,2014-06-23,Group stage,Group,Brazil,Spain,Australia,Away,3,0,3,0,0,Win,3,39375
+2014-0424,2014,2014-06-23,Group stage,Group,Brazil,Netherlands,Chile,Home,2,0,2,0,0,Win,3,62996
+2014-0424,2014,2014-06-23,Group stage,Group,Brazil,Chile,Netherlands,Away,0,2,-2,0,0,Loss,0,62996
+2014-0425,2014,2014-06-23,Group stage,Group,Brazil,Croatia,Mexico,Home,1,3,-2,0,0,Loss,0,41212
+2014-0425,2014,2014-06-23,Group stage,Group,Brazil,Mexico,Croatia,Away,3,1,2,0,0,Win,3,41212
+2014-0426,2014,2014-06-23,Group stage,Group,Brazil,Cameroon,Brazil,Home,1,4,-3,0,0,Loss,0,69112
+2014-0426,2014,2014-06-23,Group stage,Group,Brazil,Brazil,Cameroon,Away,4,1,3,0,0,Win,3,69112
+2014-0427,2014,2014-06-22,Group stage,Group,Brazil,Belgium,Russia,Home,1,0,1,0,0,Win,3,73819
+2014-0427,2014,2014-06-22,Group stage,Group,Brazil,Russia,Belgium,Away,0,1,-1,0,0,Loss,0,73819
+2014-0428,2014,2014-06-22,Group stage,Group,Brazil,Korea Republic,Algeria,Home,2,4,-2,0,0,Loss,0,42732
+2014-0428,2014,2014-06-22,Group stage,Group,Brazil,Algeria,Korea Republic,Away,4,2,2,0,0,Win,3,42732
+2014-0429,2014,2014-06-22,Group stage,Group,Brazil,United States,Portugal,Home,2,2,0,0,0,Draw,1,40123
+2014-0429,2014,2014-06-22,Group stage,Group,Brazil,Portugal,United States,Away,2,2,0,0,0,Draw,1,40123
+2014-0430,2014,2014-06-21,Group stage,Group,Brazil,Argentina,IR Iran,Home,1,0,1,0,0,Win,3,57698
+2014-0430,2014,2014-06-21,Group stage,Group,Brazil,IR Iran,Argentina,Away,0,1,-1,0,0,Loss,0,57698
+2014-0431,2014,2014-06-21,Group stage,Group,Brazil,Germany,Ghana,Home,2,2,0,0,0,Draw,1,59621
+2014-0431,2014,2014-06-21,Group stage,Group,Brazil,Ghana,Germany,Away,2,2,0,0,0,Draw,1,59621
+2014-0432,2014,2014-06-21,Group stage,Group,Brazil,Nigeria,Bosnia and Herzegovina,Home,1,0,1,0,0,Win,3,40499
+2014-0432,2014,2014-06-21,Group stage,Group,Brazil,Bosnia and Herzegovina,Nigeria,Away,0,1,-1,0,0,Loss,0,40499
+2014-0433,2014,2014-06-20,Group stage,Group,Brazil,Italy,Costa Rica,Home,0,1,-1,0,0,Loss,0,40285
+2014-0433,2014,2014-06-20,Group stage,Group,Brazil,Costa Rica,Italy,Away,1,0,1,0,0,Win,3,40285
+2014-0434,2014,2014-06-20,Group stage,Group,Brazil,Switzerland,France,Home,2,5,-3,0,0,Loss,0,51003
+2014-0434,2014,2014-06-20,Group stage,Group,Brazil,France,Switzerland,Away,5,2,3,0,0,Win,3,51003
+2014-0435,2014,2014-06-20,Group stage,Group,Brazil,Honduras,Ecuador,Home,1,2,-1,0,0,Loss,0,39224
+2014-0435,2014,2014-06-20,Group stage,Group,Brazil,Ecuador,Honduras,Away,2,1,1,0,0,Win,3,39224
+2014-0436,2014,2014-06-19,Group stage,Group,Brazil,Colombia,Côte d'Ivoire,Home,2,1,1,0,0,Win,3,68748
+2014-0436,2014,2014-06-19,Group stage,Group,Brazil,Côte d'Ivoire,Colombia,Away,1,2,-1,0,0,Loss,0,68748
+2014-0437,2014,2014-06-19,Group stage,Group,Brazil,Uruguay,England,Home,2,1,1,0,0,Win,3,62575
+2014-0437,2014,2014-06-19,Group stage,Group,Brazil,England,Uruguay,Away,1,2,-1,0,0,Loss,0,62575
+2014-0438,2014,2014-06-19,Group stage,Group,Brazil,Japan,Greece,Home,0,0,0,0,0,Draw,1,39485
+2014-0438,2014,2014-06-19,Group stage,Group,Brazil,Greece,Japan,Away,0,0,0,0,0,Draw,1,39485
+2014-0439,2014,2014-06-18,Group stage,Group,Brazil,Australia,Netherlands,Home,2,3,-1,0,0,Loss,0,42877
+2014-0439,2014,2014-06-18,Group stage,Group,Brazil,Netherlands,Australia,Away,3,2,1,0,0,Win,3,42877
+2014-0440,2014,2014-06-18,Group stage,Group,Brazil,Spain,Chile,Home,0,2,-2,0,0,Loss,0,74101
+2014-0440,2014,2014-06-18,Group stage,Group,Brazil,Chile,Spain,Away,2,0,2,0,0,Win,3,74101
+2014-0441,2014,2014-06-18,Group stage,Group,Brazil,Cameroon,Croatia,Home,0,4,-4,0,0,Loss,0,39982
+2014-0441,2014,2014-06-18,Group stage,Group,Brazil,Croatia,Cameroon,Away,4,0,4,0,0,Win,3,39982
+2014-0442,2014,2014-06-17,Group stage,Group,Brazil,Belgium,Algeria,Home,2,1,1,0,0,Win,3,56800
+2014-0442,2014,2014-06-17,Group stage,Group,Brazil,Algeria,Belgium,Away,1,2,-1,0,0,Loss,0,56800
+2014-0443,2014,2014-06-17,Group stage,Group,Brazil,Brazil,Mexico,Home,0,0,0,0,0,Draw,1,60342
+2014-0443,2014,2014-06-17,Group stage,Group,Brazil,Mexico,Brazil,Away,0,0,0,0,0,Draw,1,60342
+2014-0444,2014,2014-06-17,Group stage,Group,Brazil,Russia,Korea Republic,Home,1,1,0,0,0,Draw,1,37603
+2014-0444,2014,2014-06-17,Group stage,Group,Brazil,Korea Republic,Russia,Away,1,1,0,0,0,Draw,1,37603
+2014-0445,2014,2014-06-16,Group stage,Group,Brazil,Germany,Portugal,Home,4,0,4,0,0,Win,3,51081
+2014-0445,2014,2014-06-16,Group stage,Group,Brazil,Portugal,Germany,Away,0,4,-4,0,0,Loss,0,51081
+2014-0446,2014,2014-06-16,Group stage,Group,Brazil,IR Iran,Nigeria,Home,0,0,0,0,0,Draw,1,39081
+2014-0446,2014,2014-06-16,Group stage,Group,Brazil,Nigeria,IR Iran,Away,0,0,0,0,0,Draw,1,39081
+2014-0447,2014,2014-06-16,Group stage,Group,Brazil,Ghana,United States,Home,1,2,-1,0,0,Loss,0,39760
+2014-0447,2014,2014-06-16,Group stage,Group,Brazil,United States,Ghana,Away,2,1,1,0,0,Win,3,39760
+2014-0448,2014,2014-06-15,Group stage,Group,Brazil,Switzerland,Ecuador,Home,2,1,1,0,0,Win,3,68351
+2014-0448,2014,2014-06-15,Group stage,Group,Brazil,Ecuador,Switzerland,Away,1,2,-1,0,0,Loss,0,68351
+2014-0449,2014,2014-06-15,Group stage,Group,Brazil,France,Honduras,Home,3,0,3,0,0,Win,3,43012
+2014-0449,2014,2014-06-15,Group stage,Group,Brazil,Honduras,France,Away,0,3,-3,0,0,Loss,0,43012
+2014-0450,2014,2014-06-15,Group stage,Group,Brazil,Argentina,Bosnia and Herzegovina,Home,2,1,1,0,0,Win,3,74738
+2014-0450,2014,2014-06-15,Group stage,Group,Brazil,Bosnia and Herzegovina,Argentina,Away,1,2,-1,0,0,Loss,0,74738
+2014-0451,2014,2014-06-14,Group stage,Group,Brazil,Colombia,Greece,Home,3,0,3,0,0,Win,3,57174
+2014-0451,2014,2014-06-14,Group stage,Group,Brazil,Greece,Colombia,Away,0,3,-3,0,0,Loss,0,57174
+2014-0452,2014,2014-06-14,Group stage,Group,Brazil,Uruguay,Costa Rica,Home,1,3,-2,0,0,Loss,0,58679
+2014-0452,2014,2014-06-14,Group stage,Group,Brazil,Costa Rica,Uruguay,Away,3,1,2,0,0,Win,3,58679
+2014-0453,2014,2014-06-14,Group stage,Group,Brazil,England,Italy,Home,1,2,-1,0,0,Loss,0,39800
+2014-0453,2014,2014-06-14,Group stage,Group,Brazil,Italy,England,Away,2,1,1,0,0,Win,3,39800
+2014-0454,2014,2014-06-14,Group stage,Group,Brazil,Côte d'Ivoire,Japan,Home,2,1,1,0,0,Win,3,40267
+2014-0454,2014,2014-06-14,Group stage,Group,Brazil,Japan,Côte d'Ivoire,Away,1,2,-1,0,0,Loss,0,40267
+2014-0455,2014,2014-06-13,Group stage,Group,Brazil,Mexico,Cameroon,Home,1,0,1,0,0,Win,3,39216
+2014-0455,2014,2014-06-13,Group stage,Group,Brazil,Cameroon,Mexico,Away,0,1,-1,0,0,Loss,0,39216
+2014-0456,2014,2014-06-13,Group stage,Group,Brazil,Spain,Netherlands,Home,1,5,-4,0,0,Loss,0,48173
+2014-0456,2014,2014-06-13,Group stage,Group,Brazil,Netherlands,Spain,Away,5,1,4,0,0,Win,3,48173
+2014-0457,2014,2014-06-13,Group stage,Group,Brazil,Chile,Australia,Home,3,1,2,0,0,Win,3,40275
+2014-0457,2014,2014-06-13,Group stage,Group,Brazil,Australia,Chile,Away,1,3,-2,0,0,Loss,0,40275
+2014-0458,2014,2014-06-12,Group stage,Group,Brazil,Brazil,Croatia,Home,3,1,2,0,0,Win,3,62103
+2014-0458,2014,2014-06-12,Group stage,Group,Brazil,Croatia,Brazil,Away,1,3,-2,0,0,Loss,0,62103
+2010-0459,2010,2010-07-11,Final,Final,South Africa,Netherlands,Spain,Home,0,1,-1,0,0,Loss,0,84490
+2010-0459,2010,2010-07-11,Final,Final,South Africa,Spain,Netherlands,Away,1,0,1,0,0,Win,3,84490
+2010-0460,2010,2010-07-10,Third-place match,Placement,South Africa,Uruguay,Germany,Home,2,3,-1,0,0,Loss,0,36254
+2010-0460,2010,2010-07-10,Third-place match,Placement,South Africa,Germany,Uruguay,Away,3,2,1,0,0,Win,3,36254
+2010-0461,2010,2010-07-07,Semi-finals,Knockout,South Africa,Germany,Spain,Home,0,1,-1,0,0,Loss,0,60960
+2010-0461,2010,2010-07-07,Semi-finals,Knockout,South Africa,Spain,Germany,Away,1,0,1,0,0,Win,3,60960
+2010-0462,2010,2010-07-06,Semi-finals,Knockout,South Africa,Uruguay,Netherlands,Home,2,3,-1,0,0,Loss,0,62479
+2010-0462,2010,2010-07-06,Semi-finals,Knockout,South Africa,Netherlands,Uruguay,Away,3,2,1,0,0,Win,3,62479
+2010-0463,2010,2010-07-03,Quarter-finals,Knockout,South Africa,Argentina,Germany,Home,0,4,-4,0,0,Loss,0,64100
+2010-0463,2010,2010-07-03,Quarter-finals,Knockout,South Africa,Germany,Argentina,Away,4,0,4,0,0,Win,3,64100
+2010-0464,2010,2010-07-03,Quarter-finals,Knockout,South Africa,Paraguay,Spain,Home,0,1,-1,0,0,Loss,0,55359
+2010-0464,2010,2010-07-03,Quarter-finals,Knockout,South Africa,Spain,Paraguay,Away,1,0,1,0,0,Win,3,55359
+2010-0465,2010,2010-07-02,Quarter-finals,Knockout,South Africa,Netherlands,Brazil,Home,2,1,1,0,0,Win,3,40186
+2010-0465,2010,2010-07-02,Quarter-finals,Knockout,South Africa,Brazil,Netherlands,Away,1,2,-1,0,0,Loss,0,40186
+2010-0466,2010,2010-07-02,Quarter-finals,Knockout,South Africa,Uruguay,Ghana,Home,1,1,0,4,2,Win on penalties,3,84017
+2010-0466,2010,2010-07-02,Quarter-finals,Knockout,South Africa,Ghana,Uruguay,Away,1,1,0,2,4,Loss on penalties,0,84017
+2010-0467,2010,2010-06-29,Round of 16,Knockout,South Africa,Paraguay,Japan,Home,0,0,0,5,3,Win on penalties,3,36742
+2010-0467,2010,2010-06-29,Round of 16,Knockout,South Africa,Japan,Paraguay,Away,0,0,0,3,5,Loss on penalties,0,36742
+2010-0468,2010,2010-06-29,Round of 16,Knockout,South Africa,Spain,Portugal,Home,1,0,1,0,0,Win,3,62955
+2010-0468,2010,2010-06-29,Round of 16,Knockout,South Africa,Portugal,Spain,Away,0,1,-1,0,0,Loss,0,62955
+2010-0469,2010,2010-06-28,Round of 16,Knockout,South Africa,Netherlands,Slovakia,Home,2,1,1,0,0,Win,3,61962
+2010-0469,2010,2010-06-28,Round of 16,Knockout,South Africa,Slovakia,Netherlands,Away,1,2,-1,0,0,Loss,0,61962
+2010-0470,2010,2010-06-28,Round of 16,Knockout,South Africa,Brazil,Chile,Home,3,0,3,0,0,Win,3,54096
+2010-0470,2010,2010-06-28,Round of 16,Knockout,South Africa,Chile,Brazil,Away,0,3,-3,0,0,Loss,0,54096
+2010-0471,2010,2010-06-27,Round of 16,Knockout,South Africa,Germany,England,Home,4,1,3,0,0,Win,3,40510
+2010-0471,2010,2010-06-27,Round of 16,Knockout,South Africa,England,Germany,Away,1,4,-3,0,0,Loss,0,40510
+2010-0472,2010,2010-06-27,Round of 16,Knockout,South Africa,Argentina,Mexico,Home,3,1,2,0,0,Win,3,84377
+2010-0472,2010,2010-06-27,Round of 16,Knockout,South Africa,Mexico,Argentina,Away,1,3,-2,0,0,Loss,0,84377
+2010-0473,2010,2010-06-26,Round of 16,Knockout,South Africa,Uruguay,Korea Republic,Home,2,1,1,0,0,Win,3,30597
+2010-0473,2010,2010-06-26,Round of 16,Knockout,South Africa,Korea Republic,Uruguay,Away,1,2,-1,0,0,Loss,0,30597
+2010-0474,2010,2010-06-26,Round of 16,Knockout,South Africa,United States,Ghana,Home,1,2,-1,0,0,Loss,0,34976
+2010-0474,2010,2010-06-26,Round of 16,Knockout,South Africa,Ghana,United States,Away,2,1,1,0,0,Win,3,34976
+2010-0475,2010,2010-06-25,Group stage,Group,South Africa,Portugal,Brazil,Home,0,0,0,0,0,Draw,1,62712
+2010-0475,2010,2010-06-25,Group stage,Group,South Africa,Brazil,Portugal,Away,0,0,0,0,0,Draw,1,62712
+2010-0476,2010,2010-06-25,Group stage,Group,South Africa,Korea DPR,Côte d'Ivoire,Home,0,3,-3,0,0,Loss,0,34763
+2010-0476,2010,2010-06-25,Group stage,Group,South Africa,Côte d'Ivoire,Korea DPR,Away,3,0,3,0,0,Win,3,34763
+2010-0477,2010,2010-06-25,Group stage,Group,South Africa,Chile,Spain,Home,1,2,-1,0,0,Loss,0,41958
+2010-0477,2010,2010-06-25,Group stage,Group,South Africa,Spain,Chile,Away,2,1,1,0,0,Win,3,41958
+2010-0478,2010,2010-06-25,Group stage,Group,South Africa,Switzerland,Honduras,Home,0,0,0,0,0,Draw,1,28042
+2010-0478,2010,2010-06-25,Group stage,Group,South Africa,Honduras,Switzerland,Away,0,0,0,0,0,Draw,1,28042
+2010-0479,2010,2010-06-24,Group stage,Group,South Africa,Paraguay,New Zealand,Home,0,0,0,0,0,Draw,1,34850
+2010-0479,2010,2010-06-24,Group stage,Group,South Africa,New Zealand,Paraguay,Away,0,0,0,0,0,Draw,1,34850
+2010-0480,2010,2010-06-24,Group stage,Group,South Africa,Slovakia,Italy,Home,3,2,1,0,0,Win,3,53412
+2010-0480,2010,2010-06-24,Group stage,Group,South Africa,Italy,Slovakia,Away,2,3,-1,0,0,Loss,0,53412
+2010-0481,2010,2010-06-24,Group stage,Group,South Africa,Denmark,Japan,Home,1,3,-2,0,0,Loss,0,27967
+2010-0481,2010,2010-06-24,Group stage,Group,South Africa,Japan,Denmark,Away,3,1,2,0,0,Win,3,27967
+2010-0482,2010,2010-06-24,Group stage,Group,South Africa,Cameroon,Netherlands,Home,1,2,-1,0,0,Loss,0,63093
+2010-0482,2010,2010-06-24,Group stage,Group,South Africa,Netherlands,Cameroon,Away,2,1,1,0,0,Win,3,63093
+2010-0483,2010,2010-06-23,Group stage,Group,South Africa,Slovenia,England,Home,0,1,-1,0,0,Loss,0,36893
+2010-0483,2010,2010-06-23,Group stage,Group,South Africa,England,Slovenia,Away,1,0,1,0,0,Win,3,36893
+2010-0484,2010,2010-06-23,Group stage,Group,South Africa,United States,Algeria,Home,1,0,1,0,0,Win,3,35827
+2010-0484,2010,2010-06-23,Group stage,Group,South Africa,Algeria,United States,Away,0,1,-1,0,0,Loss,0,35827
+2010-0485,2010,2010-06-23,Group stage,Group,South Africa,Ghana,Germany,Home,0,1,-1,0,0,Loss,0,83391
+2010-0485,2010,2010-06-23,Group stage,Group,South Africa,Germany,Ghana,Away,1,0,1,0,0,Win,3,83391
+2010-0486,2010,2010-06-23,Group stage,Group,South Africa,Australia,Serbia,Home,2,1,1,0,0,Win,3,37836
+2010-0486,2010,2010-06-23,Group stage,Group,South Africa,Serbia,Australia,Away,1,2,-1,0,0,Loss,0,37836
+2010-0487,2010,2010-06-22,Group stage,Group,South Africa,Mexico,Uruguay,Home,0,1,-1,0,0,Loss,0,33425
+2010-0487,2010,2010-06-22,Group stage,Group,South Africa,Uruguay,Mexico,Away,1,0,1,0,0,Win,3,33425
+2010-0488,2010,2010-06-22,Group stage,Group,South Africa,France,South Africa,Home,1,2,-1,0,0,Loss,0,39415
+2010-0488,2010,2010-06-22,Group stage,Group,South Africa,South Africa,France,Away,2,1,1,0,0,Win,3,39415
+2010-0489,2010,2010-06-22,Group stage,Group,South Africa,Nigeria,Korea Republic,Home,2,2,0,0,0,Draw,1,61874
+2010-0489,2010,2010-06-22,Group stage,Group,South Africa,Korea Republic,Nigeria,Away,2,2,0,0,0,Draw,1,61874
+2010-0490,2010,2010-06-22,Group stage,Group,South Africa,Greece,Argentina,Home,0,2,-2,0,0,Loss,0,38891
+2010-0490,2010,2010-06-22,Group stage,Group,South Africa,Argentina,Greece,Away,2,0,2,0,0,Win,3,38891
+2010-0491,2010,2010-06-21,Group stage,Group,South Africa,Portugal,Korea DPR,Home,7,0,7,0,0,Win,3,63644
+2010-0491,2010,2010-06-21,Group stage,Group,South Africa,Korea DPR,Portugal,Away,0,7,-7,0,0,Loss,0,63644
+2010-0492,2010,2010-06-21,Group stage,Group,South Africa,Chile,Switzerland,Home,1,0,1,0,0,Win,3,34872
+2010-0492,2010,2010-06-21,Group stage,Group,South Africa,Switzerland,Chile,Away,0,1,-1,0,0,Loss,0,34872
+1982-0493,1982,1982-07-11,Final,Final,Spain,Italy,West Germany,Home,3,1,2,0,0,Win,3,90000
+1982-0493,1982,1982-07-11,Final,Final,Spain,West Germany,Italy,Away,1,3,-2,0,0,Loss,0,90000
+1982-0494,1982,1982-07-10,Third-place match,Placement,Spain,Poland,France,Home,3,2,1,0,0,Win,3,28000
+1982-0494,1982,1982-07-10,Third-place match,Placement,Spain,France,Poland,Away,2,3,-1,0,0,Loss,0,28000
+1982-0495,1982,1982-07-08,Semi-finals,Knockout,Spain,Poland,Italy,Home,0,2,-2,0,0,Loss,0,50000
+1982-0495,1982,1982-07-08,Semi-finals,Knockout,Spain,Italy,Poland,Away,2,0,2,0,0,Win,3,50000
+1982-0496,1982,1982-07-08,Semi-finals,Knockout,Spain,West Germany,France,Home,3,3,0,5,4,Win on penalties,3,70000
+1982-0496,1982,1982-07-08,Semi-finals,Knockout,Spain,France,West Germany,Away,3,3,0,4,5,Loss on penalties,0,70000
+1982-0497,1982,1982-07-05,Second group stage,Group,Spain,Italy,Brazil,Home,3,2,1,0,0,Win,3,44000
+1982-0497,1982,1982-07-05,Second group stage,Group,Spain,Brazil,Italy,Away,2,3,-1,0,0,Loss,0,44000
+1982-0498,1982,1982-07-05,Second group stage,Group,Spain,Spain,England,Home,0,0,0,0,0,Draw,1,75000
+1982-0498,1982,1982-07-05,Second group stage,Group,Spain,England,Spain,Away,0,0,0,0,0,Draw,1,75000
+1982-0499,1982,1982-07-04,Second group stage,Group,Spain,France,Northern Ireland,Home,4,1,3,0,0,Win,3,37000
+1982-0499,1982,1982-07-04,Second group stage,Group,Spain,Northern Ireland,France,Away,1,4,-3,0,0,Loss,0,37000
+1982-0500,1982,1982-07-04,Second group stage,Group,Spain,Poland,Soviet Union,Home,0,0,0,0,0,Draw,1,65000
+1982-0500,1982,1982-07-04,Second group stage,Group,Spain,Soviet Union,Poland,Away,0,0,0,0,0,Draw,1,65000
+1982-0501,1982,1982-07-02,Second group stage,Group,Spain,Argentina,Brazil,Home,1,3,-2,0,0,Loss,0,44000
+1982-0501,1982,1982-07-02,Second group stage,Group,Spain,Brazil,Argentina,Away,3,1,2,0,0,Win,3,44000
+1982-0502,1982,1982-07-02,Second group stage,Group,Spain,West Germany,Spain,Home,2,1,1,0,0,Win,3,90089
+1982-0502,1982,1982-07-02,Second group stage,Group,Spain,Spain,West Germany,Away,1,2,-1,0,0,Loss,0,90089
+1982-0503,1982,1982-07-01,Second group stage,Group,Spain,Austria,Northern Ireland,Home,2,2,0,0,0,Draw,1,20000
+1982-0503,1982,1982-07-01,Second group stage,Group,Spain,Northern Ireland,Austria,Away,2,2,0,0,0,Draw,1,20000
+1982-0504,1982,1982-07-01,Second group stage,Group,Spain,Belgium,Soviet Union,Home,0,1,-1,0,0,Loss,0,45000
+1982-0504,1982,1982-07-01,Second group stage,Group,Spain,Soviet Union,Belgium,Away,1,0,1,0,0,Win,3,45000
+1982-0505,1982,1982-06-29,Second group stage,Group,Spain,Italy,Argentina,Home,2,1,1,0,0,Win,3,43000
+1982-0505,1982,1982-06-29,Second group stage,Group,Spain,Argentina,Italy,Away,1,2,-1,0,0,Loss,0,43000
+1982-0506,1982,1982-06-29,Second group stage,Group,Spain,West Germany,England,Home,0,0,0,0,0,Draw,1,75000
+1982-0506,1982,1982-06-29,Second group stage,Group,Spain,England,West Germany,Away,0,0,0,0,0,Draw,1,75000
+1982-0507,1982,1982-06-28,Second group stage,Group,Spain,Austria,France,Home,0,1,-1,0,0,Loss,0,37000
+1982-0507,1982,1982-06-28,Second group stage,Group,Spain,France,Austria,Away,1,0,1,0,0,Win,3,37000
+1982-0508,1982,1982-06-28,Second group stage,Group,Spain,Poland,Belgium,Home,3,0,3,0,0,Win,3,65000
+1982-0508,1982,1982-06-28,Second group stage,Group,Spain,Belgium,Poland,Away,0,3,-3,0,0,Loss,0,65000
+1982-0509,1982,1982-06-25,First group stage,Group,Spain,England,Kuwait,Home,1,0,1,0,0,Win,3,39700
+1982-0509,1982,1982-06-25,First group stage,Group,Spain,Kuwait,England,Away,0,1,-1,0,0,Loss,0,39700
+1982-0510,1982,1982-06-25,First group stage,Group,Spain,West Germany,Austria,Home,1,0,1,0,0,Win,3,41000
+1982-0510,1982,1982-06-25,First group stage,Group,Spain,Austria,West Germany,Away,0,1,-1,0,0,Loss,0,41000
+1982-0511,1982,1982-06-25,First group stage,Group,Spain,Northern Ireland,Spain,Home,1,0,1,0,0,Win,3,49562
+1982-0511,1982,1982-06-25,First group stage,Group,Spain,Spain,Northern Ireland,Away,0,1,-1,0,0,Loss,0,49562
+1982-0512,1982,1982-06-24,First group stage,Group,Spain,France,Czechoslovakia,Home,1,1,0,0,0,Draw,1,28000
+1982-0512,1982,1982-06-24,First group stage,Group,Spain,Czechoslovakia,France,Away,1,1,0,0,0,Draw,1,28000
+1982-0513,1982,1982-06-24,First group stage,Group,Spain,Algeria,Chile,Home,3,2,1,0,0,Win,3,16000
+1982-0513,1982,1982-06-24,First group stage,Group,Spain,Chile,Algeria,Away,2,3,-1,0,0,Loss,0,16000
+1982-0514,1982,1982-06-24,First group stage,Group,Spain,Honduras,Yugoslavia,Home,0,1,-1,0,0,Loss,0,25000
+1982-0514,1982,1982-06-24,First group stage,Group,Spain,Yugoslavia,Honduras,Away,1,0,1,0,0,Win,3,25000
+1982-0515,1982,1982-06-23,First group stage,Group,Spain,Italy,Cameroon,Home,1,1,0,0,0,Draw,1,20000
+1982-0515,1982,1982-06-23,First group stage,Group,Spain,Cameroon,Italy,Away,1,1,0,0,0,Draw,1,20000
+1982-0516,1982,1982-06-23,First group stage,Group,Spain,Argentina,El Salvador,Home,2,0,2,0,0,Win,3,32500
+1982-0516,1982,1982-06-23,First group stage,Group,Spain,El Salvador,Argentina,Away,0,2,-2,0,0,Loss,0,32500
+1982-0517,1982,1982-06-23,First group stage,Group,Spain,Brazil,New Zealand,Home,4,0,4,0,0,Win,3,43000
+1982-0517,1982,1982-06-23,First group stage,Group,Spain,New Zealand,Brazil,Away,0,4,-4,0,0,Loss,0,43000
+1982-0518,1982,1982-06-22,First group stage,Group,Spain,Poland,Peru,Home,5,1,4,0,0,Win,3,25000
+1982-0518,1982,1982-06-22,First group stage,Group,Spain,Peru,Poland,Away,1,5,-4,0,0,Loss,0,25000
+1982-0519,1982,1982-06-22,First group stage,Group,Spain,Belgium,Hungary,Home,1,1,0,0,0,Draw,1,37000
+1982-0519,1982,1982-06-22,First group stage,Group,Spain,Hungary,Belgium,Away,1,1,0,0,0,Draw,1,37000
+1982-0520,1982,1982-06-22,First group stage,Group,Spain,Soviet Union,Scotland,Home,2,2,0,0,0,Draw,1,45000
+1982-0520,1982,1982-06-22,First group stage,Group,Spain,Scotland,Soviet Union,Away,2,2,0,0,0,Draw,1,45000
+1982-0521,1982,1982-06-21,First group stage,Group,Spain,Algeria,Austria,Home,0,2,-2,0,0,Loss,0,22000
+1982-0521,1982,1982-06-21,First group stage,Group,Spain,Austria,Algeria,Away,2,0,2,0,0,Win,3,22000
+1982-0522,1982,1982-06-21,First group stage,Group,Spain,France,Kuwait,Home,4,1,3,0,0,Win,3,30043
+1982-0522,1982,1982-06-21,First group stage,Group,Spain,Kuwait,France,Away,1,4,-3,0,0,Loss,0,30043
+1982-0523,1982,1982-06-21,First group stage,Group,Spain,Honduras,Northern Ireland,Home,1,1,0,0,0,Draw,1,15000
+1982-0523,1982,1982-06-21,First group stage,Group,Spain,Northern Ireland,Honduras,Away,1,1,0,0,0,Draw,1,15000
+1982-0524,1982,1982-06-20,First group stage,Group,Spain,West Germany,Chile,Home,4,1,3,0,0,Win,3,42000
+1982-0524,1982,1982-06-20,First group stage,Group,Spain,Chile,West Germany,Away,1,4,-3,0,0,Loss,0,42000
+1982-0525,1982,1982-06-20,First group stage,Group,Spain,England,Czechoslovakia,Home,2,0,2,0,0,Win,3,41123
+1982-0525,1982,1982-06-20,First group stage,Group,Spain,Czechoslovakia,England,Away,0,2,-2,0,0,Loss,0,41123
+1982-0526,1982,1982-06-20,First group stage,Group,Spain,Spain,Yugoslavia,Home,2,1,1,0,0,Win,3,48000
+1982-0526,1982,1982-06-20,First group stage,Group,Spain,Yugoslavia,Spain,Away,1,2,-1,0,0,Loss,0,48000
+1982-0527,1982,1982-06-19,First group stage,Group,Spain,Poland,Cameroon,Home,0,0,0,0,0,Draw,1,19000
+1982-0527,1982,1982-06-19,First group stage,Group,Spain,Cameroon,Poland,Away,0,0,0,0,0,Draw,1,19000
+1982-0528,1982,1982-06-19,First group stage,Group,Spain,Soviet Union,New Zealand,Home,3,0,3,0,0,Win,3,19000
+1982-0528,1982,1982-06-19,First group stage,Group,Spain,New Zealand,Soviet Union,Away,0,3,-3,0,0,Loss,0,19000
+1982-0529,1982,1982-06-19,First group stage,Group,Spain,Belgium,El Salvador,Home,1,0,1,0,0,Win,3,15000
+1982-0529,1982,1982-06-19,First group stage,Group,Spain,El Salvador,Belgium,Away,0,1,-1,0,0,Loss,0,15000
+1982-0530,1982,1982-06-18,First group stage,Group,Spain,Italy,Peru,Home,1,1,0,0,0,Draw,1,25000
+1982-0530,1982,1982-06-18,First group stage,Group,Spain,Peru,Italy,Away,1,1,0,0,0,Draw,1,25000
+1982-0531,1982,1982-06-18,First group stage,Group,Spain,Brazil,Scotland,Home,4,1,3,0,0,Win,3,47379
+1982-0531,1982,1982-06-18,First group stage,Group,Spain,Scotland,Brazil,Away,1,4,-3,0,0,Loss,0,47379
+1982-0532,1982,1982-06-18,First group stage,Group,Spain,Argentina,Hungary,Home,4,1,3,0,0,Win,3,32093
+1982-0532,1982,1982-06-18,First group stage,Group,Spain,Hungary,Argentina,Away,1,4,-3,0,0,Loss,0,32093
+1982-0533,1982,1982-06-17,First group stage,Group,Spain,Chile,Austria,Home,0,1,-1,0,0,Loss,0,22500
+1982-0533,1982,1982-06-17,First group stage,Group,Spain,Austria,Chile,Away,1,0,1,0,0,Win,3,22500
+1982-0534,1982,1982-06-17,First group stage,Group,Spain,Czechoslovakia,Kuwait,Home,1,1,0,0,0,Draw,1,25000
+1982-0534,1982,1982-06-17,First group stage,Group,Spain,Kuwait,Czechoslovakia,Away,1,1,0,0,0,Draw,1,25000
+1982-0535,1982,1982-06-17,First group stage,Group,Spain,Yugoslavia,Northern Ireland,Home,0,0,0,0,0,Draw,1,25000
+1982-0535,1982,1982-06-17,First group stage,Group,Spain,Northern Ireland,Yugoslavia,Away,0,0,0,0,0,Draw,1,25000
+2006-0536,2006,2006-06-20,Group stage,Group,Germany,Ecuador,Germany,Home,0,3,-3,0,0,Loss,0,72000
+2006-0536,2006,2006-06-20,Group stage,Group,Germany,Germany,Ecuador,Away,3,0,3,0,0,Win,3,72000
+2006-0537,2006,2006-06-20,Group stage,Group,Germany,Paraguay,Trinidad and Tobago,Home,2,0,2,0,0,Win,3,46000
+2006-0537,2006,2006-06-20,Group stage,Group,Germany,Trinidad and Tobago,Paraguay,Away,0,2,-2,0,0,Loss,0,46000
+2006-0538,2006,2006-06-20,Group stage,Group,Germany,Sweden,England,Home,2,2,0,0,0,Draw,1,45000
+2006-0538,2006,2006-06-20,Group stage,Group,Germany,England,Sweden,Away,2,2,0,0,0,Draw,1,45000
+2006-0539,2006,2006-06-19,Group stage,Group,Germany,Togo,Switzerland,Home,0,2,-2,0,0,Loss,0,65000
+2006-0539,2006,2006-06-19,Group stage,Group,Germany,Switzerland,Togo,Away,2,0,2,0,0,Win,3,65000
+2006-0540,2006,2006-06-19,Group stage,Group,Germany,Saudi Arabia,Ukraine,Home,0,4,-4,0,0,Loss,0,50000
+2006-0540,2006,2006-06-19,Group stage,Group,Germany,Ukraine,Saudi Arabia,Away,4,0,4,0,0,Win,3,50000
+2006-0541,2006,2006-06-19,Group stage,Group,Germany,Spain,Tunisia,Home,3,1,2,0,0,Win,3,52000
+2006-0541,2006,2006-06-19,Group stage,Group,Germany,Tunisia,Spain,Away,1,3,-2,0,0,Loss,0,52000
+2006-0542,2006,2006-06-18,Group stage,Group,Germany,Japan,Croatia,Home,0,0,0,0,0,Draw,1,41000
+2006-0542,2006,2006-06-18,Group stage,Group,Germany,Croatia,Japan,Away,0,0,0,0,0,Draw,1,41000
+2006-0543,2006,2006-06-18,Group stage,Group,Germany,Brazil,Australia,Home,2,0,2,0,0,Win,3,66000
+2006-0543,2006,2006-06-18,Group stage,Group,Germany,Australia,Brazil,Away,0,2,-2,0,0,Loss,0,66000
+2006-0544,2006,2006-06-18,Group stage,Group,Germany,France,Korea Republic,Home,1,1,0,0,0,Draw,1,43000
+2006-0544,2006,2006-06-18,Group stage,Group,Germany,Korea Republic,France,Away,1,1,0,0,0,Draw,1,43000
+2006-0545,2006,2006-06-17,Group stage,Group,Germany,Portugal,IR Iran,Home,2,0,2,0,0,Win,3,48000
+2006-0545,2006,2006-06-17,Group stage,Group,Germany,IR Iran,Portugal,Away,0,2,-2,0,0,Loss,0,48000
+2006-0546,2006,2006-06-17,Group stage,Group,Germany,Czech Republic,Ghana,Home,0,2,-2,0,0,Loss,0,45000
+2006-0546,2006,2006-06-17,Group stage,Group,Germany,Ghana,Czech Republic,Away,2,0,2,0,0,Win,3,45000
+2006-0547,2006,2006-06-17,Group stage,Group,Germany,Italy,United States,Home,1,1,0,0,0,Draw,1,46000
+2006-0547,2006,2006-06-17,Group stage,Group,Germany,United States,Italy,Away,1,1,0,0,0,Draw,1,46000
+2006-0548,2006,2006-06-16,Group stage,Group,Germany,Argentina,Serbia and Montenegro,Home,6,0,6,0,0,Win,3,52000
+2006-0548,2006,2006-06-16,Group stage,Group,Germany,Serbia and Montenegro,Argentina,Away,0,6,-6,0,0,Loss,0,52000
+1994-0549,1994,1994-06-26,Group stage,Group,United States,Switzerland,Colombia,Home,0,2,-2,0,0,Loss,0,83401
+1994-0549,1994,1994-06-26,Group stage,Group,United States,Colombia,Switzerland,Away,2,0,2,0,0,Win,3,83401
+1994-0550,1994,1994-06-25,Group stage,Group,United States,Belgium,Netherlands,Home,1,0,1,0,0,Win,3,62387
+1994-0550,1994,1994-06-25,Group stage,Group,United States,Netherlands,Belgium,Away,0,1,-1,0,0,Loss,0,62387
+1994-0551,1994,1994-06-25,Group stage,Group,United States,Saudi Arabia,Morocco,Home,2,1,1,0,0,Win,3,76322
+1994-0551,1994,1994-06-25,Group stage,Group,United States,Morocco,Saudi Arabia,Away,1,2,-1,0,0,Loss,0,76322
+1994-0552,1994,1994-06-25,Group stage,Group,United States,Argentina,Nigeria,Home,2,1,1,0,0,Win,3,54453
+1994-0552,1994,1994-06-25,Group stage,Group,United States,Nigeria,Argentina,Away,1,2,-1,0,0,Loss,0,54453
+1994-0553,1994,1994-06-24,Group stage,Group,United States,Mexico,Republic of Ireland,Home,2,1,1,0,0,Win,3,60790
+1994-0553,1994,1994-06-24,Group stage,Group,United States,Republic of Ireland,Mexico,Away,1,2,-1,0,0,Loss,0,60790
+1994-0554,1994,1994-06-24,Group stage,Group,United States,Brazil,Cameroon,Home,3,0,3,0,0,Win,3,83401
+1994-0554,1994,1994-06-24,Group stage,Group,United States,Cameroon,Brazil,Away,0,3,-3,0,0,Loss,0,83401
+1994-0555,1994,1994-06-24,Group stage,Group,United States,Sweden,Russia,Home,3,1,2,0,0,Win,3,71528
+1994-0555,1994,1994-06-24,Group stage,Group,United States,Russia,Sweden,Away,1,3,-2,0,0,Loss,0,71528
+1994-0556,1994,1994-06-23,Group stage,Group,United States,Italy,Norway,Home,1,0,1,0,0,Win,3,74624
+1994-0556,1994,1994-06-23,Group stage,Group,United States,Norway,Italy,Away,0,1,-1,0,0,Loss,0,74624
+1994-0557,1994,1994-06-23,Group stage,Group,United States,Korea Republic,Bolivia,Home,0,0,0,0,0,Draw,1,54453
+1994-0557,1994,1994-06-23,Group stage,Group,United States,Bolivia,Korea Republic,Away,0,0,0,0,0,Draw,1,54453
+1994-0558,1994,1994-06-22,Group stage,Group,United States,Romania,Switzerland,Home,1,4,-3,0,0,Loss,0,61428
+1994-0558,1994,1994-06-22,Group stage,Group,United States,Switzerland,Romania,Away,4,1,3,0,0,Win,3,61428
+1994-0559,1994,1994-06-22,Group stage,Group,United States,United States,Colombia,Home,2,1,1,0,0,Win,3,93869
+1994-0559,1994,1994-06-22,Group stage,Group,United States,Colombia,United States,Away,1,2,-1,0,0,Loss,0,93869
+1994-0560,1994,1994-06-21,Group stage,Group,United States,Argentina,Greece,Home,4,0,4,0,0,Win,3,54456
+1994-0560,1994,1994-06-21,Group stage,Group,United States,Greece,Argentina,Away,0,4,-4,0,0,Loss,0,54456
+1994-0561,1994,1994-06-21,Group stage,Group,United States,Germany,Spain,Home,1,1,0,0,0,Draw,1,63113
+1994-0561,1994,1994-06-21,Group stage,Group,United States,Spain,Germany,Away,1,1,0,0,0,Draw,1,63113
+1994-0562,1994,1994-06-21,Group stage,Group,United States,Nigeria,Bulgaria,Home,3,0,3,0,0,Win,3,44132
+1994-0562,1994,1994-06-21,Group stage,Group,United States,Bulgaria,Nigeria,Away,0,3,-3,0,0,Loss,0,44132
+1994-0563,1994,1994-06-20,Group stage,Group,United States,Brazil,Russia,Home,2,0,2,0,0,Win,3,81061
+1994-0563,1994,1994-06-20,Group stage,Group,United States,Russia,Brazil,Away,0,2,-2,0,0,Loss,0,81061
+1994-0564,1994,1994-06-20,Group stage,Group,United States,Netherlands,Saudi Arabia,Home,2,1,1,0,0,Win,3,50535
+1994-0564,1994,1994-06-20,Group stage,Group,United States,Saudi Arabia,Netherlands,Away,1,2,-1,0,0,Loss,0,50535
+1994-0565,1994,1994-06-19,Group stage,Group,United States,Belgium,Morocco,Home,1,0,1,0,0,Win,3,61219
+1994-0565,1994,1994-06-19,Group stage,Group,United States,Morocco,Belgium,Away,0,1,-1,0,0,Loss,0,61219
+1994-0566,1994,1994-06-19,Group stage,Group,United States,Norway,Mexico,Home,1,0,1,0,0,Win,3,52395
+1994-0566,1994,1994-06-19,Group stage,Group,United States,Mexico,Norway,Away,0,1,-1,0,0,Loss,0,52395
+1994-0567,1994,1994-06-19,Group stage,Group,United States,Cameroon,Sweden,Home,2,2,0,0,0,Draw,1,93194
+1994-0567,1994,1994-06-19,Group stage,Group,United States,Sweden,Cameroon,Away,2,2,0,0,0,Draw,1,93194
+1994-0568,1994,1994-06-18,Group stage,Group,United States,United States,Switzerland,Home,1,1,0,0,0,Draw,1,73425
+1994-0568,1994,1994-06-18,Group stage,Group,United States,Switzerland,United States,Away,1,1,0,0,0,Draw,1,73425
+1994-0569,1994,1994-06-18,Group stage,Group,United States,Italy,Republic of Ireland,Home,0,1,-1,0,0,Loss,0,75338
+1994-0569,1994,1994-06-18,Group stage,Group,United States,Republic of Ireland,Italy,Away,1,0,1,0,0,Win,3,75338
+1994-0570,1994,1994-06-18,Group stage,Group,United States,Colombia,Romania,Home,1,3,-2,0,0,Loss,0,91856
+1994-0570,1994,1994-06-18,Group stage,Group,United States,Romania,Colombia,Away,3,1,2,0,0,Win,3,91856
+1994-0571,1994,1994-06-17,Group stage,Group,United States,Germany,Bolivia,Home,1,0,1,0,0,Win,3,63117
+1994-0571,1994,1994-06-17,Group stage,Group,United States,Bolivia,Germany,Away,0,1,-1,0,0,Loss,0,63117
+1986-0572,1986,1986-06-21,Quarter-finals,Knockout,Mexico,West Germany,Mexico,Home,0,0,0,4,1,Win on penalties,3,41700
+1986-0572,1986,1986-06-21,Quarter-finals,Knockout,Mexico,Mexico,West Germany,Away,0,0,0,1,4,Loss on penalties,0,41700
+1994-0573,1994,1994-06-17,Group stage,Group,United States,Spain,Korea Republic,Home,2,2,0,0,0,Draw,1,56247
+1994-0573,1994,1994-06-17,Group stage,Group,United States,Korea Republic,Spain,Away,2,2,0,0,0,Draw,1,56247
+1986-0574,1986,1986-06-18,Round of 16,Knockout,Mexico,England,Paraguay,Home,3,0,3,0,0,Win,3,98728
+1986-0574,1986,1986-06-18,Round of 16,Knockout,Mexico,Paraguay,England,Away,0,3,-3,0,0,Loss,0,98728
+1990-0575,1990,1990-07-08,Final,Final,Italy,West Germany,Argentina,Home,1,0,1,0,0,Win,3,73603
+1990-0575,1990,1990-07-08,Final,Final,Italy,Argentina,West Germany,Away,0,1,-1,0,0,Loss,0,73603
+1986-0576,1986,1986-06-18,Round of 16,Knockout,Mexico,Denmark,Spain,Home,1,5,-4,0,0,Loss,0,38500
+1986-0576,1986,1986-06-18,Round of 16,Knockout,Mexico,Spain,Denmark,Away,5,1,4,0,0,Win,3,38500
+1990-0577,1990,1990-07-07,Third-place match,Placement,Italy,Italy,England,Home,2,1,1,0,0,Win,3,51426
+1990-0577,1990,1990-07-07,Third-place match,Placement,Italy,England,Italy,Away,1,2,-1,0,0,Loss,0,51426
+1986-0578,1986,1986-06-17,Round of 16,Knockout,Mexico,Italy,France,Home,0,2,-2,0,0,Loss,0,70000
+1986-0578,1986,1986-06-17,Round of 16,Knockout,Mexico,France,Italy,Away,2,0,2,0,0,Win,3,70000
+1990-0579,1990,1990-07-04,Semi-finals,Knockout,Italy,West Germany,England,Home,1,1,0,4,3,Win on penalties,3,62628
+1990-0579,1990,1990-07-04,Semi-finals,Knockout,Italy,England,West Germany,Away,1,1,0,3,4,Loss on penalties,0,62628
+1986-0580,1986,1986-06-17,Round of 16,Knockout,Mexico,Morocco,West Germany,Home,0,1,-1,0,0,Loss,0,19800
+1986-0580,1986,1986-06-17,Round of 16,Knockout,Mexico,West Germany,Morocco,Away,1,0,1,0,0,Win,3,19800
+1990-0581,1990,1990-07-03,Semi-finals,Knockout,Italy,Italy,Argentina,Home,1,1,0,3,4,Loss on penalties,0,59978
+1990-0581,1990,1990-07-03,Semi-finals,Knockout,Italy,Argentina,Italy,Away,1,1,0,4,3,Win on penalties,3,59978
+1986-0582,1986,1986-06-16,Round of 16,Knockout,Mexico,Brazil,Poland,Home,4,0,4,0,0,Win,3,45000
+1986-0582,1986,1986-06-16,Round of 16,Knockout,Mexico,Poland,Brazil,Away,0,4,-4,0,0,Loss,0,45000
+1990-0583,1990,1990-07-01,Quarter-finals,Knockout,Italy,West Germany,Czechoslovakia,Home,1,0,1,0,0,Win,3,73347
+1990-0583,1990,1990-07-01,Quarter-finals,Knockout,Italy,Czechoslovakia,West Germany,Away,0,1,-1,0,0,Loss,0,73347
+1986-0584,1986,1986-06-16,Round of 16,Knockout,Mexico,Argentina,Uruguay,Home,1,0,1,0,0,Win,3,26000
+1986-0584,1986,1986-06-16,Round of 16,Knockout,Mexico,Uruguay,Argentina,Away,0,1,-1,0,0,Loss,0,26000
+1990-0585,1990,1990-07-01,Quarter-finals,Knockout,Italy,England,Cameroon,Home,3,2,1,0,0,Win,3,55205
+1990-0585,1990,1990-07-01,Quarter-finals,Knockout,Italy,Cameroon,England,Away,2,3,-1,0,0,Loss,0,55205
+1986-0586,1986,1986-06-15,Round of 16,Knockout,Mexico,Mexico,Bulgaria,Home,2,0,2,0,0,Win,3,114580
+1986-0586,1986,1986-06-15,Round of 16,Knockout,Mexico,Bulgaria,Mexico,Away,0,2,-2,0,0,Loss,0,114580
+1990-0587,1990,1990-06-30,Quarter-finals,Knockout,Italy,Yugoslavia,Argentina,Home,0,0,0,2,3,Loss on penalties,0,38971
+1990-0587,1990,1990-06-30,Quarter-finals,Knockout,Italy,Argentina,Yugoslavia,Away,0,0,0,3,2,Win on penalties,3,38971
+1986-0588,1986,1986-06-15,Round of 16,Knockout,Mexico,Soviet Union,Belgium,Home,3,4,-1,0,0,Loss,0,32277
+1986-0588,1986,1986-06-15,Round of 16,Knockout,Mexico,Belgium,Soviet Union,Away,4,3,1,0,0,Win,3,32277
+1986-0589,1986,1986-06-13,Group stage,Group,Mexico,Scotland,Uruguay,Home,0,0,0,0,0,Draw,1,20000
+1986-0589,1986,1986-06-13,Group stage,Group,Mexico,Uruguay,Scotland,Away,0,0,0,0,0,Draw,1,20000
+1986-0590,1986,1986-06-13,Group stage,Group,Mexico,Denmark,West Germany,Home,2,0,2,0,0,Win,3,36000
+1986-0590,1986,1986-06-13,Group stage,Group,Mexico,West Germany,Denmark,Away,0,2,-2,0,0,Loss,0,36000
+1986-0591,1986,1986-06-12,Group stage,Group,Mexico,Algeria,Spain,Home,0,3,-3,0,0,Loss,0,23980
+1986-0591,1986,1986-06-12,Group stage,Group,Mexico,Spain,Algeria,Away,3,0,3,0,0,Win,3,23980
+1986-0592,1986,1986-06-12,Group stage,Group,Mexico,Northern Ireland,Brazil,Home,0,3,-3,0,0,Loss,0,51000
+1986-0592,1986,1986-06-12,Group stage,Group,Mexico,Brazil,Northern Ireland,Away,3,0,3,0,0,Win,3,51000
+1986-0593,1986,1986-06-11,Group stage,Group,Mexico,Paraguay,Belgium,Home,2,2,0,0,0,Draw,1,16000
+1986-0593,1986,1986-06-11,Group stage,Group,Mexico,Belgium,Paraguay,Away,2,2,0,0,0,Draw,1,16000
+1986-0594,1986,1986-06-11,Group stage,Group,Mexico,Iraq,Mexico,Home,0,1,-1,0,0,Loss,0,103763
+1986-0594,1986,1986-06-11,Group stage,Group,Mexico,Mexico,Iraq,Away,1,0,1,0,0,Win,3,103763
+1986-0595,1986,1986-06-11,Group stage,Group,Mexico,England,Poland,Home,3,0,3,0,0,Win,3,22700
+1986-0595,1986,1986-06-11,Group stage,Group,Mexico,Poland,England,Away,0,3,-3,0,0,Loss,0,22700
+1986-0596,1986,1986-06-11,Group stage,Group,Mexico,Portugal,Morocco,Home,1,3,-2,0,0,Loss,0,28000
+1986-0596,1986,1986-06-11,Group stage,Group,Mexico,Morocco,Portugal,Away,3,1,2,0,0,Win,3,28000
+1986-0597,1986,1986-06-10,Group stage,Group,Mexico,Argentina,Bulgaria,Home,2,0,2,0,0,Win,3,65000
+1986-0597,1986,1986-06-10,Group stage,Group,Mexico,Bulgaria,Argentina,Away,0,2,-2,0,0,Loss,0,65000
+1986-0598,1986,1986-06-10,Group stage,Group,Mexico,Korea Republic,Italy,Home,2,3,-1,0,0,Loss,0,20000
+1986-0598,1986,1986-06-10,Group stage,Group,Mexico,Italy,Korea Republic,Away,3,2,1,0,0,Win,3,20000
+1986-0599,1986,1986-06-09,Group stage,Group,Mexico,Soviet Union,Canada,Home,2,0,2,0,0,Win,3,14200
+1986-0599,1986,1986-06-09,Group stage,Group,Mexico,Canada,Soviet Union,Away,0,2,-2,0,0,Loss,0,14200
+1986-0600,1986,1986-06-09,Group stage,Group,Mexico,Hungary,France,Home,0,3,-3,0,0,Loss,0,31420
+1986-0600,1986,1986-06-09,Group stage,Group,Mexico,France,Hungary,Away,3,0,3,0,0,Win,3,31420
+1986-0601,1986,1986-06-08,Group stage,Group,Mexico,West Germany,Scotland,Home,2,1,1,0,0,Win,3,30000
+1986-0601,1986,1986-06-08,Group stage,Group,Mexico,Scotland,West Germany,Away,1,2,-1,0,0,Loss,0,30000
+1986-0602,1986,1986-06-08,Group stage,Group,Mexico,Iraq,Belgium,Home,1,2,-1,0,0,Loss,0,20000
+1986-0602,1986,1986-06-08,Group stage,Group,Mexico,Belgium,Iraq,Away,2,1,1,0,0,Win,3,20000
+1986-0603,1986,1986-06-08,Group stage,Group,Mexico,Denmark,Uruguay,Home,6,1,5,0,0,Win,3,26500
+1986-0603,1986,1986-06-08,Group stage,Group,Mexico,Uruguay,Denmark,Away,1,6,-5,0,0,Loss,0,26500
+1986-0604,1986,1986-06-07,Group stage,Group,Mexico,Mexico,Paraguay,Home,1,1,0,0,0,Draw,1,114600
+1986-0604,1986,1986-06-07,Group stage,Group,Mexico,Paraguay,Mexico,Away,1,1,0,0,0,Draw,1,114600
+1986-0605,1986,1986-06-07,Group stage,Group,Mexico,Northern Ireland,Spain,Home,1,2,-1,0,0,Loss,0,28000
+1986-0605,1986,1986-06-07,Group stage,Group,Mexico,Spain,Northern Ireland,Away,2,1,1,0,0,Win,3,28000
+1986-0606,1986,1986-06-07,Group stage,Group,Mexico,Poland,Portugal,Home,1,0,1,0,0,Win,3,19915
+1986-0606,1986,1986-06-07,Group stage,Group,Mexico,Portugal,Poland,Away,0,1,-1,0,0,Loss,0,19915
+1986-0607,1986,1986-06-06,Group stage,Group,Mexico,Brazil,Algeria,Home,1,0,1,0,0,Win,3,48000
+1986-0607,1986,1986-06-06,Group stage,Group,Mexico,Algeria,Brazil,Away,0,1,-1,0,0,Loss,0,48000
+1986-0608,1986,1986-06-06,Group stage,Group,Mexico,Hungary,Canada,Home,2,0,2,0,0,Win,3,13800
+1986-0608,1986,1986-06-06,Group stage,Group,Mexico,Canada,Hungary,Away,0,2,-2,0,0,Loss,0,13800
+1986-0609,1986,1986-06-06,Group stage,Group,Mexico,England,Morocco,Home,0,0,0,0,0,Draw,1,20200
+1986-0609,1986,1986-06-06,Group stage,Group,Mexico,Morocco,England,Away,0,0,0,0,0,Draw,1,20200
+1986-0610,1986,1986-06-05,Group stage,Group,Mexico,Italy,Argentina,Home,1,1,0,0,0,Draw,1,32000
+1986-0610,1986,1986-06-05,Group stage,Group,Mexico,Argentina,Italy,Away,1,1,0,0,0,Draw,1,32000
+1986-0611,1986,1986-06-05,Group stage,Group,Mexico,France,Soviet Union,Home,1,1,0,0,0,Draw,1,36540
+1986-0611,1986,1986-06-05,Group stage,Group,Mexico,Soviet Union,France,Away,1,1,0,0,0,Draw,1,36540
+1986-0612,1986,1986-06-05,Group stage,Group,Mexico,Korea Republic,Bulgaria,Home,1,1,0,0,0,Draw,1,45000
+1986-0612,1986,1986-06-05,Group stage,Group,Mexico,Bulgaria,Korea Republic,Away,1,1,0,0,0,Draw,1,45000
+1986-0613,1986,1986-06-04,Group stage,Group,Mexico,Paraguay,Iraq,Home,1,0,1,0,0,Win,3,24000
+1986-0613,1986,1986-06-04,Group stage,Group,Mexico,Iraq,Paraguay,Away,0,1,-1,0,0,Loss,0,24000
+1986-0614,1986,1986-06-04,Group stage,Group,Mexico,Uruguay,West Germany,Home,1,1,0,0,0,Draw,1,30500
+1986-0614,1986,1986-06-04,Group stage,Group,Mexico,West Germany,Uruguay,Away,1,1,0,0,0,Draw,1,30500
+1986-0615,1986,1986-06-04,Group stage,Group,Mexico,Scotland,Denmark,Home,0,1,-1,0,0,Loss,0,18000
+1986-0615,1986,1986-06-04,Group stage,Group,Mexico,Denmark,Scotland,Away,1,0,1,0,0,Win,3,18000
+1986-0616,1986,1986-06-03,Group stage,Group,Mexico,Belgium,Mexico,Home,1,2,-1,0,0,Loss,0,110000
+1986-0616,1986,1986-06-03,Group stage,Group,Mexico,Mexico,Belgium,Away,2,1,1,0,0,Win,3,110000
+1986-0617,1986,1986-06-03,Group stage,Group,Mexico,Algeria,Northern Ireland,Home,1,1,0,0,0,Draw,1,22000
+1986-0617,1986,1986-06-03,Group stage,Group,Mexico,Northern Ireland,Algeria,Away,1,1,0,0,0,Draw,1,22000
+1986-0618,1986,1986-06-03,Group stage,Group,Mexico,Portugal,England,Home,1,0,1,0,0,Win,3,23000
+1986-0618,1986,1986-06-03,Group stage,Group,Mexico,England,Portugal,Away,0,1,-1,0,0,Loss,0,23000
+1986-0619,1986,1986-06-02,Group stage,Group,Mexico,Soviet Union,Hungary,Home,6,0,6,0,0,Win,3,16500
+1986-0619,1986,1986-06-02,Group stage,Group,Mexico,Hungary,Soviet Union,Away,0,6,-6,0,0,Loss,0,16500
+1986-0620,1986,1986-06-02,Group stage,Group,Mexico,Argentina,Korea Republic,Home,3,1,2,0,0,Win,3,60000
+1986-0620,1986,1986-06-02,Group stage,Group,Mexico,Korea Republic,Argentina,Away,1,3,-2,0,0,Loss,0,60000
+1986-0621,1986,1986-06-02,Group stage,Group,Mexico,Morocco,Poland,Home,0,0,0,0,0,Draw,1,19900
+1986-0621,1986,1986-06-02,Group stage,Group,Mexico,Poland,Morocco,Away,0,0,0,0,0,Draw,1,19900
+1986-0622,1986,1986-06-01,Group stage,Group,Mexico,Spain,Brazil,Home,0,1,-1,0,0,Loss,0,35748
+1986-0622,1986,1986-06-01,Group stage,Group,Mexico,Brazil,Spain,Away,1,0,1,0,0,Win,3,35748
+1986-0623,1986,1986-06-01,Group stage,Group,Mexico,Canada,France,Home,0,1,-1,0,0,Loss,0,65500
+1986-0623,1986,1986-06-01,Group stage,Group,Mexico,France,Canada,Away,1,0,1,0,0,Win,3,65500
+1986-0624,1986,1986-05-31,Group stage,Group,Mexico,Bulgaria,Italy,Home,1,1,0,0,0,Draw,1,96000
+1986-0624,1986,1986-05-31,Group stage,Group,Mexico,Italy,Bulgaria,Away,1,1,0,0,0,Draw,1,96000
+1978-0625,1978,1978-06-07,First round,Group,Argentina,Austria,Sweden,Home,1,0,1,0,0,Win,3,41424
+1978-0625,1978,1978-06-07,First round,Group,Argentina,Sweden,Austria,Away,0,1,-1,0,0,Loss,0,41424
+1978-0626,1978,1978-06-07,First round,Group,Argentina,Brazil,Spain,Home,0,0,0,0,0,Draw,1,34771
+1978-0626,1978,1978-06-07,First round,Group,Argentina,Spain,Brazil,Away,0,0,0,0,0,Draw,1,34771
+1978-0627,1978,1978-06-07,First round,Group,Argentina,Netherlands,Peru,Home,0,0,0,0,0,Draw,1,28125
+1978-0627,1978,1978-06-07,First round,Group,Argentina,Peru,Netherlands,Away,0,0,0,0,0,Draw,1,28125
+1978-0628,1978,1978-06-07,First round,Group,Argentina,Scotland,IR Iran,Home,1,1,0,0,0,Draw,1,7938
+1978-0628,1978,1978-06-07,First round,Group,Argentina,IR Iran,Scotland,Away,1,1,0,0,0,Draw,1,7938
+1978-0629,1978,1978-06-06,First round,Group,Argentina,Italy,Hungary,Home,3,1,2,0,0,Win,3,26533
+1978-0629,1978,1978-06-06,First round,Group,Argentina,Hungary,Italy,Away,1,3,-2,0,0,Loss,0,26533
+1978-0630,1978,1978-06-06,First round,Group,Argentina,West Germany,Mexico,Home,6,0,6,0,0,Win,3,35258
+1978-0630,1978,1978-06-06,First round,Group,Argentina,Mexico,West Germany,Away,0,6,-6,0,0,Loss,0,35258
+1978-0631,1978,1978-06-06,First round,Group,Argentina,Poland,Tunisia,Home,1,0,1,0,0,Win,3,9624
+1978-0631,1978,1978-06-06,First round,Group,Argentina,Tunisia,Poland,Away,0,1,-1,0,0,Loss,0,9624
+1978-0632,1978,1978-06-06,First round,Group,Argentina,Argentina,France,Home,2,1,1,0,0,Win,3,71666
+1978-0632,1978,1978-06-06,First round,Group,Argentina,France,Argentina,Away,1,2,-1,0,0,Loss,0,71666
+1978-0633,1978,1978-06-03,First round,Group,Argentina,Sweden,Brazil,Home,1,1,0,0,0,Draw,1,32569
+1978-0633,1978,1978-06-03,First round,Group,Argentina,Brazil,Sweden,Away,1,1,0,0,0,Draw,1,32569
+1978-0634,1978,1978-06-03,First round,Group,Argentina,Austria,Spain,Home,2,1,1,0,0,Win,3,40841
+1978-0634,1978,1978-06-03,First round,Group,Argentina,Spain,Austria,Away,1,2,-1,0,0,Loss,0,40841
+1978-0635,1978,1978-06-03,First round,Group,Argentina,Peru,Scotland,Home,3,1,2,0,0,Win,3,37927
+1978-0635,1978,1978-06-03,First round,Group,Argentina,Scotland,Peru,Away,1,3,-2,0,0,Loss,0,37927
+1978-0636,1978,1978-06-03,First round,Group,Argentina,Netherlands,IR Iran,Home,3,0,3,0,0,Win,3,33431
+1978-0636,1978,1978-06-03,First round,Group,Argentina,IR Iran,Netherlands,Away,0,3,-3,0,0,Loss,0,33431
+1978-0637,1978,1978-06-02,First round,Group,Argentina,Italy,France,Home,2,1,1,0,0,Win,3,42373
+1978-0637,1978,1978-06-02,First round,Group,Argentina,France,Italy,Away,1,2,-1,0,0,Loss,0,42373
+1978-0638,1978,1978-06-02,First round,Group,Argentina,Tunisia,Mexico,Home,3,1,2,0,0,Win,3,17396
+1978-0638,1978,1978-06-02,First round,Group,Argentina,Mexico,Tunisia,Away,1,3,-2,0,0,Loss,0,17396
+1978-0639,1978,1978-06-02,First round,Group,Argentina,Argentina,Hungary,Home,2,1,1,0,0,Win,3,71615
+1978-0639,1978,1978-06-02,First round,Group,Argentina,Hungary,Argentina,Away,1,2,-1,0,0,Loss,0,71615
+1978-0640,1978,1978-06-01,First round,Group,Argentina,West Germany,Poland,Home,0,0,0,0,0,Draw,1,67579
+1978-0640,1978,1978-06-01,First round,Group,Argentina,Poland,West Germany,Away,0,0,0,0,0,Draw,1,67579
+1974-0641,1974,1974-07-07,Final,Final,Germany,Netherlands,West Germany,Home,1,2,-1,0,0,Loss,0,78200
+1974-0641,1974,1974-07-07,Final,Final,Germany,West Germany,Netherlands,Away,2,1,1,0,0,Win,3,78200
+1974-0642,1974,1974-07-06,Third-place match,Placement,Germany,Brazil,Poland,Home,0,1,-1,0,0,Loss,0,77100
+1974-0642,1974,1974-07-06,Third-place match,Placement,Germany,Poland,Brazil,Away,1,0,1,0,0,Win,3,77100
+1974-0643,1974,1974-07-03,Second round,Knockout,Germany,Poland,West Germany,Home,0,1,-1,0,0,Loss,0,62000
+1974-0643,1974,1974-07-03,Second round,Knockout,Germany,West Germany,Poland,Away,1,0,1,0,0,Win,3,62000
+1974-0644,1974,1974-07-03,Second round,Knockout,Germany,Netherlands,Brazil,Home,2,0,2,0,0,Win,3,53700
+1974-0644,1974,1974-07-03,Second round,Knockout,Germany,Brazil,Netherlands,Away,0,2,-2,0,0,Loss,0,53700
+1974-0645,1974,1974-07-03,Second round,Knockout,Germany,Argentina,Germany DR,Home,1,1,0,0,0,Draw,1,54254
+1974-0645,1974,1974-07-03,Second round,Knockout,Germany,Germany DR,Argentina,Away,1,1,0,0,0,Draw,1,54254
+1974-0646,1974,1974-07-03,Second round,Knockout,Germany,Sweden,Yugoslavia,Home,2,1,1,0,0,Win,3,41300
+1974-0646,1974,1974-07-03,Second round,Knockout,Germany,Yugoslavia,Sweden,Away,1,2,-1,0,0,Loss,0,41300
+1974-0647,1974,1974-06-30,Second round,Knockout,Germany,Poland,Yugoslavia,Home,2,1,1,0,0,Win,3,58000
+1974-0647,1974,1974-06-30,Second round,Knockout,Germany,Yugoslavia,Poland,Away,1,2,-1,0,0,Loss,0,58000
+1974-0648,1974,1974-06-30,Second round,Knockout,Germany,Argentina,Brazil,Home,1,2,-1,0,0,Loss,0,39400
+1974-0648,1974,1974-06-30,Second round,Knockout,Germany,Brazil,Argentina,Away,2,1,1,0,0,Win,3,39400
+1974-0649,1974,1974-06-30,Second round,Knockout,Germany,Germany DR,Netherlands,Home,0,2,-2,0,0,Loss,0,68348
+1974-0649,1974,1974-06-30,Second round,Knockout,Germany,Netherlands,Germany DR,Away,2,0,2,0,0,Win,3,68348
+1974-0650,1974,1974-06-30,Second round,Knockout,Germany,West Germany,Sweden,Home,4,2,2,0,0,Win,3,67800
+1974-0650,1974,1974-06-30,Second round,Knockout,Germany,Sweden,West Germany,Away,2,4,-2,0,0,Loss,0,67800
+1974-0651,1974,1974-06-26,Second round,Knockout,Germany,Yugoslavia,West Germany,Home,0,2,-2,0,0,Loss,0,67385
+1974-0651,1974,1974-06-26,Second round,Knockout,Germany,West Germany,Yugoslavia,Away,2,0,2,0,0,Win,3,67385
+1974-0652,1974,1974-06-26,Second round,Knockout,Germany,Brazil,Germany DR,Home,1,0,1,0,0,Win,3,59863
+1974-0652,1974,1974-06-26,Second round,Knockout,Germany,Germany DR,Brazil,Away,0,1,-1,0,0,Loss,0,59863
+1974-0653,1974,1974-06-26,Second round,Knockout,Germany,Sweden,Poland,Home,0,1,-1,0,0,Loss,0,44955
+1974-0653,1974,1974-06-26,Second round,Knockout,Germany,Poland,Sweden,Away,1,0,1,0,0,Win,3,44955
+1974-0654,1974,1974-06-26,Second round,Knockout,Germany,Netherlands,Argentina,Home,4,0,4,0,0,Win,3,56548
+1974-0654,1974,1974-06-26,Second round,Knockout,Germany,Argentina,Netherlands,Away,0,4,-4,0,0,Loss,0,56548
+1974-0655,1974,1974-06-23,First round,Group,Germany,Bulgaria,Netherlands,Home,1,4,-3,0,0,Loss,0,53300
+1974-0655,1974,1974-06-23,First round,Group,Germany,Netherlands,Bulgaria,Away,4,1,3,0,0,Win,3,53300
+1974-0656,1974,1974-06-23,First round,Group,Germany,Poland,Italy,Home,2,1,1,0,0,Win,3,70100
+1974-0656,1974,1974-06-23,First round,Group,Germany,Italy,Poland,Away,1,2,-1,0,0,Loss,0,70100
+1974-0657,1974,1974-06-23,First round,Group,Germany,Sweden,Uruguay,Home,3,0,3,0,0,Win,3,28300
+1974-0657,1974,1974-06-23,First round,Group,Germany,Uruguay,Sweden,Away,0,3,-3,0,0,Loss,0,28300
+1974-0658,1974,1974-06-23,First round,Group,Germany,Argentina,Haiti,Home,4,1,3,0,0,Win,3,25900
+1974-0658,1974,1974-06-23,First round,Group,Germany,Haiti,Argentina,Away,1,4,-3,0,0,Loss,0,25900
+1974-0659,1974,1974-06-22,First round,Group,Germany,Scotland,Yugoslavia,Home,1,1,0,0,0,Draw,1,56000
+1974-0659,1974,1974-06-22,First round,Group,Germany,Yugoslavia,Scotland,Away,1,1,0,0,0,Draw,1,56000
+1974-0660,1974,1974-06-22,First round,Group,Germany,Australia,Chile,Home,0,0,0,0,0,Draw,1,17400
+1974-0660,1974,1974-06-22,First round,Group,Germany,Chile,Australia,Away,0,0,0,0,0,Draw,1,17400
+1974-0661,1974,1974-06-22,First round,Group,Germany,Zaire,Brazil,Home,0,3,-3,0,0,Loss,0,36200
+1974-0661,1974,1974-06-22,First round,Group,Germany,Brazil,Zaire,Away,3,0,3,0,0,Win,3,36200
+1974-0662,1974,1974-06-22,First round,Group,Germany,Germany DR,West Germany,Home,1,0,1,0,0,Win,3,60200
+1974-0662,1974,1974-06-22,First round,Group,Germany,West Germany,Germany DR,Away,0,1,-1,0,0,Loss,0,60200
+1974-0663,1974,1974-06-19,First round,Group,Germany,Haiti,Poland,Home,0,7,-7,0,0,Loss,0,25300
+1974-0663,1974,1974-06-19,First round,Group,Germany,Poland,Haiti,Away,7,0,7,0,0,Win,3,25300
+1974-0664,1974,1974-06-19,First round,Group,Germany,Bulgaria,Uruguay,Home,1,1,0,0,0,Draw,1,13400
+1974-0664,1974,1974-06-19,First round,Group,Germany,Uruguay,Bulgaria,Away,1,1,0,0,0,Draw,1,13400
+1974-0665,1974,1974-06-19,First round,Group,Germany,Netherlands,Sweden,Home,0,0,0,0,0,Draw,1,53700
+1974-0665,1974,1974-06-19,First round,Group,Germany,Sweden,Netherlands,Away,0,0,0,0,0,Draw,1,53700
+1974-0666,1974,1974-06-19,First round,Group,Germany,Argentina,Italy,Home,1,1,0,0,0,Draw,1,70100
+1974-0666,1974,1974-06-19,First round,Group,Germany,Italy,Argentina,Away,1,1,0,0,0,Draw,1,70100
+1974-0667,1974,1974-06-18,First round,Group,Germany,Australia,West Germany,Home,0,3,-3,0,0,Loss,0,53300
+1974-0667,1974,1974-06-18,First round,Group,Germany,West Germany,Australia,Away,3,0,3,0,0,Win,3,53300
+1990-0668,1990,1990-06-30,Quarter-finals,Knockout,Italy,Italy,Republic of Ireland,Home,1,0,1,0,0,Win,3,73303
+1990-0668,1990,1990-06-30,Quarter-finals,Knockout,Italy,Republic of Ireland,Italy,Away,0,1,-1,0,0,Loss,0,73303
+1990-0669,1990,1990-06-26,Round of 16,Knockout,Italy,Spain,Yugoslavia,Home,1,2,-1,0,0,Loss,0,35500
+1990-0669,1990,1990-06-26,Round of 16,Knockout,Italy,Yugoslavia,Spain,Away,2,1,1,0,0,Win,3,35500
+1990-0670,1990,1990-06-26,Round of 16,Knockout,Italy,England,Belgium,Home,1,0,1,0,0,Win,3,34520
+1990-0670,1990,1990-06-26,Round of 16,Knockout,Italy,Belgium,England,Away,0,1,-1,0,0,Loss,0,34520
+1990-0671,1990,1990-06-25,Round of 16,Knockout,Italy,Republic of Ireland,Romania,Home,0,0,0,5,4,Win on penalties,3,31818
+1990-0671,1990,1990-06-25,Round of 16,Knockout,Italy,Romania,Republic of Ireland,Away,0,0,0,4,5,Loss on penalties,0,31818
+1982-0672,1982,1982-06-16,First group stage,Group,Spain,England,France,Home,3,1,2,0,0,Win,3,44172
+1982-0672,1982,1982-06-16,First group stage,Group,Spain,France,England,Away,1,3,-2,0,0,Loss,0,44172
+1982-0673,1982,1982-06-16,First group stage,Group,Spain,West Germany,Algeria,Home,1,2,-1,0,0,Loss,0,42000
+1982-0673,1982,1982-06-16,First group stage,Group,Spain,Algeria,West Germany,Away,2,1,1,0,0,Win,3,42000
+1982-0674,1982,1982-06-16,First group stage,Group,Spain,Spain,Honduras,Home,1,1,0,0,0,Draw,1,49562
+1982-0674,1982,1982-06-16,First group stage,Group,Spain,Honduras,Spain,Away,1,1,0,0,0,Draw,1,49562
+1982-0675,1982,1982-06-15,First group stage,Group,Spain,Peru,Cameroon,Home,0,0,0,0,0,Draw,1,11000
+1982-0675,1982,1982-06-15,First group stage,Group,Spain,Cameroon,Peru,Away,0,0,0,0,0,Draw,1,11000
+1982-0676,1982,1982-06-15,First group stage,Group,Spain,Hungary,El Salvador,Home,10,1,9,0,0,Win,3,23000
+1982-0676,1982,1982-06-15,First group stage,Group,Spain,El Salvador,Hungary,Away,1,10,-9,0,0,Loss,0,23000
+1982-0677,1982,1982-06-15,First group stage,Group,Spain,Scotland,New Zealand,Home,5,2,3,0,0,Win,3,36000
+1982-0677,1982,1982-06-15,First group stage,Group,Spain,New Zealand,Scotland,Away,2,5,-3,0,0,Loss,0,36000
+1982-0678,1982,1982-06-14,First group stage,Group,Spain,Italy,Poland,Home,0,0,0,0,0,Draw,1,33000
+1982-0678,1982,1982-06-14,First group stage,Group,Spain,Poland,Italy,Away,0,0,0,0,0,Draw,1,33000
+1982-0679,1982,1982-06-14,First group stage,Group,Spain,Brazil,Soviet Union,Home,2,1,1,0,0,Win,3,68000
+1982-0679,1982,1982-06-14,First group stage,Group,Spain,Soviet Union,Brazil,Away,1,2,-1,0,0,Loss,0,68000
+1982-0680,1982,1982-06-13,First group stage,Group,Spain,Argentina,Belgium,Home,0,1,-1,0,0,Loss,0,95000
+1982-0680,1982,1982-06-13,First group stage,Group,Spain,Belgium,Argentina,Away,1,0,1,0,0,Win,3,95000
+1978-0681,1978,1978-06-25,Final,Final,Argentina,Argentina,Netherlands,Home,3,1,2,0,0,Win,3,71483
+1978-0681,1978,1978-06-25,Final,Final,Argentina,Netherlands,Argentina,Away,1,3,-2,0,0,Loss,0,71483
+1978-0682,1978,1978-06-24,Third-place match,Placement,Argentina,Brazil,Italy,Home,2,1,1,0,0,Win,3,69659
+1978-0682,1978,1978-06-24,Third-place match,Placement,Argentina,Italy,Brazil,Away,1,2,-1,0,0,Loss,0,69659
+1978-0683,1978,1978-06-21,Second round,Knockout,Argentina,Netherlands,Italy,Home,2,1,1,0,0,Win,3,67433
+1978-0683,1978,1978-06-21,Second round,Knockout,Argentina,Italy,Netherlands,Away,1,2,-1,0,0,Loss,0,67433
+1978-0684,1978,1978-06-21,Second round,Knockout,Argentina,Austria,West Germany,Home,3,2,1,0,0,Win,3,38318
+1978-0684,1978,1978-06-21,Second round,Knockout,Argentina,West Germany,Austria,Away,2,3,-1,0,0,Loss,0,38318
+1978-0685,1978,1978-06-21,Second round,Knockout,Argentina,Brazil,Poland,Home,3,1,2,0,0,Win,3,39586
+1978-0685,1978,1978-06-21,Second round,Knockout,Argentina,Poland,Brazil,Away,1,3,-2,0,0,Loss,0,39586
+1978-0686,1978,1978-06-21,Second round,Knockout,Argentina,Argentina,Peru,Home,6,0,6,0,0,Win,3,37315
+1978-0686,1978,1978-06-21,Second round,Knockout,Argentina,Peru,Argentina,Away,0,6,-6,0,0,Loss,0,37315
+1978-0687,1978,1978-06-18,Second round,Knockout,Argentina,Poland,Peru,Home,1,0,1,0,0,Win,3,35288
+1978-0687,1978,1978-06-18,Second round,Knockout,Argentina,Peru,Poland,Away,0,1,-1,0,0,Loss,0,35288
+1978-0688,1978,1978-06-18,Second round,Knockout,Argentina,West Germany,Netherlands,Home,2,2,0,0,0,Draw,1,40750
+1978-0688,1978,1978-06-18,Second round,Knockout,Argentina,Netherlands,West Germany,Away,2,2,0,0,0,Draw,1,40750
+1978-0689,1978,1978-06-18,Second round,Knockout,Argentina,Italy,Austria,Home,1,0,1,0,0,Win,3,66695
+1978-0689,1978,1978-06-18,Second round,Knockout,Argentina,Austria,Italy,Away,0,1,-1,0,0,Loss,0,66695
+1978-0690,1978,1978-06-18,Second round,Knockout,Argentina,Argentina,Brazil,Home,0,0,0,0,0,Draw,1,37326
+1978-0690,1978,1978-06-18,Second round,Knockout,Argentina,Brazil,Argentina,Away,0,0,0,0,0,Draw,1,37326
+1978-0691,1978,1978-06-14,Second round,Knockout,Argentina,Netherlands,Austria,Home,5,1,4,0,0,Win,3,25050
+1978-0691,1978,1978-06-14,Second round,Knockout,Argentina,Austria,Netherlands,Away,1,5,-4,0,0,Loss,0,25050
+1978-0692,1978,1978-06-14,Second round,Knockout,Argentina,West Germany,Italy,Home,0,0,0,0,0,Draw,1,67547
+1978-0692,1978,1978-06-14,Second round,Knockout,Argentina,Italy,West Germany,Away,0,0,0,0,0,Draw,1,67547
+1978-0693,1978,1978-06-14,Second round,Knockout,Argentina,Brazil,Peru,Home,3,0,3,0,0,Win,3,31278
+1978-0693,1978,1978-06-14,Second round,Knockout,Argentina,Peru,Brazil,Away,0,3,-3,0,0,Loss,0,31278
+1978-0694,1978,1978-06-14,Second round,Knockout,Argentina,Argentina,Poland,Home,2,0,2,0,0,Win,3,37091
+1978-0694,1978,1978-06-14,Second round,Knockout,Argentina,Poland,Argentina,Away,0,2,-2,0,0,Loss,0,37091
+1978-0695,1978,1978-06-11,First round,Group,Argentina,Brazil,Austria,Home,1,0,1,0,0,Win,3,35221
+1978-0695,1978,1978-06-11,First round,Group,Argentina,Austria,Brazil,Away,0,1,-1,0,0,Loss,0,35221
+1978-0696,1978,1978-06-11,First round,Group,Argentina,Spain,Sweden,Home,1,0,1,0,0,Win,3,42132
+1978-0696,1978,1978-06-11,First round,Group,Argentina,Sweden,Spain,Away,0,1,-1,0,0,Loss,0,42132
+1978-0697,1978,1978-06-11,First round,Group,Argentina,Peru,IR Iran,Home,4,1,3,0,0,Win,3,21262
+1978-0697,1978,1978-06-11,First round,Group,Argentina,IR Iran,Peru,Away,1,4,-3,0,0,Loss,0,21262
+1978-0698,1978,1978-06-11,First round,Group,Argentina,Scotland,Netherlands,Home,3,2,1,0,0,Win,3,35130
+1978-0698,1978,1978-06-11,First round,Group,Argentina,Netherlands,Scotland,Away,2,3,-1,0,0,Loss,0,35130
+1978-0699,1978,1978-06-10,First round,Group,Argentina,France,Hungary,Home,3,1,2,0,0,Win,3,23127
+1978-0699,1978,1978-06-10,First round,Group,Argentina,Hungary,France,Away,1,3,-2,0,0,Loss,0,23127
+1978-0700,1978,1978-06-10,First round,Group,Argentina,Poland,Mexico,Home,3,1,2,0,0,Win,3,22651
+1978-0700,1978,1978-06-10,First round,Group,Argentina,Mexico,Poland,Away,1,3,-2,0,0,Loss,0,22651
+1974-0701,1974,1974-06-18,First round,Group,Germany,Yugoslavia,Zaire,Home,9,0,9,0,0,Win,3,31700
+1974-0701,1974,1974-06-18,First round,Group,Germany,Zaire,Yugoslavia,Away,0,9,-9,0,0,Loss,0,31700
+1974-0702,1974,1974-06-18,First round,Group,Germany,Chile,Germany DR,Home,1,1,0,0,0,Draw,1,28300
+1974-0702,1974,1974-06-18,First round,Group,Germany,Germany DR,Chile,Away,1,1,0,0,0,Draw,1,28300
+1974-0703,1974,1974-06-18,First round,Group,Germany,Scotland,Brazil,Home,0,0,0,0,0,Draw,1,62000
+1974-0703,1974,1974-06-18,First round,Group,Germany,Brazil,Scotland,Away,0,0,0,0,0,Draw,1,62000
+1974-0704,1974,1974-06-15,First round,Group,Germany,Uruguay,Netherlands,Home,0,2,-2,0,0,Loss,0,55100
+1974-0704,1974,1974-06-15,First round,Group,Germany,Netherlands,Uruguay,Away,2,0,2,0,0,Win,3,55100
+1978-0705,1978,1978-06-10,First round,Group,Argentina,West Germany,Tunisia,Home,0,0,0,0,0,Draw,1,30667
+1978-0705,1978,1978-06-10,First round,Group,Argentina,Tunisia,West Germany,Away,0,0,0,0,0,Draw,1,30667
+1978-0706,1978,1978-06-10,First round,Group,Argentina,Italy,Argentina,Home,1,0,1,0,0,Win,3,71712
+1978-0706,1978,1978-06-10,First round,Group,Argentina,Argentina,Italy,Away,0,1,-1,0,0,Loss,0,71712
+1970-0707,1970,1970-06-06,Group stage,Group,Mexico,Peru,Morocco,Home,3,0,3,0,0,Win,3,13537
+1970-0707,1970,1970-06-06,Group stage,Group,Mexico,Morocco,Peru,Away,0,3,-3,0,0,Loss,0,13537
+1970-0708,1970,1970-06-03,Group stage,Group,Mexico,Belgium,El Salvador,Home,3,0,3,0,0,Win,3,92205
+1970-0708,1970,1970-06-03,Group stage,Group,Mexico,El Salvador,Belgium,Away,0,3,-3,0,0,Loss,0,92205
+1970-0709,1970,1970-06-03,Group stage,Group,Mexico,Brazil,Czechoslovakia,Home,4,1,3,0,0,Win,3,52897
+1970-0709,1970,1970-06-03,Group stage,Group,Mexico,Czechoslovakia,Brazil,Away,1,4,-3,0,0,Loss,0,52897
+1970-0710,1970,1970-06-03,Group stage,Group,Mexico,Italy,Sweden,Home,1,0,1,0,0,Win,3,13433
+1970-0710,1970,1970-06-03,Group stage,Group,Mexico,Sweden,Italy,Away,0,1,-1,0,0,Loss,0,13433
+1990-0711,1990,1990-06-25,Round of 16,Knockout,Italy,Italy,Uruguay,Home,2,0,2,0,0,Win,3,73303
+1990-0711,1990,1990-06-25,Round of 16,Knockout,Italy,Uruguay,Italy,Away,0,2,-2,0,0,Loss,0,73303
+1970-0712,1970,1970-06-03,Group stage,Group,Mexico,West Germany,Morocco,Home,2,1,1,0,0,Win,3,12942
+1970-0712,1970,1970-06-03,Group stage,Group,Mexico,Morocco,West Germany,Away,1,2,-1,0,0,Loss,0,12942
+1970-0713,1970,1970-06-02,Group stage,Group,Mexico,England,Romania,Home,1,0,1,0,0,Win,3,50560
+1970-0713,1970,1970-06-02,Group stage,Group,Mexico,Romania,England,Away,0,1,-1,0,0,Loss,0,50560
+1990-0714,1990,1990-06-24,Round of 16,Knockout,Italy,Brazil,Argentina,Home,0,1,-1,0,0,Loss,0,61381
+1990-0714,1990,1990-06-24,Round of 16,Knockout,Italy,Argentina,Brazil,Away,1,0,1,0,0,Win,3,61381
+1970-0715,1970,1970-06-02,Group stage,Group,Mexico,Peru,Bulgaria,Home,3,2,1,0,0,Win,3,13765
+1970-0715,1970,1970-06-02,Group stage,Group,Mexico,Bulgaria,Peru,Away,2,3,-1,0,0,Loss,0,13765
+1990-0716,1990,1990-06-24,Round of 16,Knockout,Italy,West Germany,Netherlands,Home,2,1,1,0,0,Win,3,74559
+1990-0716,1990,1990-06-24,Round of 16,Knockout,Italy,Netherlands,West Germany,Away,1,2,-1,0,0,Loss,0,74559
+1970-0717,1970,1970-06-02,Group stage,Group,Mexico,Uruguay,Israel,Home,2,0,2,0,0,Win,3,20654
+1970-0717,1970,1970-06-02,Group stage,Group,Mexico,Israel,Uruguay,Away,0,2,-2,0,0,Loss,0,20654
+1990-0718,1990,1990-06-23,Round of 16,Knockout,Italy,Cameroon,Colombia,Home,2,1,1,0,0,Win,3,50026
+1990-0718,1990,1990-06-23,Round of 16,Knockout,Italy,Colombia,Cameroon,Away,1,2,-1,0,0,Loss,0,50026
+1970-0719,1970,1970-05-31,Group stage,Group,Mexico,Mexico,Soviet Union,Home,0,0,0,0,0,Draw,1,107160
+1970-0719,1970,1970-05-31,Group stage,Group,Mexico,Soviet Union,Mexico,Away,0,0,0,0,0,Draw,1,107160
+1966-0720,1966,1966-07-30,Final,Final,England,England,West Germany,Home,4,2,2,0,0,Win,3,96924
+1966-0720,1966,1966-07-30,Final,Final,England,West Germany,England,Away,2,4,-2,0,0,Loss,0,96924
+1966-0721,1966,1966-07-28,Third-place match,Placement,England,Portugal,Soviet Union,Home,2,1,1,0,0,Win,3,87696
+1966-0721,1966,1966-07-28,Third-place match,Placement,England,Soviet Union,Portugal,Away,1,2,-1,0,0,Loss,0,87696
+1966-0722,1966,1966-07-26,Semi-finals,Knockout,England,England,Portugal,Home,2,1,1,0,0,Win,3,94493
+1966-0722,1966,1966-07-26,Semi-finals,Knockout,England,Portugal,England,Away,1,2,-1,0,0,Loss,0,94493
+1966-0723,1966,1966-07-25,Semi-finals,Knockout,England,West Germany,Soviet Union,Home,2,1,1,0,0,Win,3,38273
+1966-0723,1966,1966-07-25,Semi-finals,Knockout,England,Soviet Union,West Germany,Away,1,2,-1,0,0,Loss,0,38273
+1966-0724,1966,1966-07-23,Quarter-finals,Knockout,England,Portugal,Korea DPR,Home,5,3,2,0,0,Win,3,40248
+1966-0724,1966,1966-07-23,Quarter-finals,Knockout,England,Korea DPR,Portugal,Away,3,5,-2,0,0,Loss,0,40248
+1966-0725,1966,1966-07-23,Quarter-finals,Knockout,England,England,Argentina,Home,1,0,1,0,0,Win,3,90584
+1966-0725,1966,1966-07-23,Quarter-finals,Knockout,England,Argentina,England,Away,0,1,-1,0,0,Loss,0,90584
+1966-0726,1966,1966-07-23,Quarter-finals,Knockout,England,Soviet Union,Hungary,Home,2,1,1,0,0,Win,3,26844
+1966-0726,1966,1966-07-23,Quarter-finals,Knockout,England,Hungary,Soviet Union,Away,1,2,-1,0,0,Loss,0,26844
+1966-0727,1966,1966-07-23,Quarter-finals,Knockout,England,West Germany,Uruguay,Home,4,0,4,0,0,Win,3,40007
+1966-0727,1966,1966-07-23,Quarter-finals,Knockout,England,Uruguay,West Germany,Away,0,4,-4,0,0,Loss,0,40007
+1966-0728,1966,1966-07-20,Group stage,Group,England,England,France,Home,2,0,2,0,0,Win,3,98270
+1966-0728,1966,1966-07-20,Group stage,Group,England,France,England,Away,0,2,-2,0,0,Loss,0,98270
+1966-0729,1966,1966-07-20,Group stage,Group,England,Hungary,Bulgaria,Home,3,1,2,0,0,Win,3,24129
+1966-0729,1966,1966-07-20,Group stage,Group,England,Bulgaria,Hungary,Away,1,3,-2,0,0,Loss,0,24129
+1966-0730,1966,1966-07-20,Group stage,Group,England,West Germany,Spain,Home,2,1,1,0,0,Win,3,42187
+1966-0730,1966,1966-07-20,Group stage,Group,England,Spain,West Germany,Away,1,2,-1,0,0,Loss,0,42187
+1966-0731,1966,1966-07-20,Group stage,Group,England,Soviet Union,Chile,Home,2,1,1,0,0,Win,3,16027
+1966-0731,1966,1966-07-20,Group stage,Group,England,Chile,Soviet Union,Away,1,2,-1,0,0,Loss,0,16027
+1966-0732,1966,1966-07-19,Group stage,Group,England,Uruguay,Mexico,Home,0,0,0,0,0,Draw,1,61112
+1966-0732,1966,1966-07-19,Group stage,Group,England,Mexico,Uruguay,Away,0,0,0,0,0,Draw,1,61112
+1966-0733,1966,1966-07-19,Group stage,Group,England,Argentina,Switzerland,Home,2,0,2,0,0,Win,3,32127
+1966-0733,1966,1966-07-19,Group stage,Group,England,Switzerland,Argentina,Away,0,2,-2,0,0,Loss,0,32127
+1966-0734,1966,1966-07-19,Group stage,Group,England,Portugal,Brazil,Home,3,1,2,0,0,Win,3,58479
+1966-0734,1966,1966-07-19,Group stage,Group,England,Brazil,Portugal,Away,1,3,-2,0,0,Loss,0,58479
+1966-0735,1966,1966-07-19,Group stage,Group,England,Korea DPR,Italy,Home,1,0,1,0,0,Win,3,17829
+1966-0735,1966,1966-07-19,Group stage,Group,England,Italy,Korea DPR,Away,0,1,-1,0,0,Loss,0,17829
+1966-0736,1966,1966-07-16,Group stage,Group,England,West Germany,Argentina,Home,0,0,0,0,0,Draw,1,46587
+1966-0736,1966,1966-07-16,Group stage,Group,England,Argentina,West Germany,Away,0,0,0,0,0,Draw,1,46587
+1990-0737,1990,1990-06-23,Round of 16,Knockout,Italy,Czechoslovakia,Costa Rica,Home,4,1,3,0,0,Win,3,47673
+1990-0737,1990,1990-06-23,Round of 16,Knockout,Italy,Costa Rica,Czechoslovakia,Away,1,4,-3,0,0,Loss,0,47673
+1966-0738,1966,1966-07-16,Group stage,Group,England,Soviet Union,Italy,Home,1,0,1,0,0,Win,3,27793
+1966-0738,1966,1966-07-16,Group stage,Group,England,Italy,Soviet Union,Away,0,1,-1,0,0,Loss,0,27793
+1990-0739,1990,1990-06-21,Group stage,Group,Italy,Belgium,Spain,Home,1,2,-1,0,0,Loss,0,35950
+1990-0739,1990,1990-06-21,Group stage,Group,Italy,Spain,Belgium,Away,2,1,1,0,0,Win,3,35950
+1966-0740,1966,1966-07-16,Group stage,Group,England,Portugal,Bulgaria,Home,3,0,3,0,0,Win,3,25438
+1966-0740,1966,1966-07-16,Group stage,Group,England,Bulgaria,Portugal,Away,0,3,-3,0,0,Loss,0,25438
+1990-0741,1990,1990-06-21,Group stage,Group,Italy,Korea Republic,Uruguay,Home,0,1,-1,0,0,Loss,0,29039
+1990-0741,1990,1990-06-21,Group stage,Group,Italy,Uruguay,Korea Republic,Away,1,0,1,0,0,Win,3,29039
+1966-0742,1966,1966-07-16,Group stage,Group,England,England,Mexico,Home,2,0,2,0,0,Win,3,92570
+1966-0742,1966,1966-07-16,Group stage,Group,England,Mexico,England,Away,0,2,-2,0,0,Loss,0,92570
+1990-0743,1990,1990-06-21,Group stage,Group,Italy,Republic of Ireland,Netherlands,Home,1,1,0,0,0,Draw,1,33288
+1990-0743,1990,1990-06-21,Group stage,Group,Italy,Netherlands,Republic of Ireland,Away,1,1,0,0,0,Draw,1,33288
+1966-0744,1966,1966-07-15,Group stage,Group,England,Spain,Switzerland,Home,2,1,1,0,0,Win,3,32028
+1966-0744,1966,1966-07-15,Group stage,Group,England,Switzerland,Spain,Away,1,2,-1,0,0,Loss,0,32028
+1966-0745,1966,1966-07-15,Group stage,Group,England,Uruguay,France,Home,2,1,1,0,0,Win,3,45662
+1966-0745,1966,1966-07-15,Group stage,Group,England,France,Uruguay,Away,1,2,-1,0,0,Loss,0,45662
+1966-0746,1966,1966-07-15,Group stage,Group,England,Hungary,Brazil,Home,3,1,2,0,0,Win,3,51387
+1966-0746,1966,1966-07-15,Group stage,Group,England,Brazil,Hungary,Away,1,3,-2,0,0,Loss,0,51387
+1966-0747,1966,1966-07-15,Group stage,Group,England,Korea DPR,Chile,Home,1,1,0,0,0,Draw,1,13792
+1966-0747,1966,1966-07-15,Group stage,Group,England,Chile,Korea DPR,Away,1,1,0,0,0,Draw,1,13792
+1966-0748,1966,1966-07-13,Group stage,Group,England,Argentina,Spain,Home,2,1,1,0,0,Win,3,42738
+1966-0748,1966,1966-07-13,Group stage,Group,England,Spain,Argentina,Away,1,2,-1,0,0,Loss,0,42738
+1966-0749,1966,1966-07-13,Group stage,Group,England,France,Mexico,Home,1,1,0,0,0,Draw,1,69237
+1966-0749,1966,1966-07-13,Group stage,Group,England,Mexico,France,Away,1,1,0,0,0,Draw,1,69237
+1966-0750,1966,1966-07-13,Group stage,Group,England,Italy,Chile,Home,2,0,2,0,0,Win,3,27199
+1966-0750,1966,1966-07-13,Group stage,Group,England,Chile,Italy,Away,0,2,-2,0,0,Loss,0,27199
+1966-0751,1966,1966-07-13,Group stage,Group,England,Portugal,Hungary,Home,3,1,2,0,0,Win,3,29886
+1966-0751,1966,1966-07-13,Group stage,Group,England,Hungary,Portugal,Away,1,3,-2,0,0,Loss,0,29886
+1966-0752,1966,1966-07-12,Group stage,Group,England,Brazil,Bulgaria,Home,2,0,2,0,0,Win,3,47308
+1966-0752,1966,1966-07-12,Group stage,Group,England,Bulgaria,Brazil,Away,0,2,-2,0,0,Loss,0,47308
+1966-0753,1966,1966-07-12,Group stage,Group,England,Soviet Union,Korea DPR,Home,3,0,3,0,0,Win,3,23006
+1966-0753,1966,1966-07-12,Group stage,Group,England,Korea DPR,Soviet Union,Away,0,3,-3,0,0,Loss,0,23006
+1966-0754,1966,1966-07-12,Group stage,Group,England,West Germany,Switzerland,Home,5,0,5,0,0,Win,3,36127
+1966-0754,1966,1966-07-12,Group stage,Group,England,Switzerland,West Germany,Away,0,5,-5,0,0,Loss,0,36127
+1966-0755,1966,1966-07-11,Group stage,Group,England,England,Uruguay,Home,0,0,0,0,0,Draw,1,87148
+1966-0755,1966,1966-07-11,Group stage,Group,England,Uruguay,England,Away,0,0,0,0,0,Draw,1,87148
+1990-0756,1990,1990-06-21,Group stage,Group,Italy,England,Egypt,Home,1,0,1,0,0,Win,3,34959
+1990-0756,1990,1990-06-21,Group stage,Group,Italy,Egypt,England,Away,0,1,-1,0,0,Loss,0,34959
+1990-0757,1990,1990-06-20,Group stage,Group,Italy,Sweden,Costa Rica,Home,1,2,-1,0,0,Loss,0,30223
+1990-0757,1990,1990-06-20,Group stage,Group,Italy,Costa Rica,Sweden,Away,2,1,1,0,0,Win,3,30223
+1990-0758,1990,1990-06-20,Group stage,Group,Italy,Brazil,Scotland,Home,1,0,1,0,0,Win,3,62502
+1990-0758,1990,1990-06-20,Group stage,Group,Italy,Scotland,Brazil,Away,0,1,-1,0,0,Loss,0,62502
+1990-0759,1990,1990-06-19,Group stage,Group,Italy,West Germany,Colombia,Home,1,1,0,0,0,Draw,1,72510
+1990-0759,1990,1990-06-19,Group stage,Group,Italy,Colombia,West Germany,Away,1,1,0,0,0,Draw,1,72510
+1962-0760,1962,1962-06-17,Final,Final,Chile,Brazil,Czechoslovakia,Home,3,1,2,0,0,Win,3,68679
+1962-0760,1962,1962-06-17,Final,Final,Chile,Czechoslovakia,Brazil,Away,1,3,-2,0,0,Loss,0,68679
+1962-0761,1962,1962-06-16,Third-place match,Placement,Chile,Chile,Yugoslavia,Home,1,0,1,0,0,Win,3,66697
+1962-0761,1962,1962-06-16,Third-place match,Placement,Chile,Yugoslavia,Chile,Away,0,1,-1,0,0,Loss,0,66697
+1962-0762,1962,1962-06-13,Semi-finals,Knockout,Chile,Brazil,Chile,Home,4,2,2,0,0,Win,3,76594
+1962-0762,1962,1962-06-13,Semi-finals,Knockout,Chile,Chile,Brazil,Away,2,4,-2,0,0,Loss,0,76594
+1990-0763,1990,1990-06-19,Group stage,Group,Italy,Yugoslavia,United Arab Emirates,Home,4,1,3,0,0,Win,3,27833
+1990-0763,1990,1990-06-19,Group stage,Group,Italy,United Arab Emirates,Yugoslavia,Away,1,4,-3,0,0,Loss,0,27833
+1962-0764,1962,1962-06-13,Semi-finals,Knockout,Chile,Czechoslovakia,Yugoslavia,Home,3,1,2,0,0,Win,3,5890
+1962-0764,1962,1962-06-13,Semi-finals,Knockout,Chile,Yugoslavia,Czechoslovakia,Away,1,3,-2,0,0,Loss,0,5890
+1990-0765,1990,1990-06-19,Group stage,Group,Italy,Austria,United States,Home,2,1,1,0,0,Win,3,34857
+1990-0765,1990,1990-06-19,Group stage,Group,Italy,United States,Austria,Away,1,2,-1,0,0,Loss,0,34857
+1962-0766,1962,1962-06-10,Quarter-finals,Knockout,Chile,Chile,Soviet Union,Home,2,1,1,0,0,Win,3,17268
+1962-0766,1962,1962-06-10,Quarter-finals,Knockout,Chile,Soviet Union,Chile,Away,1,2,-1,0,0,Loss,0,17268
+1958-0767,1958,1958-06-24,Semi-finals,Knockout,Sweden,Brazil,France,Home,5,2,3,0,0,Win,3,27100
+1958-0767,1958,1958-06-24,Semi-finals,Knockout,Sweden,France,Brazil,Away,2,5,-3,0,0,Loss,0,27100
+1962-0768,1962,1962-06-10,Quarter-finals,Knockout,Chile,Brazil,England,Home,3,1,2,0,0,Win,3,17736
+1962-0768,1962,1962-06-10,Quarter-finals,Knockout,Chile,England,Brazil,Away,1,3,-2,0,0,Loss,0,17736
+1958-0769,1958,1958-06-19,Quarter-finals,Knockout,Sweden,France,Northern Ireland,Home,4,0,4,0,0,Win,3,11800
+1958-0769,1958,1958-06-19,Quarter-finals,Knockout,Sweden,Northern Ireland,France,Away,0,4,-4,0,0,Loss,0,11800
+1962-0770,1962,1962-06-10,Quarter-finals,Knockout,Chile,Czechoslovakia,Hungary,Home,1,0,1,0,0,Win,3,11690
+1962-0770,1962,1962-06-10,Quarter-finals,Knockout,Chile,Hungary,Czechoslovakia,Away,0,1,-1,0,0,Loss,0,11690
+1958-0771,1958,1958-06-19,Quarter-finals,Knockout,Sweden,West Germany,Yugoslavia,Home,1,0,1,0,0,Win,3,20055
+1958-0771,1958,1958-06-19,Quarter-finals,Knockout,Sweden,Yugoslavia,West Germany,Away,0,1,-1,0,0,Loss,0,20055
+1962-0772,1962,1962-06-10,Quarter-finals,Knockout,Chile,Yugoslavia,West Germany,Home,1,0,1,0,0,Win,3,63324
+1962-0772,1962,1962-06-10,Quarter-finals,Knockout,Chile,West Germany,Yugoslavia,Away,0,1,-1,0,0,Loss,0,63324
+1962-0773,1962,1962-06-07,Group stage,Group,Chile,England,Bulgaria,Home,0,0,0,0,0,Draw,1,5700
+1962-0773,1962,1962-06-07,Group stage,Group,Chile,Bulgaria,England,Away,0,0,0,0,0,Draw,1,5700
+2006-0774,2006,2006-06-16,Group stage,Group,Germany,Netherlands,Côte d'Ivoire,Home,2,1,1,0,0,Win,3,52000
+2006-0774,2006,2006-06-16,Group stage,Group,Germany,Côte d'Ivoire,Netherlands,Away,1,2,-1,0,0,Loss,0,52000
+2006-0775,2006,2006-06-16,Group stage,Group,Germany,Mexico,Angola,Home,0,0,0,0,0,Draw,1,43000
+2006-0775,2006,2006-06-16,Group stage,Group,Germany,Angola,Mexico,Away,0,0,0,0,0,Draw,1,43000
+2006-0776,2006,2006-06-15,Group stage,Group,Germany,Ecuador,Costa Rica,Home,3,0,3,0,0,Win,3,50000
+2006-0776,2006,2006-06-15,Group stage,Group,Germany,Costa Rica,Ecuador,Away,0,3,-3,0,0,Loss,0,50000
+2006-0777,2006,2006-06-15,Group stage,Group,Germany,England,Trinidad and Tobago,Home,2,0,2,0,0,Win,3,41000
+2006-0777,2006,2006-06-15,Group stage,Group,Germany,Trinidad and Tobago,England,Away,0,2,-2,0,0,Loss,0,41000
+1958-0778,1958,1958-06-19,Quarter-finals,Knockout,Sweden,Brazil,Wales,Home,1,0,1,0,0,Win,3,25923
+1958-0778,1958,1958-06-19,Quarter-finals,Knockout,Sweden,Wales,Brazil,Away,0,1,-1,0,0,Loss,0,25923
+1958-0779,1958,1958-06-19,Quarter-finals,Knockout,Sweden,Sweden,Soviet Union,Home,2,0,2,0,0,Win,3,31900
+1958-0779,1958,1958-06-19,Quarter-finals,Knockout,Sweden,Soviet Union,Sweden,Away,0,2,-2,0,0,Loss,0,31900
+1958-0780,1958,1958-06-17,Group stage play-off,Group,Sweden,Northern Ireland,Czechoslovakia,Home,2,1,1,0,0,Win,3,6196
+1958-0780,1958,1958-06-17,Group stage play-off,Group,Sweden,Czechoslovakia,Northern Ireland,Away,1,2,-1,0,0,Loss,0,6196
+1958-0781,1958,1958-06-17,Group stage play-off,Group,Sweden,Wales,Hungary,Home,2,1,1,0,0,Win,3,2823
+1958-0781,1958,1958-06-17,Group stage play-off,Group,Sweden,Hungary,Wales,Away,1,2,-1,0,0,Loss,0,2823
+1958-0782,1958,1958-06-17,Group stage play-off,Group,Sweden,Soviet Union,England,Home,1,0,1,0,0,Win,3,23182
+1958-0782,1958,1958-06-17,Group stage play-off,Group,Sweden,England,Soviet Union,Away,0,1,-1,0,0,Loss,0,23182
+1958-0783,1958,1958-06-15,Group stage,Group,Sweden,Sweden,Wales,Home,0,0,0,0,0,Draw,1,30287
+1958-0783,1958,1958-06-15,Group stage,Group,Sweden,Wales,Sweden,Away,0,0,0,0,0,Draw,1,30287
+1958-0784,1958,1958-06-15,Group stage,Group,Sweden,Paraguay,Yugoslavia,Home,3,3,0,0,0,Draw,1,13103
+1958-0784,1958,1958-06-15,Group stage,Group,Sweden,Yugoslavia,Paraguay,Away,3,3,0,0,0,Draw,1,13103
+1958-0785,1958,1958-06-15,Group stage,Group,Sweden,West Germany,Northern Ireland,Home,2,2,0,0,0,Draw,1,21990
+1958-0785,1958,1958-06-15,Group stage,Group,Sweden,Northern Ireland,West Germany,Away,2,2,0,0,0,Draw,1,21990
+1958-0786,1958,1958-06-15,Group stage,Group,Sweden,Czechoslovakia,Argentina,Home,6,1,5,0,0,Win,3,16418
+1958-0786,1958,1958-06-15,Group stage,Group,Sweden,Argentina,Czechoslovakia,Away,1,6,-5,0,0,Loss,0,16418
+1958-0787,1958,1958-06-15,Group stage,Group,Sweden,England,Austria,Home,2,2,0,0,0,Draw,1,15872
+1958-0787,1958,1958-06-15,Group stage,Group,Sweden,Austria,England,Away,2,2,0,0,0,Draw,1,15872
+1958-0788,1958,1958-06-15,Group stage,Group,Sweden,Brazil,Soviet Union,Home,2,0,2,0,0,Win,3,50928
+1958-0788,1958,1958-06-15,Group stage,Group,Sweden,Soviet Union,Brazil,Away,0,2,-2,0,0,Loss,0,50928
+1958-0789,1958,1958-06-15,Group stage,Group,Sweden,Hungary,Mexico,Home,4,0,4,0,0,Win,3,13300
+1958-0789,1958,1958-06-15,Group stage,Group,Sweden,Mexico,Hungary,Away,0,4,-4,0,0,Loss,0,13300
+1958-0790,1958,1958-06-15,Group stage,Group,Sweden,France,Scotland,Home,2,1,1,0,0,Win,3,13554
+1958-0790,1958,1958-06-15,Group stage,Group,Sweden,Scotland,France,Away,1,2,-1,0,0,Loss,0,13554
+1958-0791,1958,1958-06-12,Group stage,Group,Sweden,Sweden,Hungary,Home,2,1,1,0,0,Win,3,38850
+1958-0791,1958,1958-06-12,Group stage,Group,Sweden,Hungary,Sweden,Away,1,2,-1,0,0,Loss,0,38850
+1958-0792,1958,1958-06-11,Group stage,Group,Sweden,Soviet Union,Austria,Home,2,0,2,0,0,Win,3,21239
+1958-0792,1958,1958-06-11,Group stage,Group,Sweden,Austria,Soviet Union,Away,0,2,-2,0,0,Loss,0,21239
+1958-0793,1958,1958-06-11,Group stage,Group,Sweden,West Germany,Czechoslovakia,Home,2,2,0,0,0,Draw,1,25000
+1958-0793,1958,1958-06-11,Group stage,Group,Sweden,Czechoslovakia,West Germany,Away,2,2,0,0,0,Draw,1,25000
+1958-0794,1958,1958-06-11,Group stage,Group,Sweden,Argentina,Northern Ireland,Home,3,1,2,0,0,Win,3,14174
+1958-0794,1958,1958-06-11,Group stage,Group,Sweden,Northern Ireland,Argentina,Away,1,3,-2,0,0,Loss,0,14174
+1958-0795,1958,1958-06-11,Group stage,Group,Sweden,Yugoslavia,France,Home,3,2,1,0,0,Win,3,12217
+1958-0795,1958,1958-06-11,Group stage,Group,Sweden,France,Yugoslavia,Away,2,3,-1,0,0,Loss,0,12217
+1958-0796,1958,1958-06-11,Group stage,Group,Sweden,Paraguay,Scotland,Home,3,2,1,0,0,Win,3,11665
+1958-0796,1958,1958-06-11,Group stage,Group,Sweden,Scotland,Paraguay,Away,2,3,-1,0,0,Loss,0,11665
+1958-0797,1958,1958-06-11,Group stage,Group,Sweden,Brazil,England,Home,0,0,0,0,0,Draw,1,40895
+1958-0797,1958,1958-06-11,Group stage,Group,Sweden,England,Brazil,Away,0,0,0,0,0,Draw,1,40895
+1958-0798,1958,1958-06-11,Group stage,Group,Sweden,Mexico,Wales,Home,1,1,0,0,0,Draw,1,15150
+1958-0798,1958,1958-06-11,Group stage,Group,Sweden,Wales,Mexico,Away,1,1,0,0,0,Draw,1,15150
+1958-0799,1958,1958-06-08,Group stage,Group,Sweden,Sweden,Mexico,Home,3,0,3,0,0,Win,3,34107
+1958-0799,1958,1958-06-08,Group stage,Group,Sweden,Mexico,Sweden,Away,0,3,-3,0,0,Loss,0,34107
+1958-0800,1958,1958-06-08,Group stage,Group,Sweden,Northern Ireland,Czechoslovakia,Home,1,0,1,0,0,Win,3,10647
+1958-0800,1958,1958-06-08,Group stage,Group,Sweden,Czechoslovakia,Northern Ireland,Away,0,1,-1,0,0,Loss,0,10647
+1958-0801,1958,1958-06-08,Group stage,Group,Sweden,Hungary,Wales,Home,1,1,0,0,0,Draw,1,15343
+1958-0801,1958,1958-06-08,Group stage,Group,Sweden,Wales,Hungary,Away,1,1,0,0,0,Draw,1,15343
+1958-0802,1958,1958-06-08,Group stage,Group,Sweden,Yugoslavia,Scotland,Home,1,1,0,0,0,Draw,1,9591
+1958-0802,1958,1958-06-08,Group stage,Group,Sweden,Scotland,Yugoslavia,Away,1,1,0,0,0,Draw,1,9591
+1958-0803,1958,1958-06-08,Group stage,Group,Sweden,Brazil,Austria,Home,3,0,3,0,0,Win,3,17788
+1958-0803,1958,1958-06-08,Group stage,Group,Sweden,Austria,Brazil,Away,0,3,-3,0,0,Loss,0,17788
+1958-0804,1958,1958-06-08,Group stage,Group,Sweden,Soviet Union,England,Home,2,2,0,0,0,Draw,1,49348
+1958-0804,1958,1958-06-08,Group stage,Group,Sweden,England,Soviet Union,Away,2,2,0,0,0,Draw,1,49348
+1958-0805,1958,1958-06-08,Group stage,Group,Sweden,France,Paraguay,Home,7,3,4,0,0,Win,3,16518
+1958-0805,1958,1958-06-08,Group stage,Group,Sweden,Paraguay,France,Away,3,7,-4,0,0,Loss,0,16518
+1958-0806,1958,1958-06-08,Group stage,Group,Sweden,Argentina,West Germany,Home,1,3,-2,0,0,Loss,0,31156
+1958-0806,1958,1958-06-08,Group stage,Group,Sweden,West Germany,Argentina,Away,3,1,2,0,0,Win,3,31156
+1954-0807,1954,1954-07-04,Final,Final,Switzerland,Germany,Hungary,Home,3,2,1,0,0,Win,3,62500
+1954-0807,1954,1954-07-04,Final,Final,Switzerland,Hungary,Germany,Away,2,3,-1,0,0,Loss,0,62500
+1954-0808,1954,1954-07-03,Third-place match,Placement,Switzerland,Austria,Uruguay,Home,3,1,2,0,0,Win,3,32000
+1954-0808,1954,1954-07-03,Third-place match,Placement,Switzerland,Uruguay,Austria,Away,1,3,-2,0,0,Loss,0,32000
+1954-0809,1954,1954-06-30,Semi-finals,Knockout,Switzerland,Hungary,Uruguay,Home,4,2,2,0,0,Win,3,45000
+1954-0809,1954,1954-06-30,Semi-finals,Knockout,Switzerland,Uruguay,Hungary,Away,2,4,-2,0,0,Loss,0,45000
+1954-0810,1954,1954-06-30,Semi-finals,Knockout,Switzerland,Germany,Austria,Home,6,1,5,0,0,Win,3,58000
+1954-0810,1954,1954-06-30,Semi-finals,Knockout,Switzerland,Austria,Germany,Away,1,6,-5,0,0,Loss,0,58000
+1954-0811,1954,1954-06-27,Quarter-finals,Knockout,Switzerland,Germany,Yugoslavia,Home,2,0,2,0,0,Win,3,17000
+1954-0811,1954,1954-06-27,Quarter-finals,Knockout,Switzerland,Yugoslavia,Germany,Away,0,2,-2,0,0,Loss,0,17000
+1954-0812,1954,1954-06-27,Quarter-finals,Knockout,Switzerland,Hungary,Brazil,Home,4,2,2,0,0,Win,3,40000
+1954-0812,1954,1954-06-27,Quarter-finals,Knockout,Switzerland,Brazil,Hungary,Away,2,4,-2,0,0,Loss,0,40000
+1954-0813,1954,1954-06-26,Quarter-finals,Knockout,Switzerland,Uruguay,England,Home,4,2,2,0,0,Win,3,28000
+1954-0813,1954,1954-06-26,Quarter-finals,Knockout,Switzerland,England,Uruguay,Away,2,4,-2,0,0,Loss,0,28000
+1954-0814,1954,1954-06-26,Quarter-finals,Knockout,Switzerland,Switzerland,Austria,Home,5,7,-2,0,0,Loss,0,35000
+1954-0814,1954,1954-06-26,Quarter-finals,Knockout,Switzerland,Austria,Switzerland,Away,7,5,2,0,0,Win,3,35000
+1954-0815,1954,1954-06-23,Group stage play-off,Group,Switzerland,Germany,Türkiye,Home,7,2,5,0,0,Win,3,17000
+1954-0815,1954,1954-06-23,Group stage play-off,Group,Switzerland,Türkiye,Germany,Away,2,7,-5,0,0,Loss,0,17000
+1954-0816,1954,1954-06-23,Group stage play-off,Group,Switzerland,Switzerland,Italy,Home,4,1,3,0,0,Win,3,30000
+1954-0816,1954,1954-06-23,Group stage play-off,Group,Switzerland,Italy,Switzerland,Away,1,4,-3,0,0,Loss,0,30000
+1954-0817,1954,1954-06-20,Group stage,Group,Switzerland,Hungary,Germany,Home,8,3,5,0,0,Win,3,56000
+1954-0817,1954,1954-06-20,Group stage,Group,Switzerland,Germany,Hungary,Away,3,8,-5,0,0,Loss,0,56000
+1974-0818,1974,1974-06-15,First round,Group,Germany,Sweden,Bulgaria,Home,0,0,0,0,0,Draw,1,23800
+1974-0818,1974,1974-06-15,First round,Group,Germany,Bulgaria,Sweden,Away,0,0,0,0,0,Draw,1,23800
+1954-0819,1954,1954-06-20,Group stage,Group,Switzerland,Türkiye,Korea Republic,Home,7,0,7,0,0,Win,3,4000
+1954-0819,1954,1954-06-20,Group stage,Group,Switzerland,Korea Republic,Türkiye,Away,0,7,-7,0,0,Loss,0,4000
+1954-0820,1954,1954-06-20,Group stage,Group,Switzerland,Italy,Belgium,Home,4,1,3,0,0,Win,3,24000
+1954-0820,1954,1954-06-20,Group stage,Group,Switzerland,Belgium,Italy,Away,1,4,-3,0,0,Loss,0,24000
+1954-0821,1954,1954-06-20,Group stage,Group,Switzerland,Switzerland,England,Home,0,2,-2,0,0,Loss,0,43500
+1954-0821,1954,1954-06-20,Group stage,Group,Switzerland,England,Switzerland,Away,2,0,2,0,0,Win,3,43500
+1954-0822,1954,1954-06-19,Group stage,Group,Switzerland,Uruguay,Scotland,Home,7,0,7,0,0,Win,3,34000
+1954-0822,1954,1954-06-19,Group stage,Group,Switzerland,Scotland,Uruguay,Away,0,7,-7,0,0,Loss,0,34000
+1954-0823,1954,1954-06-19,Group stage,Group,Switzerland,Brazil,Yugoslavia,Home,1,1,0,0,0,Draw,1,24637
+1954-0823,1954,1954-06-19,Group stage,Group,Switzerland,Yugoslavia,Brazil,Away,1,1,0,0,0,Draw,1,24637
+1954-0824,1954,1954-06-19,Group stage,Group,Switzerland,Austria,Czechoslovakia,Home,5,0,5,0,0,Win,3,26000
+1954-0824,1954,1954-06-19,Group stage,Group,Switzerland,Czechoslovakia,Austria,Away,0,5,-5,0,0,Loss,0,26000
+1954-0825,1954,1954-06-19,Group stage,Group,Switzerland,France,Mexico,Home,3,2,1,0,0,Win,3,19000
+1954-0825,1954,1954-06-19,Group stage,Group,Switzerland,Mexico,France,Away,2,3,-1,0,0,Loss,0,19000
+1954-0826,1954,1954-06-17,Group stage,Group,Switzerland,Switzerland,Italy,Home,2,1,1,0,0,Win,3,43000
+1954-0826,1954,1954-06-17,Group stage,Group,Switzerland,Italy,Switzerland,Away,1,2,-1,0,0,Loss,0,43000
+1974-0827,1974,1974-06-15,First round,Group,Germany,Italy,Haiti,Home,3,1,2,0,0,Win,3,53000
+1974-0827,1974,1974-06-15,First round,Group,Germany,Haiti,Italy,Away,1,3,-2,0,0,Loss,0,53000
+1974-0828,1974,1974-06-15,First round,Group,Germany,Poland,Argentina,Home,3,2,1,0,0,Win,3,32700
+1974-0828,1974,1974-06-15,First round,Group,Germany,Argentina,Poland,Away,2,3,-1,0,0,Loss,0,32700
+1974-0829,1974,1974-06-14,First round,Group,Germany,West Germany,Chile,Home,1,0,1,0,0,Win,3,81100
+1974-0829,1974,1974-06-14,First round,Group,Germany,Chile,West Germany,Away,0,1,-1,0,0,Loss,0,81100
+1974-0830,1974,1974-06-14,First round,Group,Germany,Germany DR,Australia,Home,2,0,2,0,0,Win,3,17000
+1974-0830,1974,1974-06-14,First round,Group,Germany,Australia,Germany DR,Away,0,2,-2,0,0,Loss,0,17000
+1954-0831,1954,1954-06-17,Group stage,Group,Switzerland,Hungary,Korea Republic,Home,9,0,9,0,0,Win,3,13000
+1954-0831,1954,1954-06-17,Group stage,Group,Switzerland,Korea Republic,Hungary,Away,0,9,-9,0,0,Loss,0,13000
+1962-0832,1962,1962-06-07,Group stage,Group,Chile,Mexico,Czechoslovakia,Home,3,1,2,0,0,Win,3,10648
+1962-0832,1962,1962-06-07,Group stage,Group,Chile,Czechoslovakia,Mexico,Away,1,3,-2,0,0,Loss,0,10648
+1962-0833,1962,1962-06-07,Group stage,Group,Chile,Italy,Switzerland,Home,3,0,3,0,0,Win,3,59828
+1962-0833,1962,1962-06-07,Group stage,Group,Chile,Switzerland,Italy,Away,0,3,-3,0,0,Loss,0,59828
+1954-0834,1954,1954-06-17,Group stage,Group,Switzerland,Germany,Türkiye,Home,4,1,3,0,0,Win,3,28000
+1954-0834,1954,1954-06-17,Group stage,Group,Switzerland,Türkiye,Germany,Away,1,4,-3,0,0,Loss,0,28000
+1954-0835,1954,1954-06-17,Group stage,Group,Switzerland,England,Belgium,Home,4,4,0,0,0,Draw,1,14000
+1954-0835,1954,1954-06-17,Group stage,Group,Switzerland,Belgium,England,Away,4,4,0,0,0,Draw,1,14000
+1962-0836,1962,1962-06-07,Group stage,Group,Chile,Yugoslavia,Colombia,Home,5,0,5,0,0,Win,3,7167
+1962-0836,1962,1962-06-07,Group stage,Group,Chile,Colombia,Yugoslavia,Away,0,5,-5,0,0,Loss,0,7167
+1954-0837,1954,1954-06-16,Group stage,Group,Switzerland,Uruguay,Czechoslovakia,Home,2,0,2,0,0,Win,3,20500
+1954-0837,1954,1954-06-16,Group stage,Group,Switzerland,Czechoslovakia,Uruguay,Away,0,2,-2,0,0,Loss,0,20500
+1954-0838,1954,1954-06-16,Group stage,Group,Switzerland,Yugoslavia,France,Home,1,0,1,0,0,Win,3,16000
+1954-0838,1954,1954-06-16,Group stage,Group,Switzerland,France,Yugoslavia,Away,0,1,-1,0,0,Loss,0,16000
+1962-0839,1962,1962-06-06,Group stage,Group,Chile,West Germany,Chile,Home,2,0,2,0,0,Win,3,67224
+1962-0839,1962,1962-06-06,Group stage,Group,Chile,Chile,West Germany,Away,0,2,-2,0,0,Loss,0,67224
+2006-0840,2006,2006-06-15,Group stage,Group,Germany,Sweden,Paraguay,Home,1,0,1,0,0,Win,3,72000
+2006-0840,2006,2006-06-15,Group stage,Group,Germany,Paraguay,Sweden,Away,0,1,-1,0,0,Loss,0,72000
+1950-0841,1950,1950-07-02,Group stage,Group,Brazil,Spain,England,Home,1,0,1,0,0,Win,3,74462
+1950-0841,1950,1950-07-02,Group stage,Group,Brazil,England,Spain,Away,0,1,-1,0,0,Loss,0,74462
+1950-0842,1950,1950-07-02,Group stage,Group,Brazil,Switzerland,Mexico,Home,2,1,1,0,0,Win,3,3580
+1950-0842,1950,1950-07-02,Group stage,Group,Brazil,Mexico,Switzerland,Away,1,2,-1,0,0,Loss,0,3580
+1950-0843,1950,1950-07-01,Group stage,Group,Brazil,Brazil,Yugoslavia,Home,2,0,2,0,0,Win,3,142429
+1950-0843,1950,1950-07-01,Group stage,Group,Brazil,Yugoslavia,Brazil,Away,0,2,-2,0,0,Loss,0,142429
+1950-0844,1950,1950-06-29,Group stage,Group,Brazil,Spain,Chile,Home,2,0,2,0,0,Win,3,19790
+1950-0844,1950,1950-06-29,Group stage,Group,Brazil,Chile,Spain,Away,0,2,-2,0,0,Loss,0,19790
+1950-0845,1950,1950-06-29,Group stage,Group,Brazil,United States,England,Home,1,0,1,0,0,Win,3,10151
+1950-0845,1950,1950-06-29,Group stage,Group,Brazil,England,United States,Away,0,1,-1,0,0,Loss,0,10151
+1950-0846,1950,1950-06-29,Group stage,Group,Brazil,Sweden,Paraguay,Home,2,2,0,0,0,Draw,1,7903
+1950-0846,1950,1950-06-29,Group stage,Group,Brazil,Paraguay,Sweden,Away,2,2,0,0,0,Draw,1,7903
+1950-0847,1950,1950-06-28,Group stage,Group,Brazil,Brazil,Switzerland,Home,2,2,0,0,0,Draw,1,42032
+1950-0847,1950,1950-06-28,Group stage,Group,Brazil,Switzerland,Brazil,Away,2,2,0,0,0,Draw,1,42032
+1950-0848,1950,1950-06-28,Group stage,Group,Brazil,Yugoslavia,Mexico,Home,4,1,3,0,0,Win,3,11078
+1950-0848,1950,1950-06-28,Group stage,Group,Brazil,Mexico,Yugoslavia,Away,1,4,-3,0,0,Loss,0,11078
+1950-0849,1950,1950-06-25,Group stage,Group,Brazil,Sweden,Italy,Home,3,2,1,0,0,Win,3,36502
+1950-0849,1950,1950-06-25,Group stage,Group,Brazil,Italy,Sweden,Away,2,3,-1,0,0,Loss,0,36502
+1950-0850,1950,1950-06-25,Group stage,Group,Brazil,England,Chile,Home,2,0,2,0,0,Win,3,29703
+1950-0850,1950,1950-06-25,Group stage,Group,Brazil,Chile,England,Away,0,2,-2,0,0,Loss,0,29703
+1950-0851,1950,1950-06-25,Group stage,Group,Brazil,Spain,United States,Home,3,1,2,0,0,Win,3,9511
+1950-0851,1950,1950-06-25,Group stage,Group,Brazil,United States,Spain,Away,1,3,-2,0,0,Loss,0,9511
+1950-0852,1950,1950-06-25,Group stage,Group,Brazil,Yugoslavia,Switzerland,Home,3,0,3,0,0,Win,3,7336
+1950-0852,1950,1950-06-25,Group stage,Group,Brazil,Switzerland,Yugoslavia,Away,0,3,-3,0,0,Loss,0,7336
+1950-0853,1950,1950-06-24,Group stage,Group,Brazil,Brazil,Mexico,Home,4,0,4,0,0,Win,3,81649
+1950-0853,1950,1950-06-24,Group stage,Group,Brazil,Mexico,Brazil,Away,0,4,-4,0,0,Loss,0,81649
+1938-0854,1938,1938-06-19,Third-place match,Placement,France,Brazil,Sweden,Home,4,2,2,0,0,Win,3,12000
+1938-0854,1938,1938-06-19,Third-place match,Placement,France,Sweden,Brazil,Away,2,4,-2,0,0,Loss,0,12000
+1938-0855,1938,1938-06-19,Final,Final,France,Italy,Hungary,Home,4,2,2,0,0,Win,3,45000
+1938-0855,1938,1938-06-19,Final,Final,France,Hungary,Italy,Away,2,4,-2,0,0,Loss,0,45000
+1938-0856,1938,1938-06-16,Semi-finals,Knockout,France,Hungary,Sweden,Home,5,1,4,0,0,Win,3,20000
+1938-0856,1938,1938-06-16,Semi-finals,Knockout,France,Sweden,Hungary,Away,1,5,-4,0,0,Loss,0,20000
+1938-0857,1938,1938-06-16,Semi-finals,Knockout,France,Italy,Brazil,Home,2,1,1,0,0,Win,3,33000
+1938-0857,1938,1938-06-16,Semi-finals,Knockout,France,Brazil,Italy,Away,1,2,-1,0,0,Loss,0,33000
+1938-0858,1938,1938-06-14,Quarter-finals,Knockout,France,Brazil,Czechoslovakia,Home,2,1,1,0,0,Win,3,18141
+1938-0858,1938,1938-06-14,Quarter-finals,Knockout,France,Czechoslovakia,Brazil,Away,1,2,-1,0,0,Loss,0,18141
+1938-0859,1938,1938-06-12,Quarter-finals,Knockout,France,Sweden,Cuba,Home,8,0,8,0,0,Win,3,7000
+1938-0859,1938,1938-06-12,Quarter-finals,Knockout,France,Cuba,Sweden,Away,0,8,-8,0,0,Loss,0,7000
+1938-0860,1938,1938-06-12,Quarter-finals,Knockout,France,Brazil,Czechoslovakia,Home,1,1,0,0,0,Draw,1,22021
+1938-0860,1938,1938-06-12,Quarter-finals,Knockout,France,Czechoslovakia,Brazil,Away,1,1,0,0,0,Draw,1,22021
+1938-0861,1938,1938-06-12,Quarter-finals,Knockout,France,Hungary,Switzerland,Home,2,0,2,0,0,Win,3,15000
+1938-0861,1938,1938-06-12,Quarter-finals,Knockout,France,Switzerland,Hungary,Away,0,2,-2,0,0,Loss,0,15000
+1938-0862,1938,1938-06-12,Quarter-finals,Knockout,France,Italy,France,Home,3,1,2,0,0,Win,3,58455
+1938-0862,1938,1938-06-12,Quarter-finals,Knockout,France,France,Italy,Away,1,3,-2,0,0,Loss,0,58455
+1938-0863,1938,1938-06-09,Round of 16,Knockout,France,Switzerland,Germany,Home,4,2,2,0,0,Win,3,20025
+1938-0863,1938,1938-06-09,Round of 16,Knockout,France,Germany,Switzerland,Away,2,4,-2,0,0,Loss,0,20025
+1938-0864,1938,1938-06-09,Round of 16,Knockout,France,Cuba,Romania,Home,2,1,1,0,0,Win,3,8000
+1938-0864,1938,1938-06-09,Round of 16,Knockout,France,Romania,Cuba,Away,1,2,-1,0,0,Loss,0,8000
+1938-0865,1938,1938-06-05,Round of 16,Knockout,France,Italy,Norway,Home,2,1,1,0,0,Win,3,19000
+1938-0865,1938,1938-06-05,Round of 16,Knockout,France,Norway,Italy,Away,1,2,-1,0,0,Loss,0,19000
+1938-0866,1938,1938-06-05,Round of 16,Knockout,France,Cuba,Romania,Home,3,3,0,0,0,Draw,1,7000
+1938-0866,1938,1938-06-05,Round of 16,Knockout,France,Romania,Cuba,Away,3,3,0,0,0,Draw,1,7000
+1938-0867,1938,1938-06-05,Round of 16,Knockout,France,Hungary,Dutch East Indies,Home,6,0,6,0,0,Win,3,9000
+1938-0867,1938,1938-06-05,Round of 16,Knockout,France,Dutch East Indies,Hungary,Away,0,6,-6,0,0,Loss,0,9000
+1938-0868,1938,1938-06-05,Round of 16,Knockout,France,France,Belgium,Home,3,1,2,0,0,Win,3,30454
+1938-0868,1938,1938-06-05,Round of 16,Knockout,France,Belgium,France,Away,1,3,-2,0,0,Loss,0,30454
+1938-0869,1938,1938-06-05,Round of 16,Knockout,France,Brazil,Poland,Home,6,5,1,0,0,Win,3,13452
+1938-0869,1938,1938-06-05,Round of 16,Knockout,France,Poland,Brazil,Away,5,6,-1,0,0,Loss,0,13452
+1938-0870,1938,1938-06-05,Round of 16,Knockout,France,Czechoslovakia,Netherlands,Home,3,0,3,0,0,Win,3,11000
+1938-0870,1938,1938-06-05,Round of 16,Knockout,France,Netherlands,Czechoslovakia,Away,0,3,-3,0,0,Loss,0,11000
+1938-0871,1938,1938-06-04,Round of 16,Knockout,France,Switzerland,Germany,Home,1,1,0,0,0,Draw,1,27152
+1938-0871,1938,1938-06-04,Round of 16,Knockout,France,Germany,Switzerland,Away,1,1,0,0,0,Draw,1,27152
+1934-0872,1934,1934-06-10,Final,Final,Italy,Italy,Czechoslovakia,Home,2,1,1,0,0,Win,3,55000
+1934-0872,1934,1934-06-10,Final,Final,Italy,Czechoslovakia,Italy,Away,1,2,-1,0,0,Loss,0,55000
+1934-0873,1934,1934-06-07,Third-place match,Placement,Italy,Germany,Austria,Home,3,2,1,0,0,Win,3,7000
+1934-0873,1934,1934-06-07,Third-place match,Placement,Italy,Austria,Germany,Away,2,3,-1,0,0,Loss,0,7000
+1934-0874,1934,1934-06-03,Semi-finals,Knockout,Italy,Czechoslovakia,Germany,Home,3,1,2,0,0,Win,3,15000
+1934-0874,1934,1934-06-03,Semi-finals,Knockout,Italy,Germany,Czechoslovakia,Away,1,3,-2,0,0,Loss,0,15000
+1934-0875,1934,1934-06-03,Semi-finals,Knockout,Italy,Italy,Austria,Home,1,0,1,0,0,Win,3,35000
+1934-0875,1934,1934-06-03,Semi-finals,Knockout,Italy,Austria,Italy,Away,0,1,-1,0,0,Loss,0,35000
+1934-0876,1934,1934-06-01,Quarter-finals,Knockout,Italy,Italy,Spain,Home,1,0,1,0,0,Win,3,43000
+1934-0876,1934,1934-06-01,Quarter-finals,Knockout,Italy,Spain,Italy,Away,0,1,-1,0,0,Loss,0,43000
+1934-0877,1934,1934-05-31,Quarter-finals,Knockout,Italy,Austria,Hungary,Home,2,1,1,0,0,Win,3,23000
+1934-0877,1934,1934-05-31,Quarter-finals,Knockout,Italy,Hungary,Austria,Away,1,2,-1,0,0,Loss,0,23000
+1934-0878,1934,1934-05-31,Quarter-finals,Knockout,Italy,Czechoslovakia,Switzerland,Home,3,2,1,0,0,Win,3,12000
+1934-0878,1934,1934-05-31,Quarter-finals,Knockout,Italy,Switzerland,Czechoslovakia,Away,2,3,-1,0,0,Loss,0,12000
+1934-0879,1934,1934-05-31,Quarter-finals,Knockout,Italy,Italy,Spain,Home,1,1,0,0,0,Draw,1,35000
+1934-0879,1934,1934-05-31,Quarter-finals,Knockout,Italy,Spain,Italy,Away,1,1,0,0,0,Draw,1,35000
+1934-0880,1934,1934-05-31,Quarter-finals,Knockout,Italy,Germany,Sweden,Home,2,1,1,0,0,Win,3,3000
+1934-0880,1934,1934-05-31,Quarter-finals,Knockout,Italy,Sweden,Germany,Away,1,2,-1,0,0,Loss,0,3000
+1974-0881,1974,1974-06-14,First round,Group,Germany,Zaire,Scotland,Home,0,2,-2,0,0,Loss,0,27000
+1974-0881,1974,1974-06-14,First round,Group,Germany,Scotland,Zaire,Away,2,0,2,0,0,Win,3,27000
+1974-0882,1974,1974-06-13,First round,Group,Germany,Brazil,Yugoslavia,Home,0,0,0,0,0,Draw,1,62000
+1974-0882,1974,1974-06-13,First round,Group,Germany,Yugoslavia,Brazil,Away,0,0,0,0,0,Draw,1,62000
+1970-0883,1970,1970-06-21,Final,Final,Mexico,Brazil,Italy,Home,4,1,3,0,0,Win,3,107412
+1970-0883,1970,1970-06-21,Final,Final,Mexico,Italy,Brazil,Away,1,4,-3,0,0,Loss,0,107412
+1970-0884,1970,1970-06-20,Third-place match,Placement,Mexico,West Germany,Uruguay,Home,1,0,1,0,0,Win,3,104403
+1970-0884,1970,1970-06-20,Third-place match,Placement,Mexico,Uruguay,West Germany,Away,0,1,-1,0,0,Loss,0,104403
+1962-0885,1962,1962-06-06,Group stage,Group,Chile,Soviet Union,Uruguay,Home,2,1,1,0,0,Win,3,9973
+1962-0885,1962,1962-06-06,Group stage,Group,Chile,Uruguay,Soviet Union,Away,1,2,-1,0,0,Loss,0,9973
+1962-0886,1962,1962-06-06,Group stage,Group,Chile,Hungary,Argentina,Home,0,0,0,0,0,Draw,1,7945
+1962-0886,1962,1962-06-06,Group stage,Group,Chile,Argentina,Hungary,Away,0,0,0,0,0,Draw,1,7945
+1962-0887,1962,1962-06-06,Group stage,Group,Chile,Brazil,Spain,Home,2,1,1,0,0,Win,3,18715
+1962-0887,1962,1962-06-06,Group stage,Group,Chile,Spain,Brazil,Away,1,2,-1,0,0,Loss,0,18715
+1962-0888,1962,1962-06-03,Group stage,Group,Chile,Spain,Mexico,Home,1,0,1,0,0,Win,3,11875
+1962-0888,1962,1962-06-03,Group stage,Group,Chile,Mexico,Spain,Away,0,1,-1,0,0,Loss,0,11875
+1962-0889,1962,1962-06-03,Group stage,Group,Chile,Soviet Union,Colombia,Home,4,4,0,0,0,Draw,1,8040
+1962-0889,1962,1962-06-03,Group stage,Group,Chile,Colombia,Soviet Union,Away,4,4,0,0,0,Draw,1,8040
+1962-0890,1962,1962-06-03,Group stage,Group,Chile,Hungary,Bulgaria,Home,6,1,5,0,0,Win,3,7442
+1962-0890,1962,1962-06-03,Group stage,Group,Chile,Bulgaria,Hungary,Away,1,6,-5,0,0,Loss,0,7442
+1962-0891,1962,1962-06-03,Group stage,Group,Chile,West Germany,Switzerland,Home,2,1,1,0,0,Win,3,64922
+1962-0891,1962,1962-06-03,Group stage,Group,Chile,Switzerland,West Germany,Away,1,2,-1,0,0,Loss,0,64922
+1954-0892,1954,1954-06-16,Group stage,Group,Switzerland,Brazil,Mexico,Home,5,0,5,0,0,Win,3,13470
+1954-0892,1954,1954-06-16,Group stage,Group,Switzerland,Mexico,Brazil,Away,0,5,-5,0,0,Loss,0,13470
+1962-0893,1962,1962-06-02,Group stage,Group,Chile,Chile,Italy,Home,2,0,2,0,0,Win,3,66057
+1962-0893,1962,1962-06-02,Group stage,Group,Chile,Italy,Chile,Away,0,2,-2,0,0,Loss,0,66057
+1954-0894,1954,1954-06-16,Group stage,Group,Switzerland,Austria,Scotland,Home,1,0,1,0,0,Win,3,25000
+1954-0894,1954,1954-06-16,Group stage,Group,Switzerland,Scotland,Austria,Away,0,1,-1,0,0,Loss,0,25000
+1962-0895,1962,1962-06-02,Group stage,Group,Chile,Brazil,Czechoslovakia,Home,0,0,0,0,0,Draw,1,14903
+1962-0895,1962,1962-06-02,Group stage,Group,Chile,Czechoslovakia,Brazil,Away,0,0,0,0,0,Draw,1,14903
+1950-0896,1950,1950-07-16,Final stage,Final,Brazil,Sweden,Spain,Home,3,1,2,0,0,Win,3,11227
+1950-0896,1950,1950-07-16,Final stage,Final,Brazil,Spain,Sweden,Away,1,3,-2,0,0,Loss,0,11227
+1950-0897,1950,1950-07-16,Final stage,Final,Brazil,Uruguay,Brazil,Home,2,1,1,0,0,Win,3,173850
+1950-0897,1950,1950-07-16,Final stage,Final,Brazil,Brazil,Uruguay,Away,1,2,-1,0,0,Loss,0,173850
+1962-0898,1962,1962-06-02,Group stage,Group,Chile,England,Argentina,Home,3,1,2,0,0,Win,3,9794
+1962-0898,1962,1962-06-02,Group stage,Group,Chile,Argentina,England,Away,1,3,-2,0,0,Loss,0,9794
+1950-0899,1950,1950-07-13,Final stage,Final,Brazil,Brazil,Spain,Home,6,1,5,0,0,Win,3,152772
+1950-0899,1950,1950-07-13,Final stage,Final,Brazil,Spain,Brazil,Away,1,6,-5,0,0,Loss,0,152772
+1950-0900,1950,1950-07-13,Final stage,Final,Brazil,Uruguay,Sweden,Home,3,2,1,0,0,Win,3,7987
+1950-0900,1950,1950-07-13,Final stage,Final,Brazil,Sweden,Uruguay,Away,2,3,-1,0,0,Loss,0,7987
+1950-0901,1950,1950-07-09,Final stage,Final,Brazil,Brazil,Sweden,Home,7,1,6,0,0,Win,3,138886
+1950-0901,1950,1950-07-09,Final stage,Final,Brazil,Sweden,Brazil,Away,1,7,-6,0,0,Loss,0,138886
+1950-0902,1950,1950-07-09,Final stage,Final,Brazil,Uruguay,Spain,Home,2,2,0,0,0,Draw,1,44802
+1950-0902,1950,1950-07-09,Final stage,Final,Brazil,Spain,Uruguay,Away,2,2,0,0,0,Draw,1,44802
+1962-0903,1962,1962-06-02,Group stage,Group,Chile,Yugoslavia,Uruguay,Home,3,1,2,0,0,Win,3,8829
+1962-0903,1962,1962-06-02,Group stage,Group,Chile,Uruguay,Yugoslavia,Away,1,3,-2,0,0,Loss,0,8829
+1962-0904,1962,1962-05-31,Group stage,Group,Chile,West Germany,Italy,Home,0,0,0,0,0,Draw,1,65440
+1962-0904,1962,1962-05-31,Group stage,Group,Chile,Italy,West Germany,Away,0,0,0,0,0,Draw,1,65440
+1962-0905,1962,1962-05-31,Group stage,Group,Chile,Hungary,England,Home,2,1,1,0,0,Win,3,7938
+1962-0905,1962,1962-05-31,Group stage,Group,Chile,England,Hungary,Away,1,2,-1,0,0,Loss,0,7938
+1962-0906,1962,1962-05-31,Group stage,Group,Chile,Czechoslovakia,Spain,Home,1,0,1,0,0,Win,3,12700
+1962-0906,1962,1962-05-31,Group stage,Group,Chile,Spain,Czechoslovakia,Away,0,1,-1,0,0,Loss,0,12700
+1950-0907,1950,1950-07-02,Group stage,Group,Brazil,Chile,United States,Home,5,2,3,0,0,Win,3,8501
+1950-0907,1950,1950-07-02,Group stage,Group,Brazil,United States,Chile,Away,2,5,-3,0,0,Loss,0,8501
+1950-0908,1950,1950-07-02,Group stage,Group,Brazil,Italy,Paraguay,Home,2,0,2,0,0,Win,3,25811
+1950-0908,1950,1950-07-02,Group stage,Group,Brazil,Paraguay,Italy,Away,0,2,-2,0,0,Loss,0,25811
+1950-0909,1950,1950-07-02,Group stage,Group,Brazil,Uruguay,Bolivia,Home,8,0,8,0,0,Win,3,5284
+1950-0909,1950,1950-07-02,Group stage,Group,Brazil,Bolivia,Uruguay,Away,0,8,-8,0,0,Loss,0,5284
+1962-0910,1962,1962-05-31,Group stage,Group,Chile,Soviet Union,Yugoslavia,Home,2,0,2,0,0,Win,3,9622
+1962-0910,1962,1962-05-31,Group stage,Group,Chile,Yugoslavia,Soviet Union,Away,0,2,-2,0,0,Loss,0,9622
+1962-0911,1962,1962-05-30,Group stage,Group,Chile,Chile,Switzerland,Home,3,1,2,0,0,Win,3,65006
+1962-0911,1962,1962-05-30,Group stage,Group,Chile,Switzerland,Chile,Away,1,3,-2,0,0,Loss,0,65006
+1962-0912,1962,1962-05-30,Group stage,Group,Chile,Uruguay,Colombia,Home,2,1,1,0,0,Win,3,7908
+1962-0912,1962,1962-05-30,Group stage,Group,Chile,Colombia,Uruguay,Away,1,2,-1,0,0,Loss,0,7908
+1962-0913,1962,1962-05-30,Group stage,Group,Chile,Brazil,Mexico,Home,2,0,2,0,0,Win,3,10484
+1962-0913,1962,1962-05-30,Group stage,Group,Chile,Mexico,Brazil,Away,0,2,-2,0,0,Loss,0,10484
+1962-0914,1962,1962-05-30,Group stage,Group,Chile,Argentina,Bulgaria,Home,1,0,1,0,0,Win,3,7134
+1962-0914,1962,1962-05-30,Group stage,Group,Chile,Bulgaria,Argentina,Away,0,1,-1,0,0,Loss,0,7134
+1958-0915,1958,1958-06-29,Final,Final,Sweden,Brazil,Sweden,Home,5,2,3,0,0,Win,3,49737
+1958-0915,1958,1958-06-29,Final,Final,Sweden,Sweden,Brazil,Away,2,5,-3,0,0,Loss,0,49737
+1958-0916,1958,1958-06-28,Third-place match,Placement,Sweden,France,West Germany,Home,6,3,3,0,0,Win,3,32483
+1958-0916,1958,1958-06-28,Third-place match,Placement,Sweden,West Germany,France,Away,3,6,-3,0,0,Loss,0,32483
+1958-0917,1958,1958-06-24,Semi-finals,Knockout,Sweden,Sweden,West Germany,Home,3,1,2,0,0,Win,3,49471
+1958-0917,1958,1958-06-24,Semi-finals,Knockout,Sweden,West Germany,Sweden,Away,1,3,-2,0,0,Loss,0,49471
+1934-0918,1934,1934-05-27,Round of 16,Knockout,Italy,Czechoslovakia,Romania,Home,2,1,1,0,0,Win,3,9000
+1934-0918,1934,1934-05-27,Round of 16,Knockout,Italy,Romania,Czechoslovakia,Away,1,2,-1,0,0,Loss,0,9000
+1934-0919,1934,1934-05-27,Round of 16,Knockout,Italy,Hungary,Egypt,Home,4,2,2,0,0,Win,3,9000
+1934-0919,1934,1934-05-27,Round of 16,Knockout,Italy,Egypt,Hungary,Away,2,4,-2,0,0,Loss,0,9000
+1934-0920,1934,1934-05-27,Round of 16,Knockout,Italy,Austria,France,Home,3,2,1,0,0,Win,3,16000
+1934-0920,1934,1934-05-27,Round of 16,Knockout,Italy,France,Austria,Away,2,3,-1,0,0,Loss,0,16000
+1934-0921,1934,1934-05-27,Round of 16,Knockout,Italy,Switzerland,Netherlands,Home,3,2,1,0,0,Win,3,33000
+1934-0921,1934,1934-05-27,Round of 16,Knockout,Italy,Netherlands,Switzerland,Away,2,3,-1,0,0,Loss,0,33000
+1970-0922,1970,1970-06-17,Semi-finals,Knockout,Mexico,Italy,West Germany,Home,4,3,1,0,0,Win,3,102444
+1970-0922,1970,1970-06-17,Semi-finals,Knockout,Mexico,West Germany,Italy,Away,3,4,-1,0,0,Loss,0,102444
+1970-0923,1970,1970-06-17,Semi-finals,Knockout,Mexico,Brazil,Uruguay,Home,3,1,2,0,0,Win,3,51261
+1970-0923,1970,1970-06-17,Semi-finals,Knockout,Mexico,Uruguay,Brazil,Away,1,3,-2,0,0,Loss,0,51261
+1970-0924,1970,1970-06-14,Quarter-finals,Knockout,Mexico,Brazil,Peru,Home,4,2,2,0,0,Win,3,54233
+1970-0924,1970,1970-06-14,Quarter-finals,Knockout,Mexico,Peru,Brazil,Away,2,4,-2,0,0,Loss,0,54233
+1970-0925,1970,1970-06-14,Quarter-finals,Knockout,Mexico,Italy,Mexico,Home,4,1,3,0,0,Win,3,26851
+1970-0925,1970,1970-06-14,Quarter-finals,Knockout,Mexico,Mexico,Italy,Away,1,4,-3,0,0,Loss,0,26851
+1970-0926,1970,1970-06-14,Quarter-finals,Knockout,Mexico,Uruguay,Soviet Union,Home,1,0,1,0,0,Win,3,26085
+1970-0926,1970,1970-06-14,Quarter-finals,Knockout,Mexico,Soviet Union,Uruguay,Away,0,1,-1,0,0,Loss,0,26085
+1970-0927,1970,1970-06-14,Quarter-finals,Knockout,Mexico,West Germany,England,Home,3,2,1,0,0,Win,3,23357
+1970-0927,1970,1970-06-14,Quarter-finals,Knockout,Mexico,England,West Germany,Away,2,3,-1,0,0,Loss,0,23357
+1970-0928,1970,1970-06-11,Group stage,Group,Mexico,Mexico,Belgium,Home,1,0,1,0,0,Win,3,108192
+1970-0928,1970,1970-06-11,Group stage,Group,Mexico,Belgium,Mexico,Away,0,1,-1,0,0,Loss,0,108192
+1970-0929,1970,1970-06-11,Group stage,Group,Mexico,Italy,Israel,Home,0,0,0,0,0,Draw,1,9890
+1970-0929,1970,1970-06-11,Group stage,Group,Mexico,Israel,Italy,Away,0,0,0,0,0,Draw,1,9890
+1970-0930,1970,1970-06-11,Group stage,Group,Mexico,Bulgaria,Morocco,Home,1,1,0,0,0,Draw,1,12299
+1970-0930,1970,1970-06-11,Group stage,Group,Mexico,Morocco,Bulgaria,Away,1,1,0,0,0,Draw,1,12299
+1970-0931,1970,1970-06-11,Group stage,Group,Mexico,England,Czechoslovakia,Home,1,0,1,0,0,Win,3,49292
+1970-0931,1970,1970-06-11,Group stage,Group,Mexico,Czechoslovakia,England,Away,0,1,-1,0,0,Loss,0,49292
+1970-0932,1970,1970-06-10,Group stage,Group,Mexico,West Germany,Peru,Home,3,1,2,0,0,Win,3,17875
+1970-0932,1970,1970-06-10,Group stage,Group,Mexico,Peru,West Germany,Away,1,3,-2,0,0,Loss,0,17875
+1970-0933,1970,1970-06-10,Group stage,Group,Mexico,Brazil,Romania,Home,3,2,1,0,0,Win,3,50804
+1970-0933,1970,1970-06-10,Group stage,Group,Mexico,Romania,Brazil,Away,2,3,-1,0,0,Loss,0,50804
+1970-0934,1970,1970-06-10,Group stage,Group,Mexico,Sweden,Uruguay,Home,1,0,1,0,0,Win,3,18163
+1970-0934,1970,1970-06-10,Group stage,Group,Mexico,Uruguay,Sweden,Away,0,1,-1,0,0,Loss,0,18163
+1970-0935,1970,1970-06-10,Group stage,Group,Mexico,Soviet Union,El Salvador,Home,2,0,2,0,0,Win,3,89979
+1970-0935,1970,1970-06-10,Group stage,Group,Mexico,El Salvador,Soviet Union,Away,0,2,-2,0,0,Loss,0,89979
+1970-0936,1970,1970-06-07,Group stage,Group,Mexico,Mexico,El Salvador,Home,4,0,4,0,0,Win,3,103058
+1970-0936,1970,1970-06-07,Group stage,Group,Mexico,El Salvador,Mexico,Away,0,4,-4,0,0,Loss,0,103058
+1970-0937,1970,1970-06-07,Group stage,Group,Mexico,Brazil,England,Home,1,0,1,0,0,Win,3,66843
+1970-0937,1970,1970-06-07,Group stage,Group,Mexico,England,Brazil,Away,0,1,-1,0,0,Loss,0,66843
+1934-0938,1934,1934-05-27,Round of 16,Knockout,Italy,Sweden,Argentina,Home,3,2,1,0,0,Win,3,14000
+1934-0938,1934,1934-05-27,Round of 16,Knockout,Italy,Argentina,Sweden,Away,2,3,-1,0,0,Loss,0,14000
+1934-0939,1934,1934-05-27,Round of 16,Knockout,Italy,Spain,Brazil,Home,3,1,2,0,0,Win,3,21000
+1934-0939,1934,1934-05-27,Round of 16,Knockout,Italy,Brazil,Spain,Away,1,3,-2,0,0,Loss,0,21000
+1934-0940,1934,1934-05-27,Round of 16,Knockout,Italy,Germany,Belgium,Home,5,2,3,0,0,Win,3,8000
+1934-0940,1934,1934-05-27,Round of 16,Knockout,Italy,Belgium,Germany,Away,2,5,-3,0,0,Loss,0,8000
+1934-0941,1934,1934-05-27,Round of 16,Knockout,Italy,Italy,United States,Home,7,1,6,0,0,Win,3,25000
+1934-0941,1934,1934-05-27,Round of 16,Knockout,Italy,United States,Italy,Away,1,7,-6,0,0,Loss,0,25000
+1930-0942,1930,1930-07-30,Final,Final,Uruguay,Uruguay,Argentina,Home,4,2,2,0,0,Win,3,68346
+1930-0942,1930,1930-07-30,Final,Final,Uruguay,Argentina,Uruguay,Away,2,4,-2,0,0,Loss,0,68346
+1930-0943,1930,1930-07-27,Semi-finals,Knockout,Uruguay,Uruguay,Yugoslavia,Home,6,1,5,0,0,Win,3,79867
+1930-0943,1930,1930-07-27,Semi-finals,Knockout,Uruguay,Yugoslavia,Uruguay,Away,1,6,-5,0,0,Loss,0,79867
+1930-0944,1930,1930-07-26,Semi-finals,Knockout,Uruguay,Argentina,United States,Home,6,1,5,0,0,Win,3,72886
+1930-0944,1930,1930-07-26,Semi-finals,Knockout,Uruguay,United States,Argentina,Away,1,6,-5,0,0,Loss,0,72886
+1930-0945,1930,1930-07-22,Group stage,Group,Uruguay,Argentina,Chile,Home,3,1,2,0,0,Win,3,41459
+1930-0945,1930,1930-07-22,Group stage,Group,Uruguay,Chile,Argentina,Away,1,3,-2,0,0,Loss,0,41459
+1930-0946,1930,1930-07-21,Group stage,Group,Uruguay,Uruguay,Romania,Home,4,0,4,0,0,Win,3,70022
+1930-0946,1930,1930-07-21,Group stage,Group,Uruguay,Romania,Uruguay,Away,0,4,-4,0,0,Loss,0,70022
+1930-0947,1930,1930-07-20,Group stage,Group,Uruguay,Brazil,Bolivia,Home,4,0,4,0,0,Win,3,25466
+1930-0947,1930,1930-07-20,Group stage,Group,Uruguay,Bolivia,Brazil,Away,0,4,-4,0,0,Loss,0,25466
+1930-0948,1930,1930-07-20,Group stage,Group,Uruguay,Paraguay,Belgium,Home,1,0,1,0,0,Win,3,12000
+1930-0948,1930,1930-07-20,Group stage,Group,Uruguay,Belgium,Paraguay,Away,0,1,-1,0,0,Loss,0,12000
+1930-0949,1930,1930-07-19,Group stage,Group,Uruguay,Chile,France,Home,1,0,1,0,0,Win,3,2000
+1930-0949,1930,1930-07-19,Group stage,Group,Uruguay,France,Chile,Away,0,1,-1,0,0,Loss,0,2000
+1970-0950,1970,1970-06-07,Group stage,Group,Mexico,West Germany,Bulgaria,Home,5,2,3,0,0,Win,3,12710
+1970-0950,1970,1970-06-07,Group stage,Group,Mexico,Bulgaria,West Germany,Away,2,5,-3,0,0,Loss,0,12710
+1970-0951,1970,1970-06-07,Group stage,Group,Mexico,Sweden,Israel,Home,1,1,0,0,0,Draw,1,9624
+1970-0951,1970,1970-06-07,Group stage,Group,Mexico,Israel,Sweden,Away,1,1,0,0,0,Draw,1,9624
+1970-0952,1970,1970-06-06,Group stage,Group,Mexico,Romania,Czechoslovakia,Home,2,1,1,0,0,Win,3,56818
+1970-0952,1970,1970-06-06,Group stage,Group,Mexico,Czechoslovakia,Romania,Away,1,2,-1,0,0,Loss,0,56818
+1970-0953,1970,1970-06-06,Group stage,Group,Mexico,Uruguay,Italy,Home,0,0,0,0,0,Draw,1,29968
+1970-0953,1970,1970-06-06,Group stage,Group,Mexico,Italy,Uruguay,Away,0,0,0,0,0,Draw,1,29968
+1970-0954,1970,1970-06-06,Group stage,Group,Mexico,Soviet Union,Belgium,Home,4,1,3,0,0,Win,3,95261
+1970-0954,1970,1970-06-06,Group stage,Group,Mexico,Belgium,Soviet Union,Away,1,4,-3,0,0,Loss,0,95261
+1930-0955,1930,1930-07-19,Group stage,Group,Uruguay,Argentina,Mexico,Home,6,3,3,0,0,Win,3,42100
+1930-0955,1930,1930-07-19,Group stage,Group,Uruguay,Mexico,Argentina,Away,3,6,-3,0,0,Loss,0,42100
+1930-0956,1930,1930-07-18,Group stage,Group,Uruguay,Uruguay,Peru,Home,1,0,1,0,0,Win,3,57735
+1930-0956,1930,1930-07-18,Group stage,Group,Uruguay,Peru,Uruguay,Away,0,1,-1,0,0,Loss,0,57735
+1930-0957,1930,1930-07-17,Group stage,Group,Uruguay,Yugoslavia,Bolivia,Home,4,0,4,0,0,Win,3,18306
+1930-0957,1930,1930-07-17,Group stage,Group,Uruguay,Bolivia,Yugoslavia,Away,0,4,-4,0,0,Loss,0,18306
+1930-0958,1930,1930-07-17,Group stage,Group,Uruguay,United States,Paraguay,Home,3,0,3,0,0,Win,3,18306
+1930-0958,1930,1930-07-17,Group stage,Group,Uruguay,Paraguay,United States,Away,0,3,-3,0,0,Loss,0,18306
+1930-0959,1930,1930-07-16,Group stage,Group,Uruguay,Chile,Mexico,Home,3,0,3,0,0,Win,3,9249
+1930-0959,1930,1930-07-16,Group stage,Group,Uruguay,Mexico,Chile,Away,0,3,-3,0,0,Loss,0,9249
+1930-0960,1930,1930-07-15,Group stage,Group,Uruguay,Argentina,France,Home,1,0,1,0,0,Win,3,23409
+1930-0960,1930,1930-07-15,Group stage,Group,Uruguay,France,Argentina,Away,0,1,-1,0,0,Loss,0,23409
+1930-0961,1930,1930-07-14,Group stage,Group,Uruguay,Yugoslavia,Brazil,Home,2,1,1,0,0,Win,3,24059
+1930-0961,1930,1930-07-14,Group stage,Group,Uruguay,Brazil,Yugoslavia,Away,1,2,-1,0,0,Loss,0,24059
+1930-0962,1930,1930-07-14,Group stage,Group,Uruguay,Romania,Peru,Home,3,1,2,0,0,Win,3,2549
+1930-0962,1930,1930-07-14,Group stage,Group,Uruguay,Peru,Romania,Away,1,3,-2,0,0,Loss,0,2549
+1930-0963,1930,1930-07-13,Group stage,Group,Uruguay,United States,Belgium,Home,3,0,3,0,0,Win,3,18346
+1930-0963,1930,1930-07-13,Group stage,Group,Uruguay,Belgium,United States,Away,0,3,-3,0,0,Loss,0,18346
+1930-0964,1930,1930-07-13,Group stage,Group,Uruguay,France,Mexico,Home,4,1,3,0,0,Win,3,4444
+1930-0964,1930,1930-07-13,Group stage,Group,Uruguay,Mexico,France,Away,1,4,-3,0,0,Loss,0,4444

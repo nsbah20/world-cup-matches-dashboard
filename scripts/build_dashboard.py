@@ -7,7 +7,7 @@ import pandas as pd
 
 
 ROOT = Path(__file__).resolve().parents[1]
-DATA = ROOT.parent / "outputs" / "wc_matches_cleaned"
+DATA = ROOT / "data"
 DIST = ROOT / "dist"
 
 
