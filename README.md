@@ -1,4 +1,4 @@
-# World Cup Matches Dashboard
+# Adama’s Football Data Hub
 
 Interactive dashboard for cleaned FIFA World Cup match data from 1930 through 2022.
 

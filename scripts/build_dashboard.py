@@ -45,7 +45,7 @@ HTML = r"""<!doctype html>
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>World Cup Matches Dashboard</title>
+  <title>Adama’s Football Data Hub</title>
   <style>
     :root {
       --ink: #142536;
@@ -107,7 +107,7 @@ HTML = r"""<!doctype html>
 </head>
 <body>
   <header>
-    <h1>World Cup Matches Dashboard</h1>
+    <h1>Adama’s Football Data Hub</h1>
     <p>Explore cleaned FIFA World Cup match results, tournament trends, team performance, scorers, venues, attendance, and data-quality checks from 1930 through 2022.</p>
   </header>
   <main>
